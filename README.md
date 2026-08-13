@@ -136,7 +136,7 @@
 [scroll to top](#readme)
 
 * [SlideOverCard](https://github.com/joogps/SlideOverCard) ⭐ 1,221 | 🐛 11 | 🌐 Swift | 📅 2024-03-29 - A SwiftUI card view, made great for setup interactions.
-* [DeckKit](https://github.com/danielsaidi/DeckKit) ⭐ 885 | 🐛 4 | 🌐 Swift | 📅 2026-06-09 - DeckKit is a tiny library that helps you create card-based apps in SwiftUI.
+* [DeckKit](https://github.com/danielsaidi/DeckKit) ⭐ 886 | 🐛 4 | 🌐 Swift | 📅 2026-06-09 - DeckKit is a tiny library that helps you create card-based apps in SwiftUI.
 * [SwiftUI-CardStackView](https://github.com/dadalar/SwiftUI-CardStackView) ⭐ 641 | 🐛 9 | 🌐 Swift | 📅 2025-02-11 - A easy-to-use SwiftUI view for Tinder like cards on iOS, macOS & watchOS
 * [swipeable-cards](https://github.com/Volorf/swipeable-cards) ⭐ 229 | 🐛 0 | 🌐 Swift | 📅 2021-07-05 - Swipeable Cards with SwiftUI
 * [RGStack](https://github.com/terminatorover/RGStack) ⭐ 129 | 🐛 1 | 🌐 Swift | 📅 2021-03-06 - This UI attempts to capture the Quibi Card Stack and the associated User Interaction
@@ -210,7 +210,7 @@
 
 [scroll to top](#readme)
 
-* [SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) ⭐ 8,128 | 🐛 30 | 🌐 Swift | 📅 2026-08-09 - An extension to the standard SwiftUI library.
+* [SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) ⭐ 8,129 | 🐛 30 | 🌐 Swift | 📅 2026-08-09 - An extension to the standard SwiftUI library.
 * [MijickTimer](https://github.com/Mijick/Timer) ⭐ 205 | 🐛 1 | 🌐 Swift | 📅 2025-05-14 - Modern API for Timer
 * [ViewCondition](https://github.com/tokijh/ViewCondition) ⭐ 105 | 🐛 0 | 🌐 Swift | 📅 2021-09-30 - Super sweet syntactic sugar for SwiftUI.View initializers.
 * [SwiftSafeUI](https://github.com/BaherTamer/SwiftSafeUI) ⭐ 38 | 🐛 0 | 🌐 Swift | 📅 2025-07-16 - Encapsulates your SwiftUI deprecation handling logic.
@@ -288,7 +288,7 @@
 
 * [DotGlobe](https://github.com/inventhq/dot-globe) ⭐ 124 | 🐛 2 | 🌐 Swift | 📅 2023-08-22 - A Library to that draws a dotted earth map to a globe and allows you to interract with it
 * [InteractiveMap](https://github.com/grandsir/InteractiveMap) ⭐ 120 | 🐛 4 | 🌐 Swift | 📅 2023-12-06 - A Library to draw interactive maps and SVGs in SwiftUI
-* [ImmersiveMap](https://github.com/artembobkin/ImmersiveMap) ⭐ 88 | 🐛 3 | 🌐 Swift | 📅 2026-08-12 - A native Swift + Metal vector-tile map engine for SwiftUI with a 3D globe, starfield and labels
+* [ImmersiveMap](https://github.com/artembobkin/ImmersiveMap) ⭐ 88 | 🐛 3 | 🌐 Swift | 📅 2026-08-13 - A native Swift + Metal vector-tile map engine for SwiftUI with a 3D globe, starfield and labels
 
 ## Messaging
 
@@ -494,7 +494,7 @@
 
 [scroll to top](#readme)
 
-* [MarqueeText](https://github.com/joekndy/MarqueeText) ⭐ 358 | 🐛 13 | 🌐 Swift | 📅 2025-10-10 - Marquee or "scrolling text" effect in SwiftUI
+* [MarqueeText](https://github.com/joekndy/MarqueeText) ⭐ 359 | 🐛 13 | 🌐 Swift | 📅 2025-10-10 - Marquee or "scrolling text" effect in SwiftUI
 * [TextBuilder](https://github.com/davdroman/TextBuilder) ⭐ 247 | 🐛 0 | 🌐 Swift | 📅 2026-07-14 - Like a SwiftUI ViewBuilder, but for Text
 
 ## Toast-and-Popup
@@ -526,7 +526,7 @@
 
 [scroll to top](#readme)
 
-* [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) ⭐ 4,380 | 🐛 11 | 🌐 Swift | 📅 2024-10-10 - Showcase your awesome new app features
+* [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) ⭐ 4,381 | 🐛 11 | 🌐 Swift | 📅 2024-10-10 - Showcase your awesome new app features
 
 ## Web
 

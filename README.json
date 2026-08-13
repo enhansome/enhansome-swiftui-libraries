@@ -405,7 +405,7 @@
             "last_commit": "2026-06-09T08:07:46Z",
             "owner": "danielsaidi",
             "repo": "DeckKit",
-            "stars": 885
+            "stars": 886
           }
         },
         {
@@ -817,7 +817,7 @@
             "last_commit": "2026-08-09T23:20:45Z",
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8128
+            "stars": 8129
           }
         },
         {
@@ -1354,7 +1354,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-12T14:48:38Z",
+            "last_commit": "2026-08-13T06:31:53Z",
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
             "stars": 88
@@ -2245,7 +2245,7 @@
             "last_commit": "2025-10-10T08:13:26Z",
             "owner": "joekndy",
             "repo": "MarqueeText",
-            "stars": 358
+            "stars": 359
           }
         },
         {
@@ -2453,7 +2453,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:04:06.558Z",
+    "last_updated": "2026-08-13T07:56:41.225Z",
     "original_repository": "Toni77777/awesome-swiftui-libraries",
     "original_repository_sha": "9cfe3612e7e8b763fcc248ad5fba31e58a465d34",
     "enhanced_repository": "enhansome/enhansome-swiftui-libraries",
