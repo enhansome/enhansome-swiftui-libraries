@@ -19,7 +19,7 @@
             "last_commit": "2024-08-11T16:29:07Z",
             "owner": "sparrowcode",
             "repo": "AlertKit",
-            "stars": 2632
+            "stars": 2631
           }
         },
         {
@@ -64,10 +64,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-06-16T07:09:42Z",
+            "last_commit": "2026-08-14T21:11:39Z",
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5586
+            "stars": 5585
           }
         },
         {
@@ -191,7 +191,7 @@
             "last_commit": "2026-07-08T08:22:51Z",
             "owner": "exyte",
             "repo": "FloatingButton",
-            "stars": 1266
+            "stars": 1265
           }
         },
         {
@@ -253,7 +253,7 @@
             "last_commit": "2023-12-24T19:20:38Z",
             "owner": "ThasianX",
             "repo": "ElegantCalendar",
-            "stars": 1093
+            "stars": 1092
           }
         },
         {
@@ -405,7 +405,7 @@
             "last_commit": "2026-06-09T08:07:46Z",
             "owner": "danielsaidi",
             "repo": "DeckKit",
-            "stars": 888
+            "stars": 889
           }
         },
         {
@@ -419,7 +419,7 @@
             "last_commit": "2025-02-11T11:45:22Z",
             "owner": "dadalar",
             "repo": "SwiftUI-CardStackView",
-            "stars": 641
+            "stars": 640
           }
         },
         {
@@ -433,7 +433,7 @@
             "last_commit": "2021-07-05T07:17:05Z",
             "owner": "Volorf",
             "repo": "swipeable-cards",
-            "stars": 229
+            "stars": 227
           }
         },
         {
@@ -467,7 +467,7 @@
             "last_commit": "2026-03-02T08:41:42Z",
             "owner": "AppPear",
             "repo": "ChartView",
-            "stars": 5637
+            "stars": 5638
           }
         },
         {
@@ -701,7 +701,7 @@
             "last_commit": "2026-01-05T21:47:44Z",
             "owner": "simibac",
             "repo": "ConfettiSwiftUI",
-            "stars": 2447
+            "stars": 2446
           }
         },
         {
@@ -893,7 +893,7 @@
             "last_commit": "2026-07-08T08:24:32Z",
             "owner": "exyte",
             "repo": "Grid",
-            "stars": 2099
+            "stars": 2098
           }
         },
         {
@@ -1191,7 +1191,7 @@
             "last_commit": "2026-07-17T09:28:57Z",
             "owner": "exyte",
             "repo": "ActivityIndicatorView",
-            "stars": 1662
+            "stars": 1661
           }
         },
         {
@@ -1267,7 +1267,7 @@
             "last_commit": "2025-12-28T07:33:47Z",
             "owner": "gonzalezreal",
             "repo": "swift-markdown-ui",
-            "stars": 3912
+            "stars": 3911
           }
         },
         {
@@ -1354,7 +1354,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-13T14:18:55Z",
+            "last_commit": "2026-08-14T14:48:39Z",
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
             "stars": 88
@@ -1391,7 +1391,7 @@
             "last_commit": "2025-10-10T23:18:47Z",
             "owner": "johnpatrickmorgan",
             "repo": "FlowStacks",
-            "stars": 971
+            "stars": 969
           }
         },
         {
@@ -1523,7 +1523,7 @@
             "last_commit": "2026-07-08T08:22:38Z",
             "owner": "exyte",
             "repo": "ConcentricOnboarding",
-            "stars": 1567
+            "stars": 1566
           }
         },
         {
@@ -1551,7 +1551,7 @@
             "last_commit": "2025-12-30T17:33:37Z",
             "owner": "nachonavarro",
             "repo": "Pages",
-            "stars": 866
+            "stars": 867
           }
         },
         {
@@ -1599,7 +1599,7 @@
             "last_commit": "2026-08-06T15:52:48Z",
             "owner": "exyte",
             "repo": "MediaPicker",
-            "stars": 486
+            "stars": 485
           }
         },
         {
@@ -1977,7 +1977,7 @@
             "last_commit": "2022-02-20T23:43:01Z",
             "owner": "nerdsupremacist",
             "repo": "Snap",
-            "stars": 794
+            "stars": 793
           }
         },
         {
@@ -2031,7 +2031,7 @@
             "last_commit": "2026-03-13T22:16:23Z",
             "owner": "kieranb662",
             "repo": "Sliders-SwiftUI",
-            "stars": 723
+            "stars": 722
           }
         },
         {
@@ -2093,7 +2093,7 @@
             "last_commit": "2026-07-08T08:22:13Z",
             "owner": "exyte",
             "repo": "AnimatedTabBar",
-            "stars": 546
+            "stars": 545
           }
         },
         {
@@ -2279,7 +2279,7 @@
             "last_commit": "2026-07-30T06:44:34Z",
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4061
+            "stars": 4060
           }
         },
         {
@@ -2293,7 +2293,7 @@
             "last_commit": "2025-10-22T18:52:37Z",
             "owner": "Mijick",
             "repo": "Popups",
-            "stars": 1815
+            "stars": 1816
           }
         },
         {
@@ -2321,7 +2321,7 @@
             "last_commit": "2024-08-11T01:19:51Z",
             "owner": "quanshousio",
             "repo": "ToastUI",
-            "stars": 653
+            "stars": 652
           }
         },
         {
@@ -2453,7 +2453,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T07:53:09.270Z",
+    "last_updated": "2026-08-15T07:00:30.487Z",
     "original_repository": "Toni77777/awesome-swiftui-libraries",
     "original_repository_sha": "9cfe3612e7e8b763fcc248ad5fba31e58a465d34",
     "enhanced_repository": "enhansome/enhansome-swiftui-libraries",
