@@ -19,7 +19,7 @@
             "last_commit": "2024-08-11T16:29:07Z",
             "owner": "sparrowcode",
             "repo": "AlertKit",
-            "stars": 2631
+            "stars": 2632
           }
         },
         {
@@ -67,7 +67,7 @@
             "last_commit": "2026-08-14T21:11:39Z",
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5589
+            "stars": 5592
           }
         },
         {
@@ -253,7 +253,7 @@
             "last_commit": "2023-12-24T19:20:38Z",
             "owner": "ThasianX",
             "repo": "ElegantCalendar",
-            "stars": 1092
+            "stars": 1091
           }
         },
         {
@@ -817,7 +817,7 @@
             "last_commit": "2026-08-09T23:20:45Z",
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8130
+            "stars": 8132
           }
         },
         {
@@ -1191,7 +1191,7 @@
             "last_commit": "2026-07-17T09:28:57Z",
             "owner": "exyte",
             "repo": "ActivityIndicatorView",
-            "stars": 1661
+            "stars": 1662
           }
         },
         {
@@ -1267,7 +1267,7 @@
             "last_commit": "2025-12-28T07:33:47Z",
             "owner": "gonzalezreal",
             "repo": "swift-markdown-ui",
-            "stars": 3913
+            "stars": 3914
           }
         },
         {
@@ -1329,7 +1329,7 @@
             "last_commit": "2023-08-22T10:36:25Z",
             "owner": "inventhq",
             "repo": "dot-globe",
-            "stars": 124
+            "stars": 125
           }
         },
         {
@@ -1354,7 +1354,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-16T05:09:01Z",
+            "last_commit": "2026-08-17T06:55:49Z",
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
             "stars": 88
@@ -1977,7 +1977,7 @@
             "last_commit": "2022-02-20T23:43:01Z",
             "owner": "nerdsupremacist",
             "repo": "Snap",
-            "stars": 793
+            "stars": 792
           }
         },
         {
@@ -2383,7 +2383,7 @@
             "last_commit": "2025-12-25T09:57:47Z",
             "owner": "SvenTiigi",
             "repo": "YouTubePlayerKit",
-            "stars": 992
+            "stars": 991
           }
         },
         {
@@ -2417,7 +2417,7 @@
             "last_commit": "2024-03-23T16:00:17Z",
             "owner": "TokamakUI",
             "repo": "Tokamak",
-            "stars": 2844
+            "stars": 2843
           }
         },
         {
@@ -2453,7 +2453,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T07:01:31.478Z",
+    "last_updated": "2026-08-17T07:19:01.854Z",
     "original_repository": "Toni77777/awesome-swiftui-libraries",
     "original_repository_sha": "9cfe3612e7e8b763fcc248ad5fba31e58a465d34",
     "enhanced_repository": "enhansome/enhansome-swiftui-libraries",
