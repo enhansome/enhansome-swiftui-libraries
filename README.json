@@ -33,7 +33,7 @@
             "last_commit": "2024-11-12T11:46:44Z",
             "owner": "elai950",
             "repo": "AlertToast",
-            "stars": 2444
+            "stars": 2443
           }
         },
         {
@@ -67,7 +67,7 @@
             "last_commit": "2026-08-14T21:11:39Z",
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5592
+            "stars": 5594
           }
         },
         {
@@ -467,7 +467,7 @@
             "last_commit": "2026-03-02T08:41:42Z",
             "owner": "AppPear",
             "repo": "ChartView",
-            "stars": 5638
+            "stars": 5637
           }
         },
         {
@@ -579,7 +579,7 @@
             "last_commit": "2025-05-21T21:35:35Z",
             "owner": "dagronf",
             "repo": "DSFSparkline",
-            "stars": 163
+            "stars": 162
           }
         },
         {
@@ -893,7 +893,7 @@
             "last_commit": "2026-07-08T08:24:32Z",
             "owner": "exyte",
             "repo": "Grid",
-            "stars": 2098
+            "stars": 2099
           }
         },
         {
@@ -1354,7 +1354,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-17T06:55:49Z",
+            "last_commit": "2026-08-18T07:05:08Z",
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
             "stars": 88
@@ -1523,7 +1523,7 @@
             "last_commit": "2026-07-08T08:22:38Z",
             "owner": "exyte",
             "repo": "ConcentricOnboarding",
-            "stars": 1566
+            "stars": 1567
           }
         },
         {
@@ -1949,7 +1949,7 @@
             "last_commit": "2022-03-21T19:26:29Z",
             "owner": "maustinstar",
             "repo": "swiftui-drawer",
-            "stars": 1043
+            "stars": 1044
           }
         },
         {
@@ -2031,7 +2031,7 @@
             "last_commit": "2026-03-13T22:16:23Z",
             "owner": "kieranb662",
             "repo": "Sliders-SwiftUI",
-            "stars": 723
+            "stars": 725
           }
         },
         {
@@ -2279,7 +2279,7 @@
             "last_commit": "2026-07-30T06:44:34Z",
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4060
+            "stars": 4061
           }
         },
         {
@@ -2293,7 +2293,7 @@
             "last_commit": "2025-10-22T18:52:37Z",
             "owner": "Mijick",
             "repo": "Popups",
-            "stars": 1816
+            "stars": 1815
           }
         },
         {
@@ -2349,7 +2349,7 @@
             "last_commit": "2026-02-14T17:26:06Z",
             "owner": "sanzaru",
             "repo": "SimpleToast",
-            "stars": 485
+            "stars": 486
           }
         },
         {
@@ -2453,7 +2453,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T07:19:01.854Z",
+    "last_updated": "2026-08-18T07:07:15.296Z",
     "original_repository": "Toni77777/awesome-swiftui-libraries",
     "original_repository_sha": "9cfe3612e7e8b763fcc248ad5fba31e58a465d34",
     "enhanced_repository": "enhansome/enhansome-swiftui-libraries",
