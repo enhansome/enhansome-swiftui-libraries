@@ -77,8 +77,8 @@
 
 [scroll to top](#readme)
 
-* [swiftui-animations](https://github.com/amosgyamfi/swiftui-animation-library) ⭐ 5,598 | 🐛 20 | 🌐 Swift | 📅 2026-08-14 - SwiftUI Animation Library. Useful SwiftUI animations including Loading/progress, Looping, On-off, Enter, Exit, Fade, Spin and Background animations that you can directly implement in your next iOS application or project. The library also contains huge examples of spring animations such as Inertial Bounce, Shake, Twirl, Jelly, Jiggle, Rubber Band…
-* [shiny](https://github.com/maustinstar/shiny) ⭐ 1,091 | 🐛 6 | 🌐 Swift | 📅 2024-07-12 - Shiny uses your gyroscope to simulate lighting and motion effects on colors. Works on almost every SwiftUI View
+* [swiftui-animations](https://github.com/amosgyamfi/swiftui-animation-library) ⭐ 5,599 | 🐛 20 | 🌐 Swift | 📅 2026-08-14 - SwiftUI Animation Library. Useful SwiftUI animations including Loading/progress, Looping, On-off, Enter, Exit, Fade, Spin and Background animations that you can directly implement in your next iOS application or project. The library also contains huge examples of spring animations such as Inertial Bounce, Shake, Twirl, Jelly, Jiggle, Rubber Band…
+* [shiny](https://github.com/maustinstar/shiny) ⭐ 1,092 | 🐛 6 | 🌐 Swift | 📅 2024-07-12 - Shiny uses your gyroscope to simulate lighting and motion effects on colors. Works on almost every SwiftUI View
 * [NavigationTransitions](https://github.com/davdroman/swiftui-navigation-transitions) ⭐ 1,079 | 🐛 3 | 🌐 Swift | 📅 2026-07-27 - Pure SwiftUI Navigation animated transitions
 * [SwiftUI-Animation](https://github.com/Arvindcs/SwiftUI-Animation) ⭐ 1,054 | 🐛 0 | 🌐 Swift | 📅 2025-07-12 - SwiftUI Animation
 * [Liquid](https://github.com/maustinstar/liquid) ⭐ 857 | 🐛 3 | 🌐 Swift | 📅 2024-08-19 - Create a playful backsplash in SwiftUI
@@ -461,7 +461,7 @@
 
 [scroll to top](#readme)
 
-* [SVGView](https://github.com/exyte/SVGView) ⭐ 852 | 🐛 44 | 🌐 Swift | 📅 2026-07-08 - SVG parser and renderer written in SwiftUI
+* [SVGView](https://github.com/exyte/SVGView) ⭐ 851 | 🐛 44 | 🌐 Swift | 📅 2026-07-08 - SVG parser and renderer written in SwiftUI
 
 ## TabBar-and-Tabs
 
@@ -494,14 +494,14 @@
 
 [scroll to top](#readme)
 
-* [MarqueeText](https://github.com/joekndy/MarqueeText) ⭐ 359 | 🐛 13 | 🌐 Swift | 📅 2025-10-10 - Marquee or "scrolling text" effect in SwiftUI
+* [MarqueeText](https://github.com/joekndy/MarqueeText) ⭐ 359 | 🐛 14 | 🌐 Swift | 📅 2025-10-10 - Marquee or "scrolling text" effect in SwiftUI
 * [TextBuilder](https://github.com/davdroman/TextBuilder) ⭐ 247 | 🐛 0 | 🌐 Swift | 📅 2026-07-14 - Like a SwiftUI ViewBuilder, but for Text
 
 ## Toast-and-Popup
 
 [scroll to top](#readme)
 
-* [ExytePopupView](https://github.com/exyte/PopupView) ⭐ 4,061 | 🐛 1 | 🌐 Swift | 📅 2026-07-30 - Toasts and popups library written with SwiftUI
+* [ExytePopupView](https://github.com/exyte/PopupView) ⭐ 4,060 | 🐛 1 | 🌐 Swift | 📅 2026-07-30 - Toasts and popups library written with SwiftUI
 * [MijickPopups](https://github.com/Mijick/Popups) ⭐ 1,815 | 🐛 31 | 🌐 Swift | 📅 2025-10-22 - Popups, popovers, sheets, alerts, toasts, banners, (...) presentation made simple. Written with and for SwiftUI
 * [Drops](https://github.com/omaralbeik/Drops) ⭐ 1,043 | 🐛 5 | 🌐 Swift | 📅 2024-10-11 - A µFramework for showing alerts like the one used when copying from pasteboard or connecting Apple pencil
 * [ToastUI](https://github.com/quanshousio/ToastUI) ⭐ 652 | 🐛 3 | 🌐 Swift | 📅 2024-08-11 - A simple way to show toast in SwiftUI.
@@ -526,7 +526,7 @@
 
 [scroll to top](#readme)
 
-* [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) ⭐ 4,419 | 🐛 11 | 🌐 Swift | 📅 2024-10-10 - Showcase your awesome new app features
+* [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) ⭐ 4,420 | 🐛 11 | 🌐 Swift | 📅 2024-10-10 - Showcase your awesome new app features
 
 ## Web
 

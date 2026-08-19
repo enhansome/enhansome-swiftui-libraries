@@ -66,7 +66,7 @@
             "last_commit": "2026-08-14T21:11:39Z",
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5598
+            "stars": 5599
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2024-07-12T00:24:15Z",
             "owner": "maustinstar",
             "repo": "shiny",
-            "stars": 1091
+            "stars": 1092
           }
         },
         {
@@ -1431,7 +1431,7 @@
             "archived": false,
             "id": 1249253355,
             "language": "Swift",
-            "last_commit": "2026-08-19T06:27:19Z",
+            "last_commit": "2026-08-19T12:38:34Z",
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
             "stars": 88
@@ -2409,7 +2409,7 @@
             "last_commit": "2026-07-30T06:44:34Z",
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4061
+            "stars": 4060
           }
         },
         {
@@ -2594,8 +2594,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:08:33.161Z",
+    "last_updated": "2026-08-19T12:54:38.331Z",
     "original_repository": "Toni77777/awesome-swiftui-libraries",
+    "original_repository_id": 397667534,
     "original_repository_sha": "9cfe3612e7e8b763fcc248ad5fba31e58a465d34",
     "enhanced_repository": "enhansome/enhansome-swiftui-libraries",
     "enhanced_repository_description": null,
