@@ -15,7 +15,7 @@
             "last_commit": "2024-08-11T16:29:07Z",
             "owner": "sparrowcode",
             "repo": "AlertKit",
-            "stars": 2633
+            "stars": 2634
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-14T21:11:39Z",
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5601
+            "stars": 5602
           }
         },
         {
@@ -345,7 +345,7 @@
             "last_commit": "2025-09-30T15:23:36Z",
             "owner": "Mijick",
             "repo": "Camera",
-            "stars": 653
+            "stars": 654
           }
         },
         {
@@ -522,7 +522,7 @@
             "last_commit": "2021-11-27T04:37:47Z",
             "owner": "spacenation",
             "repo": "swiftui-charts",
-            "stars": 805
+            "stars": 806
           }
         },
         {
@@ -735,7 +735,7 @@
             "last_commit": "2026-01-05T21:47:44Z",
             "owner": "simibac",
             "repo": "ConfettiSwiftUI",
-            "stars": 2446
+            "stars": 2447
           }
         },
         {
@@ -855,10 +855,10 @@
             "archived": false,
             "id": 190189702,
             "language": "Swift",
-            "last_commit": "2026-08-09T23:20:45Z",
+            "last_commit": "2026-08-20T13:22:54Z",
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8135
+            "stars": 8136
           }
         },
         {
@@ -924,7 +924,7 @@
             "last_commit": "2024-07-26T00:09:26Z",
             "owner": "paololeonardi",
             "repo": "WaterfallGrid",
-            "stars": 2664
+            "stars": 2663
           }
         },
         {
@@ -939,7 +939,7 @@
             "last_commit": "2026-07-08T08:24:32Z",
             "owner": "exyte",
             "repo": "Grid",
-            "stars": 2099
+            "stars": 2100
           }
         },
         {
@@ -1338,7 +1338,7 @@
             "last_commit": "2025-12-28T07:33:47Z",
             "owner": "gonzalezreal",
             "repo": "swift-markdown-ui",
-            "stars": 3915
+            "stars": 3916
           }
         },
         {
@@ -1404,7 +1404,7 @@
             "last_commit": "2023-08-22T10:36:25Z",
             "owner": "inventhq",
             "repo": "dot-globe",
-            "stars": 125
+            "stars": 126
           }
         },
         {
@@ -1431,7 +1431,7 @@
             "archived": false,
             "id": 1249253355,
             "language": "Swift",
-            "last_commit": "2026-08-19T15:18:15Z",
+            "last_commit": "2026-08-20T14:40:17Z",
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
             "stars": 88
@@ -1626,7 +1626,7 @@
             "last_commit": "2024-02-16T07:20:16Z",
             "owner": "fermoya",
             "repo": "SwiftUIPager",
-            "stars": 1469
+            "stars": 1468
           }
         },
         {
@@ -1896,7 +1896,7 @@
             "last_commit": "2026-01-21T04:03:43Z",
             "owner": "VergeGroup",
             "repo": "swift-verge",
-            "stars": 811
+            "stars": 813
           }
         },
         {
@@ -2094,7 +2094,7 @@
             "last_commit": "2022-02-20T23:43:01Z",
             "owner": "nerdsupremacist",
             "repo": "Snap",
-            "stars": 792
+            "stars": 793
           }
         },
         {
@@ -2409,7 +2409,7 @@
             "last_commit": "2026-07-30T06:44:34Z",
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4060
+            "stars": 4059
           }
         },
         {
@@ -2556,7 +2556,7 @@
             "last_commit": "2024-03-23T16:00:17Z",
             "owner": "TokamakUI",
             "repo": "Tokamak",
-            "stars": 2842
+            "stars": 2843
           }
         },
         {
@@ -2594,7 +2594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T07:09:17.293Z",
+    "last_updated": "2026-08-21T07:10:00.103Z",
     "original_repository": "Toni77777/awesome-swiftui-libraries",
     "original_repository_id": 397667534,
     "original_repository_sha": "9cfe3612e7e8b763fcc248ad5fba31e58a465d34",
