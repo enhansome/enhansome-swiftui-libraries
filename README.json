@@ -66,7 +66,7 @@
             "last_commit": "2026-08-14T21:11:39Z",
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5603
+            "stars": 5606
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2024-07-12T00:24:15Z",
             "owner": "maustinstar",
             "repo": "shiny",
-            "stars": 1092
+            "stars": 1093
           }
         },
         {
@@ -492,7 +492,7 @@
             "last_commit": "2026-03-02T08:41:42Z",
             "owner": "AppPear",
             "repo": "ChartView",
-            "stars": 5637
+            "stars": 5636
           }
         },
         {
@@ -507,7 +507,7 @@
             "last_commit": "2023-10-10T22:24:03Z",
             "owner": "mecid",
             "repo": "SwiftUICharts",
-            "stars": 1572
+            "stars": 1573
           }
         },
         {
@@ -858,7 +858,7 @@
             "last_commit": "2026-08-20T13:22:54Z",
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8137
+            "stars": 8135
           }
         },
         {
@@ -873,7 +873,7 @@
             "last_commit": "2025-05-14T15:27:25Z",
             "owner": "Mijick",
             "repo": "Timer",
-            "stars": 204
+            "stars": 203
           }
         },
         {
@@ -1110,7 +1110,7 @@
             "last_commit": "2023-04-12T12:36:12Z",
             "owner": "Jake-Short",
             "repo": "swiftui-image-viewer",
-            "stars": 498
+            "stars": 499
           }
         },
         {
@@ -1692,7 +1692,7 @@
             "last_commit": "2026-08-21T10:01:41Z",
             "owner": "exyte",
             "repo": "MediaPicker",
-            "stars": 487
+            "stars": 488
           }
         },
         {
@@ -1896,7 +1896,7 @@
             "last_commit": "2026-01-21T04:03:43Z",
             "owner": "VergeGroup",
             "repo": "swift-verge",
-            "stars": 813
+            "stars": 812
           }
         },
         {
@@ -2130,7 +2130,7 @@
             "last_commit": "2025-08-01T18:08:20Z",
             "owner": "spacenation",
             "repo": "swiftui-sliders",
-            "stars": 937
+            "stars": 936
           }
         },
         {
@@ -2196,7 +2196,7 @@
             "last_commit": "2023-11-24T06:12:04Z",
             "owner": "SimformSolutionsPvtLtd",
             "repo": "SSCustomTabbar",
-            "stars": 615
+            "stars": 614
           }
         },
         {
@@ -2424,7 +2424,7 @@
             "last_commit": "2025-10-22T18:52:37Z",
             "owner": "Mijick",
             "repo": "Popups",
-            "stars": 1818
+            "stars": 1816
           }
         },
         {
@@ -2594,7 +2594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T07:02:22.460Z",
+    "last_updated": "2026-08-23T07:04:19.172Z",
     "original_repository": "Toni77777/awesome-swiftui-libraries",
     "original_repository_id": 397667534,
     "original_repository_sha": "9cfe3612e7e8b763fcc248ad5fba31e58a465d34",
