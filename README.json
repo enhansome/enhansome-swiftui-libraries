@@ -152,6 +152,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Subsonic",
+          "description": "A small library that makes it easier to play audio with SwiftUI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 427427281,
+            "language": "Swift",
+            "last_commit": "2026-04-02T06:24:27Z",
+            "owner": "twostraws",
+            "repo": "Subsonic",
+            "stars": 371
+          }
+        }
+      ],
+      "title": "Audio"
+    },
+    {
+      "description": "scroll to top",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SwiftUI-bez",
+          "description": "Utilities for working with bezier curves in SwiftUI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 249076734,
+            "language": "Swift",
+            "last_commit": "2020-12-17T04:05:56Z",
+            "owner": "kieranb662",
+            "repo": "SwiftUI-bez",
+            "stars": 108
+          }
+        }
+      ],
+      "title": "Bezier-Path"
+    },
+    {
+      "description": "scroll to top",
+      "items": [
+        {
+          "node_type": "item",
           "title": "Colorful",
           "description": "A SwiftUI implementation of AppleCard's animated colorful blur background",
           "children": [],
@@ -198,7 +240,7 @@
             "last_commit": "2026-07-08T08:22:51Z",
             "owner": "exyte",
             "repo": "FloatingButton",
-            "stars": 1267
+            "stars": 1268
           }
         },
         {
@@ -858,7 +900,7 @@
             "last_commit": "2026-08-20T13:22:54Z",
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8136
+            "stars": 8137
           }
         },
         {
@@ -914,6 +956,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "OctopusKit",
+          "description": "2D ECS game engine in 100% Swift + SwiftUI for iOS, macOS, tvOS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 138076323,
+            "language": "Swift",
+            "last_commit": "2024-06-19T10:14:21Z",
+            "owner": "InvadingOctopus",
+            "repo": "octopuskit",
+            "stars": 485
+          }
+        }
+      ],
+      "title": "Game"
+    },
+    {
+      "description": "scroll to top",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "IrregularGradient",
+          "description": "Create animated irregular gradients in SwiftUI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 318047043,
+            "language": "Swift",
+            "last_commit": "2024-02-22T18:22:26Z",
+            "owner": "joogps",
+            "repo": "IrregularGradient",
+            "stars": 234
+          }
+        }
+      ],
+      "title": "Gradient"
+    },
+    {
+      "description": "scroll to top",
+      "items": [
+        {
+          "node_type": "item",
           "title": "WaterfallGrid",
           "description": "A waterfall grid layout view for SwiftUI.",
           "children": [],
@@ -939,7 +1023,7 @@
             "last_commit": "2026-07-08T08:24:32Z",
             "owner": "exyte",
             "repo": "Grid",
-            "stars": 2100
+            "stars": 2101
           }
         },
         {
@@ -1257,7 +1341,7 @@
             "last_commit": "2026-07-17T09:28:57Z",
             "owner": "exyte",
             "repo": "ActivityIndicatorView",
-            "stars": 1663
+            "stars": 1664
           }
         },
         {
@@ -1431,7 +1515,7 @@
             "archived": false,
             "id": 1249253355,
             "language": "Swift",
-            "last_commit": "2026-08-21T14:44:55Z",
+            "last_commit": "2026-08-24T13:39:32Z",
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
             "stars": 88
@@ -1439,6 +1523,48 @@
         }
       ],
       "title": "Map"
+    },
+    {
+      "description": "scroll to top",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "swiftui-messaging-ui",
+          "description": "A SwiftUI chat UI component with stable prepending for loading older messages without scroll jumps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1083101948,
+            "language": "Swift",
+            "last_commit": "2026-06-24T10:12:34Z",
+            "owner": "FluidGroup",
+            "repo": "swiftui-messaging-ui",
+            "stars": 77
+          }
+        }
+      ],
+      "title": "Messaging"
+    },
+    {
+      "description": "scroll to top",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SideMenu",
+          "description": "This repository shows Side Menu written with SwiftUI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 527120336,
+            "language": "Swift",
+            "last_commit": "2023-12-02T03:05:32Z",
+            "owner": "akardas16",
+            "repo": "SideMenu",
+            "stars": 51
+          }
+        }
+      ],
+      "title": "Menu"
     },
     {
       "description": "scroll to top",
@@ -1611,7 +1737,7 @@
             "last_commit": "2026-07-08T08:22:38Z",
             "owner": "exyte",
             "repo": "ConcentricOnboarding",
-            "stars": 1567
+            "stars": 1568
           }
         },
         {
@@ -1676,6 +1802,48 @@
         }
       ],
       "title": "Pages"
+    },
+    {
+      "description": "scroll to top",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TypeYouCard",
+          "description": "SwiftUI Paycard form",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 192241299,
+            "language": "Swift",
+            "last_commit": "2020-01-16T14:22:42Z",
+            "owner": "alexejn",
+            "repo": "TypeYouCard",
+            "stars": 446
+          }
+        }
+      ],
+      "title": "Payment"
+    },
+    {
+      "description": "scroll to top",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PermissionsSwiftUI",
+          "description": "A SwiftUI package to beautifully display and handle permissions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 334487502,
+            "language": "Swift",
+            "last_commit": "2024-04-06T10:15:25Z",
+            "owner": "jevonmao",
+            "repo": "PermissionsSwiftUI",
+            "stars": 1571
+          }
+        }
+      ],
+      "title": "Permission"
     },
     {
       "description": "scroll to top",
@@ -2186,6 +2354,90 @@
       "items": [
         {
           "node_type": "item",
+          "title": "SwiftSpeech",
+          "description": "A speech recognition framework designed for SwiftUI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 223111229,
+            "language": "Swift",
+            "last_commit": "2021-07-27T11:37:15Z",
+            "owner": "Cay-Zhang",
+            "repo": "SwiftSpeech",
+            "stars": 531
+          }
+        }
+      ],
+      "title": "Speech"
+    },
+    {
+      "description": "scroll to top",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WrappingHStack",
+          "description": "Like HStack, but automatically positions overflowing elements on next lines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 349015613,
+            "language": "Swift",
+            "last_commit": "2023-10-26T00:59:16Z",
+            "owner": "dkk",
+            "repo": "WrappingHStack",
+            "stars": 563
+          }
+        }
+      ],
+      "title": "Stack"
+    },
+    {
+      "description": "scroll to top",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "StepperView",
+          "description": "SwiftUI iOS component for Step Indications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 253174437,
+            "language": "Swift",
+            "last_commit": "2026-02-25T05:30:04Z",
+            "owner": "badrinathvm",
+            "repo": "StepperView",
+            "stars": 1362
+          }
+        }
+      ],
+      "title": "Step"
+    },
+    {
+      "description": "scroll to top",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SVGView",
+          "description": "SVG parser and renderer written in SwiftUI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 334681837,
+            "language": "Swift",
+            "last_commit": "2026-07-08T08:24:43Z",
+            "owner": "exyte",
+            "repo": "SVGView",
+            "stars": 850
+          }
+        }
+      ],
+      "title": "SVG"
+    },
+    {
+      "description": "scroll to top",
+      "items": [
+        {
+          "node_type": "item",
           "title": "SSCustomTabbar",
           "description": "Simple Animated tabbar with native control",
           "children": [],
@@ -2409,7 +2661,7 @@
             "last_commit": "2026-07-30T06:44:34Z",
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4059
+            "stars": 4060
           }
         },
         {
@@ -2594,7 +2846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:31:17.430Z",
+    "last_updated": "2026-08-24T14:08:31.539Z",
     "original_repository": "Toni77777/awesome-swiftui-libraries",
     "original_repository_id": 397667534,
     "original_repository_sha": "9cfe3612e7e8b763fcc248ad5fba31e58a465d34",
