@@ -77,7 +77,7 @@
 
 [scroll to top](#readme)
 
-* [swiftui-animations](https://github.com/amosgyamfi/swiftui-animation-library) ⭐ 5,608 | 🐛 20 | 🌐 Swift | 📅 2026-08-14 - SwiftUI Animation Library. Useful SwiftUI animations including Loading/progress, Looping, On-off, Enter, Exit, Fade, Spin and Background animations that you can directly implement in your next iOS application or project. The library also contains huge examples of spring animations such as Inertial Bounce, Shake, Twirl, Jelly, Jiggle, Rubber Band…
+* [swiftui-animations](https://github.com/amosgyamfi/swiftui-animation-library) ⭐ 5,612 | 🐛 20 | 🌐 Swift | 📅 2026-08-14 - SwiftUI Animation Library. Useful SwiftUI animations including Loading/progress, Looping, On-off, Enter, Exit, Fade, Spin and Background animations that you can directly implement in your next iOS application or project. The library also contains huge examples of spring animations such as Inertial Bounce, Shake, Twirl, Jelly, Jiggle, Rubber Band…
 * [shiny](https://github.com/maustinstar/shiny) ⭐ 1,093 | 🐛 6 | 🌐 Swift | 📅 2024-07-12 - Shiny uses your gyroscope to simulate lighting and motion effects on colors. Works on almost every SwiftUI View
 * [NavigationTransitions](https://github.com/davdroman/swiftui-navigation-transitions) ⭐ 1,079 | 🐛 3 | 🌐 Swift | 📅 2026-07-27 - Pure SwiftUI Navigation animated transitions
 * [SwiftUI-Animation](https://github.com/Arvindcs/SwiftUI-Animation) ⭐ 1,054 | 🐛 0 | 🌐 Swift | 📅 2025-07-12 - SwiftUI Animation
@@ -107,7 +107,7 @@
 
 [scroll to top](#readme)
 
-* [FloatingButton](https://github.com/exyte/FloatingButton) ⭐ 1,268 | 🐛 0 | 🌐 Swift | 📅 2026-07-08 - Easily customizable floating button menu created with SwiftUI
+* [FloatingButton](https://github.com/exyte/FloatingButton) ⭐ 1,269 | 🐛 0 | 🌐 Swift | 📅 2026-07-08 - Easily customizable floating button menu created with SwiftUI
 * [buttoncraft](https://github.com/atrinh0/buttoncraft) ⭐ 448 | 🐛 1 | 🌐 Swift | 📅 2024-11-13 - Craft that perfect SwiftUI button effect
 * [LoadingButton](https://github.com/changemin/LoadingButton) ⭐ 121 | 🐛 1 | 🌐 Swift | 📅 2023-11-22 - Loading Animation Button for SwiftUI
 * [CUIExpandableButton](https://github.com/robhasacamera/CUIExpandableButton) ⭐ 19 | 🐛 0 | 🌐 Swift | 📅 2022-09-03 - A SwiftUI button that expands to show more content
@@ -145,7 +145,7 @@
 
 [scroll to top](#readme)
 
-* [ChartView](https://github.com/AppPear/ChartView) ⭐ 5,635 | 🐛 96 | 🌐 Swift | 📅 2026-03-02 - ChartView made in SwiftUI
+* [ChartView](https://github.com/AppPear/ChartView) ⭐ 5,636 | 🐛 96 | 🌐 Swift | 📅 2026-03-02 - ChartView made in SwiftUI
 * [SwiftUICharts](https://github.com/mecid/SwiftUICharts) ⭐ 1,573 | 🐛 2 | 🌐 Swift | 📅 2023-10-10 - A simple line and bar charting library that supports accessibility written using SwiftUI.
 * [swiftui-charts](https://github.com/spacenation/swiftui-charts) ⭐ 807 | 🐛 10 | 🌐 Swift | 📅 2021-11-27 - SwiftUI Charts with custom styles
 * [SwiftSunburstDiagram](https://github.com/lludo/SwiftSunburstDiagram) ⭐ 551 | 🐛 11 | 🌐 Swift | 📅 2026-02-09 - SwiftUI library to easily render diagrams given a tree of objects. Similar to ring chart, sunburst chart, multilevel pie chart.
@@ -153,7 +153,7 @@
 * [SwiftUIFourierSeries](https://github.com/simonboots/SwiftUIFourierSeries) ⭐ 254 | 🐛 1 | 🌐 Swift | 📅 2021-03-05 - A Fourier Series visualisation written in Swift/SwiftUI
 * [LightChart](https://github.com/pichukov/LightChart) ⭐ 188 | 🐛 1 | 🌐 Swift | 📅 2023-07-12 - SwiftUI charts
 * [BarChart](https://github.com/romanbaitaliuk/BarChart) ⭐ 163 | 🐛 7 | 🌐 Swift | 📅 2021-05-31 - SwiftUI Bar Chart
-* [DSFSparkline](https://github.com/dagronf/DSFSparkline) ⭐ 162 | 🐛 1 | 🌐 Swift | 📅 2025-05-21 - A lightweight sparkline component for macOS, iOS and tvOS
+* [DSFSparkline](https://github.com/dagronf/DSFSparkline) ⭐ 163 | 🐛 1 | 🌐 Swift | 📅 2025-05-21 - A lightweight sparkline component for macOS, iOS and tvOS
 * [Rings](https://github.com/chenhaiteng/Rings) ⭐ 67 | 🐛 0 | 🌐 Swift | 📅 2025-04-29 - Rings provides some UI with the Ring, Circle or other similar shapes.
 * [stock-charts](https://github.com/denniscm190/stock-charts) - SwiftUI stock charts for iOS
 
@@ -468,7 +468,7 @@
 [scroll to top](#readme)
 
 * [SSCustomTabbar](https://github.com/SimformSolutionsPvtLtd/SSCustomTabbar) ⭐ 615 | 🐛 1 | 🌐 Swift | 📅 2023-11-24 - Simple Animated tabbar with native control
-* [AnimatedTabBar](https://github.com/exyte/AnimatedTabBar) ⭐ 546 | 🐛 0 | 🌐 Swift | 📅 2026-07-08 - A tabbar with number of preset animations written in pure SwiftU
+* [AnimatedTabBar](https://github.com/exyte/AnimatedTabBar) ⭐ 547 | 🐛 0 | 🌐 Swift | 📅 2026-07-08 - A tabbar with number of preset animations written in pure SwiftU
 * [StatefulTabView](https://github.com/NicholasBellucci/StatefulTabView) ⭐ 326 | 🐛 0 | 🌐 Swift | 📅 2022-10-31 - A SwiftUI TabView that retains the state of each tab as well as some other goodies.
 * [SlidingTabView](https://github.com/QuynhNguyen/SlidingTabView) ⭐ 258 | 🐛 11 | 🌐 Swift | 📅 2023-01-31 - SwiftUI - Sliding Tab View
 * [FloatingTabBar](https://github.com/10011co/FloatingTabBar) ⭐ 250 | 🐛 0 | 🌐 Swift | 📅 2023-02-28 - Aesthetic floating tab bar
@@ -513,7 +513,7 @@
 
 [scroll to top](#readme)
 
-* [ViewInspector](https://github.com/nalexn/ViewInspector) ⭐ 2,629 | 🐛 56 | 🌐 Swift | 📅 2026-08-22 - Runtime introspection and unit testing of SwiftUI views
+* [ViewInspector](https://github.com/nalexn/ViewInspector) ⭐ 2,629 | 🐛 57 | 🌐 Swift | 📅 2026-08-22 - Runtime introspection and unit testing of SwiftUI views
 
 ## Video
 
@@ -538,4 +538,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._

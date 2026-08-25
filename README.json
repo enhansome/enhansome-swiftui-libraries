@@ -66,7 +66,7 @@
             "last_commit": "2026-08-14T21:11:39Z",
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5608
+            "stars": 5612
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-07-08T08:22:51Z",
             "owner": "exyte",
             "repo": "FloatingButton",
-            "stars": 1268
+            "stars": 1269
           }
         },
         {
@@ -534,7 +534,7 @@
             "last_commit": "2026-03-02T08:41:42Z",
             "owner": "AppPear",
             "repo": "ChartView",
-            "stars": 5635
+            "stars": 5636
           }
         },
         {
@@ -654,7 +654,7 @@
             "last_commit": "2025-05-21T21:35:35Z",
             "owner": "dagronf",
             "repo": "DSFSparkline",
-            "stars": 162
+            "stars": 163
           }
         },
         {
@@ -2463,7 +2463,7 @@
             "last_commit": "2026-07-08T08:22:13Z",
             "owner": "exyte",
             "repo": "AnimatedTabBar",
-            "stars": 546
+            "stars": 547
           }
         },
         {
@@ -2846,7 +2846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:08:31.539Z",
+    "last_updated": "2026-08-25T06:03:19.132Z",
     "original_repository": "Toni77777/awesome-swiftui-libraries",
     "original_repository_id": 397667534,
     "original_repository_sha": "9cfe3612e7e8b763fcc248ad5fba31e58a465d34",
