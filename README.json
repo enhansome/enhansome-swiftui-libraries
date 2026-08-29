@@ -10,12 +10,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Native alert from Apple Music & Feedback. Contains Done, Heart & Message and other presets.",
+            "homepage": "https://sparrowcode.io/frameworks",
             "id": 183909168,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-08-11T16:29:07Z",
+            "open_issues": 7,
             "owner": "sparrowcode",
             "repo": "AlertKit",
-            "stars": 2634
+            "stars": 2634,
+            "topics": [
+              "alert",
+              "alert-controller",
+              "animated",
+              "apple",
+              "apple-music",
+              "applemusic",
+              "appstore",
+              "feedback",
+              "ios",
+              "native",
+              "popup",
+              "swift",
+              "swiftui",
+              "swiftui-example",
+              "ui",
+              "ui-components",
+              "uikit"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -26,12 +49,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create Apple-like alerts & toasts using SwiftUI",
+            "homepage": "https://elai950.github.io/AlertToast/",
             "id": 337490001,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-11-12T11:46:44Z",
+            "open_issues": 32,
             "owner": "elai950",
             "repo": "AlertToast",
-            "stars": 2443
+            "stars": 2443,
+            "topics": [
+              "alert",
+              "alert-controller",
+              "alert-toast",
+              "alert-toast-swiftui",
+              "apple",
+              "apple-music",
+              "dialog",
+              "error-alert",
+              "image-alert",
+              "popup",
+              "swift",
+              "swiftui",
+              "toast",
+              "toast-alert",
+              "ui-components",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -42,12 +87,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for SwiftUI to create custom alerts with different appearances and animations. ",
+            "homepage": null,
             "id": 270093772,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-06-13T02:53:30Z",
+            "open_issues": 6,
             "owner": "neel-makhecha",
             "repo": "AlertX",
-            "stars": 257
+            "stars": 257,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -64,12 +114,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "You don't need an animation library to add a simple effect to your SwiftUI app. Create it yourself with SwiftUI. This repo inspires you to add helpful and expressive SwiftUI animations like loading/progress, looping, on-off, enter, exit, fade, spin, and background animations to your next project. The repo also contains tremendous spring animations.",
+            "homepage": "https://twitter.com/amos_gyamfi",
             "id": 191351767,
             "language": "Swift",
+            "license": "Unlicense",
             "last_commit": "2026-08-14T21:11:39Z",
+            "open_issues": 20,
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5617
+            "stars": 5618,
+            "topics": [
+              "animations",
+              "app-animations",
+              "dynamic-island",
+              "dynamic-island-animation",
+              "ios",
+              "ios-animations",
+              "ios-design-patterns",
+              "iosanimation",
+              "swift",
+              "swift5",
+              "swiftui",
+              "swiftui-animations",
+              "transition-animation",
+              "transitions",
+              "uianimations",
+              "watchos",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -80,12 +153,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shiny uses your gyroscope to simulate lighting and motion effects on colors. Works on almost every SwiftUI View.",
+            "homepage": null,
             "id": 283935490,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-07-12T00:24:15Z",
+            "open_issues": 6,
             "owner": "maustinstar",
             "repo": "shiny",
-            "stars": 1093
+            "stars": 1093,
+            "topics": [
+              "gyroscope",
+              "ios",
+              "motion",
+              "neumorphic",
+              "skeuomorphic",
+              "swift",
+              "swift-package-manager",
+              "swiftui",
+              "ui",
+              "ux"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -96,12 +185,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pure SwiftUI Navigation transitions ✨",
+            "homepage": null,
             "id": 553564385,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-07-27T19:49:59Z",
+            "open_issues": 3,
             "owner": "davdroman",
             "repo": "swiftui-navigation-transitions",
-            "stars": 1080
+            "stars": 1080,
+            "topics": [
+              "animation",
+              "native",
+              "navigation",
+              "navigationstack",
+              "navigationview",
+              "pure",
+              "swiftui",
+              "transition",
+              "uiviewcontrollertransitioningdelegate"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -112,12 +216,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SwiftUI Animation",
+            "homepage": null,
             "id": 287869019,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2025-07-12T10:58:26Z",
+            "open_issues": 0,
             "owner": "Arvindcs",
             "repo": "SwiftUI-Animation",
-            "stars": 1056
+            "stars": 1056,
+            "topics": [
+              "animated-dots",
+              "cardview",
+              "drawer",
+              "dropdown",
+              "facebook",
+              "instagram",
+              "linkedin",
+              "menu-bar",
+              "ring",
+              "sidemenu",
+              "sidemenuswift",
+              "spinner",
+              "swift",
+              "swift-animation",
+              "swiftui",
+              "swiftui-animation",
+              "swiftui-animations",
+              "tabbar",
+              "tinder",
+              "togglebutton"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -128,12 +258,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create a playful backsplash in SwiftUI.",
+            "homepage": null,
             "id": 288500503,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-08-19T19:05:16Z",
+            "open_issues": 3,
             "owner": "maustinstar",
             "repo": "liquid",
-            "stars": 857
+            "stars": 857,
+            "topics": [
+              "artwork",
+              "ios",
+              "macos",
+              "shapes",
+              "swift",
+              "swift-package-manager",
+              "swiftui",
+              "ui",
+              "ux"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -144,12 +289,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools for SwiftUI that helps perform Path and Shape animations, such us morphing circle or shape transformations",
+            "homepage": null,
             "id": 195130933,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2019-09-13T22:44:55Z",
+            "open_issues": 1,
             "owner": "adellibovi",
             "repo": "SwiftUI-PathAnimations",
-            "stars": 235
+            "stars": 235,
+            "topics": [
+              "swift",
+              "swiftui",
+              "swiftui-animations",
+              "swiftui-example"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -166,12 +321,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small library that makes it easier to play audio with SwiftUI.",
+            "homepage": null,
             "id": 427427281,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-04-02T06:24:27Z",
+            "open_issues": 3,
             "owner": "twostraws",
             "repo": "Subsonic",
-            "stars": 371
+            "stars": 371,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -188,12 +348,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utilities for working with bezier curves in SwiftUI",
+            "homepage": null,
             "id": 249076734,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-12-17T04:05:56Z",
+            "open_issues": 2,
             "owner": "kieranb662",
             "repo": "SwiftUI-bez",
-            "stars": 108
+            "stars": 108,
+            "topics": [
+              "bezier-curves",
+              "path",
+              "shape",
+              "swift",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -210,12 +381,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A SwiftUI implementation of AppleCard's animated colorful blur background.",
+            "homepage": null,
             "id": 408167485,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-07-03T18:18:12Z",
+            "open_issues": 0,
             "owner": "Lakr233",
             "repo": "Colorful",
-            "stars": 390
+            "stars": 390,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -226,12 +402,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "View modifiers that wrap UIVisualEffectView, with environment integration.",
+            "homepage": null,
             "id": 267170991,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-09-09T16:25:34Z",
+            "open_issues": 2,
             "owner": "lucasbrown",
             "repo": "swiftui-visual-effects",
-            "stars": 342
+            "stars": 342,
+            "topics": [
+              "apple",
+              "ios",
+              "swift",
+              "swift-library",
+              "swift-package",
+              "swiftui",
+              "uikit"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -248,12 +437,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easily customizable floating button menu created with SwiftUI",
+            "homepage": null,
             "id": 230217359,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-07-08T08:22:51Z",
+            "open_issues": 0,
             "owner": "exyte",
             "repo": "FloatingButton",
-            "stars": 1270
+            "stars": 1270,
+            "topics": [
+              "swiftui",
+              "swiftui-animations",
+              "swiftui-components"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -264,12 +462,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Craft that perfect SwiftUI button effect 👌🏼",
+            "homepage": null,
             "id": 284474951,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-11-13T11:00:48Z",
+            "open_issues": 1,
             "owner": "atrinh0",
             "repo": "buttoncraft",
-            "stars": 448
+            "stars": 448,
+            "topics": [
+              "button-animation",
+              "buttons",
+              "ios",
+              "ios14",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -280,12 +489,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Loading Animation Button for SwiftUI",
+            "homepage": null,
             "id": 317583092,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2023-11-22T22:35:56Z",
+            "open_issues": 1,
             "owner": "byunkyungmin",
             "repo": "LoadingButton",
-            "stars": 121
+            "stars": 121,
+            "topics": [
+              "animation",
+              "button",
+              "loading",
+              "loadingbutton",
+              "spm",
+              "swift",
+              "swift5",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -296,12 +519,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A SwiftUI button that expands to reveal more content.",
+            "homepage": null,
             "id": 517455104,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-09-03T19:49:37Z",
+            "open_issues": 0,
             "owner": "robhasacamera",
             "repo": "CUIExpandableButton",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "button",
+              "menu",
+              "swift",
+              "swift-package",
+              "swiftui",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -318,12 +553,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The elegant full screen calendar missed in SwiftUI.",
+            "homepage": null,
             "id": 270397113,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2023-12-24T19:20:38Z",
+            "open_issues": 10,
             "owner": "ThasianX",
             "repo": "ElegantCalendar",
-            "stars": 1091
+            "stars": 1091,
+            "topics": [
+              "calendar",
+              "elegantcalendar",
+              "ios-animation",
+              "swift-package-manager",
+              "swiftui",
+              "swiftui-animations",
+              "swiftui-components",
+              "swiftui-example"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -334,12 +583,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SwiftUI Simple Calendar / Date Picker for iOS",
+            "homepage": null,
             "id": 196878398,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2023-02-07T03:25:36Z",
+            "open_issues": 12,
             "owner": "RaffiKian",
             "repo": "RKCalendar",
-            "stars": 584
+            "stars": 584,
+            "topics": [
+              "calendar",
+              "datepicker",
+              "ios",
+              "swift",
+              "swift-library",
+              "swift5-1",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -350,12 +612,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple calendar for SwiftUI",
+            "homepage": null,
             "id": 421255033,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2023-04-29T04:13:29Z",
+            "open_issues": 9,
             "owner": "GGJJack",
             "repo": "SwiftUICalendar",
-            "stars": 252
+            "stars": 252,
+            "topics": [
+              "calendar",
+              "cocoapods",
+              "ios",
+              "swift",
+              "swiftpackagemanager",
+              "swiftui",
+              "swiftuicalendar"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -366,12 +641,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An iOS calendar library for displaying calendar events in a week view.",
+            "homepage": null,
             "id": 100825584,
             "language": "Swift",
+            "license": null,
             "last_commit": "2025-03-10T15:46:38Z",
+            "open_issues": 9,
             "owner": "EvanCooper9",
             "repo": "swift-week-view",
-            "stars": 215
+            "stars": 215,
+            "topics": [
+              "asynchronous",
+              "calendar",
+              "calendar-view",
+              "ios",
+              "swift",
+              "swiftui",
+              "week-view",
+              "weekview"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -382,12 +671,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A customizable swiftui calendar",
+            "homepage": null,
             "id": 307416260,
             "language": "Swift",
+            "license": null,
             "last_commit": "2022-12-03T15:51:15Z",
+            "open_issues": 3,
             "owner": "yodagamaheshan",
             "repo": "DateGrid",
-            "stars": 200
+            "stars": 200,
+            "topics": [
+              "calendar",
+              "calendar-swiftui",
+              "calendarswiftui",
+              "customizable-ui",
+              "date",
+              "dategrid",
+              "horizontal-scrolling",
+              "ioscalendar",
+              "monthcalendar",
+              "swiftui",
+              "swiftuicalendar",
+              "weekcalendar"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -404,12 +711,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Camera made simple. The ultimate camera library that significantly reduces implementation time and effort. Written with and for SwiftUI.",
+            "homepage": null,
             "id": 780650695,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-30T15:23:36Z",
+            "open_issues": 37,
             "owner": "Mijick",
             "repo": "Camera",
-            "stars": 654
+            "stars": 654,
+            "topics": [
+              "avfoundation",
+              "camera",
+              "camera-api",
+              "cocoapods",
+              "ios",
+              "ios-camera",
+              "ios-sdk",
+              "ios-swift",
+              "mobile",
+              "swift",
+              "swift-5",
+              "swift-camera",
+              "swift-library",
+              "swift-package",
+              "swift-package-manager",
+              "swift5",
+              "swiftui",
+              "swiftui-camera",
+              "swiftui-components",
+              "swiftui-framework"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -420,12 +753,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight camera library for quick integration with SwiftUI - iOS/iPadOS only",
+            "homepage": null,
             "id": 296928614,
             "language": "Swift",
+            "license": null,
             "last_commit": "2024-08-11T13:53:08Z",
+            "open_issues": 5,
             "owner": "rorodriguez116",
             "repo": "Camera-SwiftUI",
-            "stars": 266
+            "stars": 266,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -436,12 +774,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Snapchat Style Camera View to use with a SwiftUI interface",
+            "homepage": null,
             "id": 251696341,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-08-28T21:05:44Z",
+            "open_issues": 5,
             "owner": "pierreveron",
             "repo": "SwiftUICam",
-            "stars": 95
+            "stars": 95,
+            "topics": [
+              "camera",
+              "snapchat",
+              "swift-package-manager",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -452,12 +800,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SwiftUI View for live camera output.",
+            "homepage": null,
             "id": 249074779,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2023-06-12T09:28:23Z",
+            "open_issues": 4,
             "owner": "brettfazio",
             "repo": "CameraView",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "camera",
+              "swift-package-manager",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -474,12 +831,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A SwiftUI card view, made great for setup interactions.",
+            "homepage": null,
             "id": 309839294,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-03-29T20:12:43Z",
+            "open_issues": 11,
             "owner": "joogps",
             "repo": "SlideOverCard",
-            "stars": 1221
+            "stars": 1221,
+            "topics": [
+              "apple",
+              "card",
+              "ios",
+              "ipados",
+              "over",
+              "slide",
+              "swift",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -490,12 +861,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Card and deck-based SwiftUI views.",
+            "homepage": "https://danielsaidi.com/opensource",
             "id": 291626854,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-06-09T08:07:46Z",
+            "open_issues": 4,
             "owner": "danielsaidi",
             "repo": "DeckKit",
-            "stars": 890
+            "stars": 890,
+            "topics": [
+              "card",
+              "deck",
+              "swift",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -506,12 +887,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A easy-to-use SwiftUI view for Tinder like cards on iOS, macOS & watchOS.",
+            "homepage": null,
             "id": 255439637,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2025-02-11T11:45:22Z",
+            "open_issues": 9,
             "owner": "dadalar",
             "repo": "SwiftUI-CardStackView",
-            "stars": 640
+            "stars": 640,
+            "topics": [
+              "swift",
+              "swift-framework",
+              "swift-library",
+              "swiftui",
+              "tinder-cards"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -522,12 +914,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Swipeable Cards with SwiftUI",
+            "homepage": null,
             "id": 380346259,
             "language": "Swift",
+            "license": null,
             "last_commit": "2021-07-05T07:17:05Z",
+            "open_issues": 0,
             "owner": "Volorf",
             "repo": "swipeable-cards",
-            "stars": 227
+            "stars": 227,
+            "topics": [
+              "cards",
+              "swift",
+              "swiftui",
+              "swipe-gestures",
+              "swipeable-cards",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -538,12 +942,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This UI attempts to capture the Quibi Card Stack and the associated User Interaction.",
+            "homepage": null,
             "id": 266909148,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-03-06T04:11:44Z",
+            "open_issues": 1,
             "owner": "terminatorover",
             "repo": "RGStack",
-            "stars": 129
+            "stars": 129,
+            "topics": [
+              "card",
+              "ios",
+              "stack",
+              "swift",
+              "swiftui",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -560,12 +976,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ChartView made in SwiftUI",
+            "homepage": null,
             "id": 191625817,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-03-02T08:41:42Z",
+            "open_issues": 96,
             "owner": "AppPear",
             "repo": "ChartView",
-            "stars": 5638
+            "stars": 5638,
+            "topics": [
+              "chart",
+              "charts",
+              "ios",
+              "swift",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -576,12 +1003,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple line and bar charting library that supports accessibility written using SwiftUI. ",
+            "homepage": null,
             "id": 281132128,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2023-10-10T22:24:03Z",
+            "open_issues": 2,
             "owner": "mecid",
             "repo": "SwiftUICharts",
-            "stars": 1573
+            "stars": 1573,
+            "topics": [
+              "chart",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -592,12 +1027,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":rocket: SwiftUI Charts with custom styles",
+            "homepage": null,
             "id": 236252930,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-11-27T04:37:47Z",
+            "open_issues": 10,
             "owner": "spacenation",
             "repo": "swiftui-charts",
-            "stars": 807
+            "stars": 807,
+            "topics": [
+              "apple",
+              "charts",
+              "ios",
+              "macos",
+              "swift",
+              "swift-library",
+              "swift-package",
+              "swiftui",
+              "swiftui-example",
+              "tvos",
+              "watchos",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -608,12 +1061,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SwiftUI library to easily render diagrams given a tree of objects. Similar to ring chart, sunburst chart, multilevel pie chart.",
+            "homepage": null,
             "id": 191486149,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-02-09T07:09:16Z",
+            "open_issues": 11,
             "owner": "lludo",
             "repo": "SwiftSunburstDiagram",
-            "stars": 551
+            "stars": 551,
+            "topics": [
+              "chart",
+              "diagram",
+              "ios",
+              "macos",
+              "swift",
+              "swift-5-1",
+              "swift-library",
+              "swift-package-manager",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -624,12 +1092,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Line plot like in Robinhood app in SwiftUI",
+            "homepage": null,
             "id": 254593468,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-07-24T22:03:11Z",
+            "open_issues": 3,
             "owner": "aunnnn",
             "repo": "RHLinePlot",
-            "stars": 283
+            "stars": 283,
+            "topics": [
+              "lineplot",
+              "plot",
+              "robinhood",
+              "stock",
+              "swift",
+              "swiftui",
+              "ticker"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -640,12 +1121,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Fourier Series visualisation written in Swift/SwiftUI",
+            "homepage": null,
             "id": 219483822,
             "language": "Swift",
+            "license": null,
             "last_commit": "2021-03-05T07:19:36Z",
+            "open_issues": 1,
             "owner": "simonboots",
             "repo": "SwiftUIFourierSeries",
-            "stars": 254
+            "stars": 254,
+            "topics": [
+              "fourier-series",
+              "ios",
+              "macos",
+              "swift",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -656,12 +1148,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SwiftUI charts",
+            "homepage": null,
             "id": 289251037,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2023-07-12T06:35:50Z",
+            "open_issues": 1,
             "owner": "pichukov",
             "repo": "LightChart",
-            "stars": 188
+            "stars": 188,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -672,12 +1169,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SwiftUI Bar Chart",
+            "homepage": null,
             "id": 275038930,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-05-31T01:22:27Z",
+            "open_issues": 7,
             "owner": "romanbaitaliuk",
             "repo": "BarChart",
-            "stars": 163
+            "stars": 163,
+            "topics": [
+              "bar-chart",
+              "chart",
+              "ios",
+              "macos",
+              "swift-library",
+              "swift-package",
+              "swiftui",
+              "swiftui-example",
+              "watchos"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -688,12 +1200,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight sparkline component for macOS, iOS and tvOS",
+            "homepage": null,
             "id": 230321484,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2025-05-21T21:35:35Z",
+            "open_issues": 1,
             "owner": "dagronf",
             "repo": "DSFSparkline",
-            "stars": 163
+            "stars": 163,
+            "topics": [
+              "appkit",
+              "chart",
+              "graph",
+              "ios",
+              "mac-catalyst",
+              "macos",
+              "objective-c",
+              "sparkline",
+              "swift",
+              "swiftui",
+              "tvos",
+              "uikit"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -704,12 +1234,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rings provides some UI with the Ring, Circle or other similar shapes.",
+            "homepage": null,
             "id": 354475348,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2025-04-29T07:18:28Z",
+            "open_issues": 0,
             "owner": "chenhaiteng",
             "repo": "Rings",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "circle",
+              "clockview",
+              "curved-text",
+              "knob",
+              "knob-control",
+              "rich-text",
+              "ring",
+              "shapes",
+              "swift",
+              "swift-packages",
+              "swiftui",
+              "swiftui-framework",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -726,12 +1275,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SwiftUI library to display a clock. You can move the arms to change the time, change the style of the clock and customise some configurations.",
+            "homepage": null,
             "id": 242364798,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2023-03-05T10:09:20Z",
+            "open_issues": 2,
             "owner": "renaudjenny",
             "repo": "SwiftClockUI",
-            "stars": 306
+            "stars": 306,
+            "topics": [
+              "clock",
+              "ios",
+              "macos",
+              "swift",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -742,12 +1302,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 984120953,
             "language": "Swift",
+            "license": null,
             "last_commit": "2025-11-12T15:20:34Z",
+            "open_issues": 0,
             "owner": "ibvildthings",
             "repo": "SwiftClockKit",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -764,12 +1329,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yet another extension to manipulate colors easily in Swift and SwiftUI",
+            "homepage": "http://cocoadocs.org/docsets/DynamicColor",
             "id": 36687975,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2023-11-30T13:02:01Z",
+            "open_issues": 18,
             "owner": "yannickl",
             "repo": "DynamicColor",
-            "stars": 3081
+            "stars": 3081,
+            "topics": [
+              "color",
+              "gradient",
+              "hex",
+              "hex-strings",
+              "nscolor",
+              "swiftui",
+              "uicolor"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -780,12 +1358,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A colour wheel made all in SwiftUI",
+            "homepage": null,
             "id": 270959591,
             "language": "Swift",
+            "license": null,
             "last_commit": "2020-06-12T07:19:00Z",
+            "open_issues": 1,
             "owner": "Priva28",
             "repo": "SwiftUIColourWheel",
-            "stars": 85
+            "stars": 85,
+            "topics": [
+              "color-picker",
+              "color-wheel",
+              "swift",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -796,12 +1384,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple color picker. Looks like a wheel. Plain SwiftUI.",
+            "homepage": null,
             "id": 197463546,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-04-18T19:03:14Z",
+            "open_issues": 2,
             "owner": "hendriku",
             "repo": "ColorPicker",
-            "stars": 77
+            "stars": 77,
+            "topics": [
+              "color",
+              "colorpicker",
+              "ios",
+              "swift",
+              "swiftui",
+              "swiftui-example",
+              "swiftui-gestures",
+              "wheel"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -818,12 +1420,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SwiftUI Package for Configurable Confetti Animation 🎉",
+            "homepage": null,
             "id": 316241544,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-01-05T21:47:44Z",
+            "open_issues": 9,
             "owner": "simibac",
             "repo": "ConfettiSwiftUI",
-            "stars": 2450
+            "stars": 2450,
+            "topics": [
+              "animation",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -834,12 +1444,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Show the confetti only when the user is having fun, and if not having fun, don't show it.",
+            "homepage": "https://opensource.ivanvorobei.io",
             "id": 387173257,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-04-05T08:42:45Z",
+            "open_issues": 6,
             "owner": "ivanvorobei",
             "repo": "SPConfetti",
-            "stars": 309
+            "stars": 309,
+            "topics": [
+              "animation",
+              "confetti",
+              "confetti-animation",
+              "confetti-view",
+              "ios",
+              "particles",
+              "swift",
+              "swiftconfettiview",
+              "tvos",
+              "uikit",
+              "view",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -850,12 +1478,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a Confetti View for SwiftUI",
+            "homepage": null,
             "id": 267400865,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-01-26T20:24:24Z",
+            "open_issues": 0,
             "owner": "ziligy",
             "repo": "ConfettiView",
-            "stars": 135
+            "stars": 135,
+            "topics": [
+              "animation",
+              "swift",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -872,12 +1509,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎯 PredicateKit allows Swift developers to write expressive and type-safe predicates for CoreData using key-paths, comparisons and logical operators, literal values, and functions.",
+            "homepage": null,
             "id": 309217433,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-04-05T18:16:50Z",
+            "open_issues": 3,
             "owner": "ftchirou",
             "repo": "PredicateKit",
-            "stars": 411
+            "stars": 411,
+            "topics": [
+              "coredata",
+              "keypaths",
+              "nspredicate",
+              "predicates",
+              "swift",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -888,12 +1537,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern database abstraction layer + runtime, batteries included [WIP].",
+            "homepage": null,
             "id": 275573647,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2025-08-06T07:53:23Z",
+            "open_issues": 0,
             "owner": "vmanot",
             "repo": "SwiftDB",
-            "stars": 342
+            "stars": 342,
+            "topics": [
+              "attribute",
+              "codable",
+              "core-data",
+              "coredata",
+              "database",
+              "dsl",
+              "property-wrapper",
+              "relationship",
+              "runtime",
+              "sql",
+              "swift",
+              "swiftui",
+              "type-safe",
+              "wrapper"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -910,12 +1579,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "In-app console and debug tools for iOS developers",
+            "homepage": null,
             "id": 366264617,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-12-04T23:21:40Z",
+            "open_issues": 8,
             "owner": "duraidabdul",
             "repo": "LocalConsole",
-            "stars": 828
+            "stars": 828,
+            "topics": [
+              "debugging",
+              "swiftui",
+              "uikit"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -926,12 +1604,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QA assistant for a SwiftUI app: change the color scheme, accessibility settings, and localization on the fly!",
+            "homepage": null,
             "id": 240335041,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-08-02T09:27:24Z",
+            "open_issues": 3,
             "owner": "nalexn",
             "repo": "EnvironmentOverrides",
-            "stars": 340
+            "stars": 340,
+            "topics": [
+              "accessibility",
+              "dark-theme",
+              "localization",
+              "overlay",
+              "qa",
+              "swiftui",
+              "testing-tools",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -948,12 +1640,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An exhaustive expansion of the standard SwiftUI library.",
+            "homepage": null,
             "id": 190189702,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-20T13:22:54Z",
+            "open_issues": 29,
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8145
+            "stars": 8145,
+            "topics": [
+              "attributedstring",
+              "backwards-compatibility",
+              "collection-view",
+              "framework",
+              "ios",
+              "library",
+              "macos",
+              "performance",
+              "scroll",
+              "swift",
+              "swift-package-manager",
+              "swiftui",
+              "textview",
+              "visionos"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -964,12 +1676,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Timers Made Simple. The Ultimate Swift Framework with advanced timer management, state control and reactive programming support.",
+            "homepage": null,
             "id": 694753102,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-14T15:27:25Z",
+            "open_issues": 1,
             "owner": "Mijick",
             "repo": "Timer",
-            "stars": 203
+            "stars": 203,
+            "topics": [
+              "combine",
+              "ios",
+              "ios-sdk",
+              "ios-swift",
+              "macos",
+              "spm",
+              "swift",
+              "swift-6",
+              "swift-package",
+              "swift-package-manager",
+              "swift5",
+              "swift6",
+              "swiftlibrary",
+              "swiftui",
+              "swiftui-framework",
+              "timer",
+              "uikit",
+              "visionos",
+              "visionos-timer"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -980,12 +1717,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✨ Super sweet syntactic sugar for SwiftUI.View initializers.",
+            "homepage": null,
             "id": 412072889,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-09-30T14:28:26Z",
+            "open_issues": 0,
             "owner": "tokijh",
             "repo": "ViewCondition",
-            "stars": 105
+            "stars": 105,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -996,12 +1738,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Encapsulates SwiftUI deprecation handling logic.",
+            "homepage": "https://bahertamer.github.io/SwiftSafeUI/",
             "id": 802458533,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2025-07-16T19:16:00Z",
+            "open_issues": 0,
             "owner": "BaherTamer",
             "repo": "SwiftSafeUI",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "compatibility",
+              "ios",
+              "ipados",
+              "macos",
+              "swift",
+              "swiftui",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -1018,12 +1773,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "2D ECS game engine in 100% Swift + SwiftUI for iOS, macOS, tvOS",
+            "homepage": null,
             "id": 138076323,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-19T10:14:21Z",
+            "open_issues": 0,
             "owner": "InvadingOctopus",
             "repo": "octopuskit",
-            "stars": 485
+            "stars": 485,
+            "topics": [
+              "2d-game-engine",
+              "components",
+              "declarative-ui",
+              "ecs",
+              "engine",
+              "entity-component-system",
+              "game-development",
+              "game-engine",
+              "gameplaykit",
+              "ios",
+              "ios17",
+              "macos",
+              "macos14",
+              "metal",
+              "spritekit",
+              "swift",
+              "swift5",
+              "swift5-9",
+              "swiftui",
+              "tvos"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -1040,12 +1821,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create animated irregular gradients in SwiftUI.",
+            "homepage": null,
             "id": 318047043,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-02-22T18:22:26Z",
+            "open_issues": 0,
             "owner": "joogps",
             "repo": "IrregularGradient",
-            "stars": 234
+            "stars": 234,
+            "topics": [
+              "animated",
+              "gradient",
+              "ios",
+              "irregular",
+              "macos",
+              "mesh",
+              "movement",
+              "swift",
+              "swiftui",
+              "tvos",
+              "watchos"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -1062,12 +1860,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A waterfall grid layout view for SwiftUI.",
+            "homepage": null,
             "id": 217918975,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-07-26T00:09:26Z",
+            "open_issues": 15,
             "owner": "paololeonardi",
             "repo": "WaterfallGrid",
-            "stars": 2663
+            "stars": 2664,
+            "topics": [
+              "ios",
+              "macos",
+              "swift",
+              "swift-package-manager",
+              "swiftui",
+              "swiftui-grid",
+              "tvos",
+              "visionos",
+              "watchos",
+              "waterfall-layout"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1078,12 +1892,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The most powerful Grid container missed in SwiftUI",
+            "homepage": null,
             "id": 255865003,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-07-08T08:24:32Z",
+            "open_issues": 15,
             "owner": "exyte",
             "repo": "Grid",
-            "stars": 2103
+            "stars": 2103,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1094,12 +1913,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎛 QGrid: The missing SwiftUI collection view.",
+            "homepage": null,
             "id": 197633310,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-08-05T19:44:45Z",
+            "open_issues": 18,
             "owner": "Q-Mobile",
             "repo": "QGrid",
-            "stars": 1649
+            "stars": 1649,
+            "topics": [
+              "declarative-ui",
+              "grid",
+              "ios",
+              "swift",
+              "swift5",
+              "swiftui",
+              "swiftui-example"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1110,12 +1942,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A flexible grid layout view for SwiftUI",
+            "homepage": null,
             "id": 195657142,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-02-21T13:56:51Z",
+            "open_issues": 4,
             "owner": "pietropizzi",
             "repo": "GridStack",
-            "stars": 659
+            "stars": 659,
+            "topics": [
+              "grid",
+              "ios",
+              "macos",
+              "swift",
+              "swiftui",
+              "tvos",
+              "watchos"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1126,12 +1971,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fun GridScrollView written in SwiftUI + Combine, bridging between UIKit",
+            "homepage": null,
             "id": 222463693,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-04-06T20:43:19Z",
+            "open_issues": 0,
             "owner": "boraseoksoon",
             "repo": "BSZoomGridScrollView",
-            "stars": 160
+            "stars": 160,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1142,12 +1992,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A grid layout view for SwiftUI",
+            "homepage": null,
             "id": 193818242,
             "language": "Swift",
+            "license": null,
             "last_commit": "2020-07-22T21:26:24Z",
+            "open_issues": 4,
             "owner": "johnsusek",
             "repo": "FlowStack",
-            "stars": 152
+            "stars": 152,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1158,12 +2013,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy Grids with SwiftUI",
+            "homepage": null,
             "id": 661632126,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2025-05-14T15:38:43Z",
+            "open_issues": 1,
             "owner": "Mijick",
             "repo": "GridView",
-            "stars": 126
+            "stars": 126,
+            "topics": [
+              "grid",
+              "grid-layout",
+              "ios-swift",
+              "swift",
+              "swift-package",
+              "swift-package-manager",
+              "swift-packages",
+              "swift5",
+              "swiftlibrary",
+              "swiftpackagemanager",
+              "swiftui",
+              "swiftui-components",
+              "swiftui-framework"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1174,12 +2048,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏎Fast diffing and type safe SwiftUI style data source for UICollectionView",
+            "homepage": "https://onmyway133.com/apps",
             "id": 239261640,
             "language": "Swift",
+            "license": "NOASSERTION",
             "last_commit": "2020-06-11T06:25:20Z",
+            "open_issues": 0,
             "owner": "onmyway133",
             "repo": "Micro",
-            "stars": 77
+            "stars": 77,
+            "topics": [
+              "datasource",
+              "diff",
+              "reload",
+              "safe",
+              "swift",
+              "swiftui",
+              "uicollectionview"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1190,12 +2077,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The best SwiftUI FlowLayout package available for use in iOS 14.0+",
+            "homepage": null,
             "id": 848537132,
             "language": "Swift",
+            "license": null,
             "last_commit": "2024-11-07T12:10:56Z",
+            "open_issues": 0,
             "owner": "sanhee16",
             "repo": "SDFlowLayout",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -1212,12 +2104,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SwiftUI Image loading and Animation framework powered by SDWebImage",
+            "homepage": "https://sdwebimage.github.io/SDWebImageSwiftUI",
             "id": 201030008,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-02-25T06:43:20Z",
+            "open_issues": 83,
             "owner": "SDWebImage",
             "repo": "SDWebImageSwiftUI",
-            "stars": 2557
+            "stars": 2558,
+            "topics": [
+              "animated-webp",
+              "apng",
+              "gif",
+              "ios",
+              "macos",
+              "sdwebimage",
+              "swift",
+              "swift-ui",
+              "swiftpm",
+              "swiftui",
+              "tvos",
+              "watchos",
+              "webp"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1228,12 +2139,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "AsyncImage before iOS 15. Lightweight, pure SwiftUI Image view, that displays an image downloaded from URL, with auxiliary views and local cache.",
+            "homepage": null,
             "id": 190926086,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-07-08T14:59:45Z",
+            "open_issues": 15,
             "owner": "dmytro-anokhin",
             "repo": "url-image",
-            "stars": 1156
+            "stars": 1156,
+            "topics": [
+              "ios",
+              "macos",
+              "swift",
+              "swift-package-manager",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1244,12 +2166,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CachedAsyncImage is the simplest way to add cache to your AsyncImage.",
+            "homepage": null,
             "id": 419758833,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-07-01T10:07:15Z",
+            "open_issues": 17,
             "owner": "lorenzofiamingo",
             "repo": "swiftui-cached-async-image",
-            "stars": 710
+            "stars": 710,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1260,12 +2187,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Image viewer built in SwiftUI for both local and remote images.",
+            "homepage": null,
             "id": 272064604,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2023-04-12T12:36:12Z",
+            "open_issues": 12,
             "owner": "Jake-Short",
             "repo": "swiftui-image-viewer",
-            "stars": 499
+            "stars": 499,
+            "topics": [
+              "image-viewer",
+              "ios",
+              "ios-13",
+              "ios-14",
+              "swift",
+              "swiftui",
+              "swiftui-components"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1276,12 +2216,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pure Swift high-performance asynchronous image loading framework. SwiftUI supported.",
+            "homepage": null,
             "id": 262936444,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-12-03T10:37:13Z",
+            "open_issues": 4,
             "owner": "KittenYang",
             "repo": "Longinus",
-            "stars": 328
+            "stars": 328,
+            "topics": [
+              "high-performance",
+              "image-loading-library",
+              "ios",
+              "ios-swift",
+              "smooth-scrolling",
+              "swift",
+              "swiftui",
+              "swiftui-framework",
+              "swiftui-image",
+              "webimage",
+              "yywebimage"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1292,12 +2249,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight and customisable async image loading in SwiftUI. Supports on-disk storage, placeholders and more!",
+            "homepage": null,
             "id": 190445162,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2023-07-06T21:28:25Z",
+            "open_issues": 1,
             "owner": "cmtrounce",
             "repo": "SwURL",
-            "stars": 200
+            "stars": 200,
+            "topics": [
+              "asyncimage",
+              "image-loading-from-server",
+              "image-loading-library",
+              "imageview",
+              "placeholder-image",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1308,12 +2277,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SwiftUI AnimatedImage View",
+            "homepage": null,
             "id": 391216798,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-07-31T00:54:16Z",
+            "open_issues": 0,
             "owner": "krzyzanowskim",
             "repo": "SwiftUI.AnimatedImage",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "animation",
+              "gif-animation",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1324,12 +2302,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Lazy image loading for Apple platforms: SwiftUI, UIKit, AppKit",
+            "homepage": null,
             "id": 372090663,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-10-01T14:11:25Z",
+            "open_issues": 6,
             "owner": "kean",
             "repo": "NukeUI",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "image-loading",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1340,12 +2326,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple SwiftUI view where user can move and resize an image to a pre-defined size.",
+            "homepage": "https://swiftpackageindex.com/laosb/CropImage",
             "id": 669103735,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-12-24T06:18:09Z",
+            "open_issues": 0,
             "owner": "laosb",
             "repo": "CropImage",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "ios",
+              "macos",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -1362,12 +2357,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advanced List View for SwiftUI with pagination & different states",
+            "homepage": null,
             "id": 202424157,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-06-06T19:13:46Z",
+            "open_issues": 2,
             "owner": "chris-swift-dev",
             "repo": "AdvancedList",
-            "stars": 303
+            "stars": 303,
+            "topics": [
+              "catalyst",
+              "ios",
+              "listview",
+              "mac-os",
+              "macos",
+              "pagination",
+              "pagination-functionality",
+              "pagination-support",
+              "pagination-swiftui",
+              "swift",
+              "swift-package",
+              "swiftui",
+              "swiftui-components",
+              "swiftui-example",
+              "swiftui-lists"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1378,12 +2394,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Swipe Left2Right & Right2Left, pure SwiftUI implementation",
+            "homepage": null,
             "id": 262656447,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-11-12T17:41:31Z",
+            "open_issues": 0,
             "owner": "EnesKaraosman",
             "repo": "SwipeCell",
-            "stars": 275
+            "stars": 275,
+            "topics": [
+              "custom-cell",
+              "left-to-right",
+              "swiftui",
+              "swipe",
+              "swipecell",
+              "swipecellkit"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1394,12 +2422,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EmptyList - List(SwiftUI) supports displaying Empty ListView for empty state",
+            "homepage": null,
             "id": 278707734,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-07-13T11:58:38Z",
+            "open_issues": 0,
             "owner": "Toni77777",
             "repo": "EmptyList",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "apple",
+              "cocoapod",
+              "ios",
+              "list",
+              "macos",
+              "swift",
+              "swift5",
+              "swiftui",
+              "xcode",
+              "xcode11"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -1416,12 +2460,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A number of preset loading indicators created with SwiftUI",
+            "homepage": null,
             "id": 248494113,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-07-17T09:28:57Z",
+            "open_issues": 0,
             "owner": "exyte",
             "repo": "ActivityIndicatorView",
-            "stars": 1665
+            "stars": 1665,
+            "topics": [
+              "swiftui",
+              "swiftui-components",
+              "swiftui-framework"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1432,12 +2485,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NVActivityIndicatorView implemented in SwiftUI",
+            "homepage": null,
             "id": 260902589,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-06-28T07:36:15Z",
+            "open_issues": 4,
             "owner": "ninjaprox",
             "repo": "LoaderUI",
-            "stars": 245
+            "stars": 246,
+            "topics": [
+              "animation",
+              "animations",
+              "keyframe-animation",
+              "loader",
+              "loaders",
+              "swift",
+              "swift-library",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1448,12 +2515,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TTProgressHUD is a light weight HUD written in SwiftUI meant to display the progress of an ongoing task on iOS.",
+            "homepage": "https://github.com/honkmaster/TTProgressHUD",
             "id": 283585318,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-05-31T10:06:36Z",
+            "open_issues": 1,
             "owner": "honkmaster",
             "repo": "TTProgressHUD",
-            "stars": 244
+            "stars": 244,
+            "topics": [
+              "ios",
+              "swift5",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1464,12 +2540,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easily show HUDs with SwiftUI! Lightweight SwiftUI wrapper for JGProgressHUD for iOS, tvOS, Catalyst.",
+            "homepage": "https://jonasgessner.com",
             "id": 304053674,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-10-20T21:55:56Z",
+            "open_issues": 1,
             "owner": "JonasGessner",
             "repo": "JGProgressHUD-SwiftUI",
-            "stars": 124
+            "stars": 124,
+            "topics": [
+              "hud",
+              "ios",
+              "maccatalyst",
+              "progresshud",
+              "swift",
+              "swiftui",
+              "tvos"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1480,12 +2569,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Native SwiftUI Activity Indicator Pack.",
+            "homepage": null,
             "id": 299665005,
             "language": "Swift",
+            "license": null,
             "last_commit": "2024-08-12T07:33:21Z",
+            "open_issues": 2,
             "owner": "MojtabaHs",
             "repo": "ActivityIndicator-SwiftUI",
-            "stars": 97
+            "stars": 97,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -1502,12 +2596,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Maintenance mode — new development in Textual: https://github.com/gonzalezreal/textual",
+            "homepage": null,
             "id": 318173786,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2025-12-28T07:33:47Z",
+            "open_issues": 62,
             "owner": "gonzalezreal",
             "repo": "swift-markdown-ui",
-            "stars": 3922
+            "stars": 3922,
+            "topics": [
+              "cmark",
+              "commonmark",
+              "github-markdown",
+              "markdown",
+              "swift",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1518,12 +2624,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A SwiftUI view for displaying Markdown with customizable appearances.",
+            "homepage": null,
             "id": 287770076,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-12-24T11:15:11Z",
+            "open_issues": 17,
             "owner": "dasautoooo",
             "repo": "Parma",
-            "stars": 800
+            "stars": 800,
+            "topics": [
+              "ios",
+              "macos",
+              "markdown",
+              "swift",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1534,12 +2651,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "📦 A themable markdown editor component for your SwiftUI apps.",
+            "homepage": null,
             "id": 337207116,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-02-19T08:40:44Z",
+            "open_issues": 10,
             "owner": "qeude",
             "repo": "SwiftDown",
-            "stars": 571
+            "stars": 571,
+            "topics": [
+              "markdown",
+              "spm",
+              "swift",
+              "swift-package-manager",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1550,12 +2678,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "SwiftUI markdown",
+            "homepage": null,
             "id": 213985870,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-09-05T23:42:03Z",
+            "open_issues": 8,
             "owner": "Lambdo-Labs",
             "repo": "MDText",
-            "stars": 132
+            "stars": 132,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -1572,12 +2705,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dotted Globe for Swift!",
+            "homepage": null,
             "id": 645094129,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2023-08-22T10:36:25Z",
+            "open_issues": 2,
             "owner": "inventhq",
             "repo": "dot-globe",
-            "stars": 126
+            "stars": 126,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1588,12 +2726,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Interactive Map Library for Swift and SwiftUI!",
+            "homepage": "https://medium.com/better-programming/how-to-create-interactive-maps-using-swiftui-1c49732e2950",
             "id": 538568659,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2023-12-06T10:00:20Z",
+            "open_issues": 4,
             "owner": "grandsir",
             "repo": "InteractiveMap",
-            "stars": 120
+            "stars": 120,
+            "topics": [
+              "interactive",
+              "interactive-map",
+              "ios",
+              "ios-swift",
+              "ipados",
+              "macos",
+              "map",
+              "mapbox",
+              "mapkit",
+              "mapping",
+              "maps",
+              "svg",
+              "swift",
+              "swift5",
+              "swiftui",
+              "swiftui1",
+              "swiftui2",
+              "swiftui3"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1604,12 +2766,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Native Swift 6 + Metal map rendering engine for SwiftUI. Globe and flat vector-tile maps with labels, SwiftUI markers and avatars, on iOS and macOS.",
+            "homepage": "https://swiftpackageindex.com/artembobkin/ImmersiveMap",
             "id": 1249253355,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:30:12Z",
+            "open_issues": 2,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
-            "stars": 89
+            "stars": 89,
+            "topics": [
+              "cartography",
+              "geospatial",
+              "globe",
+              "gpu",
+              "graphics",
+              "ios",
+              "macos",
+              "map-engine",
+              "map-rendering",
+              "mapbox",
+              "maps",
+              "metal",
+              "mvt",
+              "rendering-engine",
+              "swift",
+              "swift-package-manager",
+              "swift6",
+              "swiftui",
+              "vector-tiles"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -1626,12 +2813,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "For SwiftUI apps - a primitive component to make Chat-UI with stable prepending - no scroll jumps when loading older messages.",
+            "homepage": "https://deepwiki.com/FluidGroup/swiftui-messaging-ui/1-overview",
             "id": 1083101948,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-24T10:12:34Z",
+            "open_issues": 5,
             "owner": "FluidGroup",
             "repo": "swiftui-messaging-ui",
-            "stars": 77
+            "stars": 77,
+            "topics": [
+              "chat",
+              "messaging",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -1648,12 +2844,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository shows Side Menu written with SwiftUI",
+            "homepage": null,
             "id": 527120336,
             "language": "Swift",
+            "license": null,
             "last_commit": "2023-12-02T03:05:32Z",
+            "open_issues": 2,
             "owner": "akardas16",
             "repo": "SideMenu",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -1670,12 +2871,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An alternative SwiftUI NavigationView implementing classic stack-based navigation giving also some more control on animations and programmatic navigation.",
+            "homepage": null,
             "id": 232785528,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-12-05T12:52:18Z",
+            "open_issues": 22,
             "owner": "matteopuc",
             "repo": "swiftui-navigation-stack",
-            "stars": 996
+            "stars": 996,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1686,12 +2892,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FlowStacks allows you to hoist SwiftUI navigation and presentation state into a Coordinator",
+            "homepage": null,
             "id": 377967286,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2025-10-10T23:18:47Z",
+            "open_issues": 24,
             "owner": "johnpatrickmorgan",
             "repo": "FlowStacks",
-            "stars": 969
+            "stars": 969,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1702,12 +2913,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Coordinators in SwiftUI. Simple, powerful and elegant.",
+            "homepage": null,
             "id": 340845988,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-03-28T07:04:00Z",
+            "open_issues": 44,
             "owner": "rundfunk47",
             "repo": "stinsen",
-            "stars": 955
+            "stars": 955,
+            "topics": [
+              "coordinator",
+              "coordinator-pattern",
+              "coordinators",
+              "ios",
+              "macos",
+              "macosx",
+              "mvvm",
+              "mvvm-c",
+              "swift",
+              "swift-library",
+              "swift5",
+              "swiftui",
+              "tvos",
+              "watchos"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1718,12 +2949,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Path-based routing in SwiftUI",
+            "homepage": null,
             "id": 202872150,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-10-09T12:16:33Z",
+            "open_issues": 12,
             "owner": "frzi",
             "repo": "swiftui-router",
-            "stars": 952
+            "stars": 952,
+            "topics": [
+              "navigation",
+              "path",
+              "router",
+              "routing",
+              "swift",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1734,12 +2977,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source library for building deep-linkable SwiftUI applications with composition, testing and ergonomics in mind",
+            "homepage": null,
             "id": 308578832,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-02-18T20:36:35Z",
+            "open_issues": 11,
             "owner": "Bahn-X",
             "repo": "swift-composable-navigator",
-            "stars": 589
+            "stars": 589,
+            "topics": [
+              "composition",
+              "ios",
+              "modularity",
+              "navigation",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1750,12 +3004,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Navigation made simple (SwiftUI)",
+            "homepage": null,
             "id": 648838934,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2025-05-14T15:36:54Z",
+            "open_issues": 11,
             "owner": "Mijick",
             "repo": "NavigationView",
-            "stars": 321
+            "stars": 321,
+            "topics": [
+              "ios-swift",
+              "navigation",
+              "navigationstack",
+              "navigationview",
+              "swift",
+              "swift-package",
+              "swift-package-manager",
+              "swift-packages",
+              "swift5",
+              "swiftlibrary",
+              "swiftnavigation",
+              "swiftpackagemanager",
+              "swiftui",
+              "swiftui-components",
+              "swiftui-framework"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1766,12 +3041,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A declarative navigation API for SwiftUI.",
+            "homepage": null,
             "id": 262109429,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-08-22T05:51:00Z",
+            "open_issues": 8,
             "owner": "SwiftUIX",
             "repo": "Coordinator",
-            "stars": 298
+            "stars": 298,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1782,12 +3062,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧭 SwiftUI navigation done right",
+            "homepage": null,
             "id": 321378387,
             "language": "Swift",
+            "license": null,
             "last_commit": "2026-03-22T09:17:34Z",
+            "open_issues": 6,
             "owner": "rebeloper",
             "repo": "NavigationKit",
-            "stars": 223
+            "stars": 223,
+            "topics": [
+              "dismiss",
+              "navigation",
+              "navigationcontroller",
+              "navigationview",
+              "navigator",
+              "pop",
+              "presentview",
+              "presentviewcontroller",
+              "pushviewcontroller",
+              "sheet",
+              "swiftui",
+              "swiftui-components",
+              "swiftui-framework",
+              "swiftui-learning",
+              "swiftuikit"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1798,12 +3099,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A graph-based SwiftUI router",
+            "homepage": null,
             "id": 441734689,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-06-15T16:54:40Z",
+            "open_issues": 4,
             "owner": "valentinradu",
             "repo": "Helm",
-            "stars": 147
+            "stars": 147,
+            "topics": [
+              "declarative",
+              "navigation",
+              "router",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1814,12 +3125,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Router is a library that assists with SwiftUI view transitions.",
+            "homepage": null,
             "id": 324912163,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-02-13T07:05:22Z",
+            "open_issues": 0,
             "owner": "1amageek",
             "repo": "Router",
-            "stars": 75
+            "stars": 75,
+            "topics": [
+              "navigation",
+              "router",
+              "swift",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -1836,12 +3157,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SwiftUI library for a walkthrough or onboarding flow with tap actions",
+            "homepage": null,
             "id": 207260073,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-07-08T08:22:38Z",
+            "open_issues": 0,
             "owner": "exyte",
             "repo": "ConcentricOnboarding",
-            "stars": 1567
+            "stars": 1567,
+            "topics": [
+              "cocoapods",
+              "ios",
+              "onboarding",
+              "swift",
+              "swift-library",
+              "swiftui",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1852,12 +3186,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Native Pager in SwiftUI",
+            "homepage": null,
             "id": 235141760,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-02-16T07:20:16Z",
+            "open_issues": 45,
             "owner": "fermoya",
             "repo": "SwiftUIPager",
-            "stars": 1468
+            "stars": 1468,
+            "topics": [
+              "cocoapods",
+              "ios",
+              "macos",
+              "pager",
+              "pagerview",
+              "swift5",
+              "swiftpackagemanager",
+              "swiftui",
+              "swiftui-components",
+              "tvos",
+              "watchos",
+              "xcframework"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1868,12 +3220,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📖   A lightweight, paging view solution for SwiftUI",
+            "homepage": null,
             "id": 219371263,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2025-12-30T17:33:37Z",
+            "open_issues": 12,
             "owner": "nachonavarro",
             "repo": "Pages",
-            "stars": 867
+            "stars": 867,
+            "topics": [
+              "ios",
+              "paging",
+              "swift",
+              "swift-package",
+              "swiftui",
+              "ui",
+              "ui-library"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1884,12 +3249,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀  Elegant Pager View fully written in pure SwiftUI.",
+            "homepage": null,
             "id": 280510670,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2025-02-26T17:00:24Z",
+            "open_issues": 13,
             "owner": "xmartlabs",
             "repo": "PagerTabStripView",
-            "stars": 845
+            "stars": 845,
+            "topics": [
+              "pager",
+              "pagertabstripview",
+              "pagerview",
+              "swiftui",
+              "swiftui-components",
+              "swiftui-pager",
+              "xlpagertabstrip"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1900,12 +3278,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SwiftUI view enabling navigation between pages of content, imitating the behaviour of UIPageViewController for iOS and watchOS",
+            "homepage": null,
             "id": 239224766,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2023-03-11T22:57:52Z",
+            "open_issues": 10,
             "owner": "fredyshox",
             "repo": "PageView",
-            "stars": 658
+            "stars": 658,
+            "topics": [
+              "ios",
+              "pageview",
+              "swift",
+              "swiftui",
+              "uipagecontrol",
+              "uipageviewcontroller",
+              "watchos"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -1922,12 +3313,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SwiftUI Paycard form",
+            "homepage": "https://github.com/alexejn/TypeYouCard",
             "id": 192241299,
             "language": "Swift",
+            "license": null,
             "last_commit": "2020-01-16T14:22:42Z",
+            "open_issues": 2,
             "owner": "alexejn",
             "repo": "TypeYouCard",
-            "stars": 446
+            "stars": 446,
+            "topics": [
+              "awesomeswit",
+              "combine",
+              "someswift",
+              "swift",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -1944,12 +3346,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A SwiftUI package to beautifully display and handle permissions.",
+            "homepage": "https://jevonmao.github.io/PermissionsSwiftUI/",
             "id": 334487502,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-04-06T10:15:25Z",
+            "open_issues": 15,
             "owner": "jevonmao",
             "repo": "PermissionsSwiftUI",
-            "stars": 1570
+            "stars": 1570,
+            "topics": [
+              "coding",
+              "developer",
+              "github",
+              "ios",
+              "ios-swift",
+              "learn-swift",
+              "library",
+              "macos",
+              "package",
+              "programming",
+              "swift",
+              "swiftpackage",
+              "swiftui",
+              "swiftui-learning",
+              "ui-design",
+              "ux"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -1966,12 +3390,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Customizable media picker written with SwiftUI",
+            "homepage": null,
             "id": 510248257,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-21T10:01:41Z",
+            "open_issues": 0,
             "owner": "exyte",
             "repo": "MediaPicker",
-            "stars": 489
+            "stars": 489,
+            "topics": [
+              "ios",
+              "photo-gallery",
+              "photo-picker",
+              "swiftui",
+              "swiftui-components"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -1982,12 +3417,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Photo Library Picker for SwiftUI",
+            "homepage": null,
             "id": 210706428,
             "language": "Swift",
+            "license": null,
             "last_commit": "2021-02-22T13:12:35Z",
+            "open_issues": 0,
             "owner": "moifort",
             "repo": "swiftUI-photo-library-picker",
-            "stars": 68
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -2004,12 +3444,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make use of SwiftUI Previews for UIKit!",
+            "homepage": null,
             "id": 349626843,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-05-19T03:10:39Z",
+            "open_issues": 0,
             "owner": "theoriginalbit",
             "repo": "PreviewView",
-            "stars": 146
+            "stars": 146,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2020,12 +3465,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create SwiftUI preview variants for macOS, iOS, tvOS, and watchOS with ease",
+            "homepage": null,
             "id": 236151884,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-08-21T21:04:25Z",
+            "open_issues": 0,
             "owner": "finestructure",
             "repo": "Gala",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2036,12 +3486,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Figma component preview for your SwiftUI views",
+            "homepage": null,
             "id": 369248607,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-05-21T11:20:30Z",
+            "open_issues": 0,
             "owner": "eDeniska",
             "repo": "figma-preview-swiftui",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "figma",
+              "figma-components",
+              "swift",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2052,12 +3512,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Figma component preview for your SwiftUI views",
+            "homepage": null,
             "id": 369248607,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-05-21T11:20:30Z",
+            "open_issues": 0,
             "owner": "eDeniska",
             "repo": "figma-preview-swiftui",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "figma",
+              "figma-components",
+              "swift",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2068,12 +3538,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PreviewDevice - is a library with type-safe syntax sugar for preview device on SwiftUI. Preview for UIKit and Cocoa.",
+            "homepage": null,
             "id": 398650970,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-11-02T20:26:25Z",
+            "open_issues": 0,
             "owner": "Toni77777",
             "repo": "PreviewDevice",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "apple",
+              "cocoa",
+              "cocoapods",
+              "ios",
+              "ios13",
+              "ios15",
+              "iphone13",
+              "maccatalyst",
+              "macos",
+              "osx",
+              "preivew-device",
+              "spm",
+              "swift",
+              "swift-package-manager",
+              "swiftui",
+              "tvos",
+              "uikit",
+              "watchos",
+              "xcode",
+              "xcode13"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2084,12 +3580,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Safe and fast access to SwiftUI PreviewDevice",
+            "homepage": null,
             "id": 259871247,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-01-17T14:07:36Z",
+            "open_issues": 0,
             "owner": "posix88",
             "repo": "SafePreviewDevice",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "previewdevice",
+              "swift",
+              "swift-library",
+              "swift-package-manager",
+              "swiftui",
+              "swiftui-components",
+              "swiftui-framework",
+              "swiftui-helper",
+              "tool",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -2106,12 +3618,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CarBode : Free & Opensource barcode scanner & generator for SwiftUI",
+            "homepage": null,
             "id": 213380392,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2025-05-06T04:01:31Z",
+            "open_issues": 17,
             "owner": "heart",
             "repo": "CarBode-Barcode-Scanner-For-SwiftUI",
-            "stars": 303
+            "stars": 303,
+            "topics": [
+              "barcode-generator",
+              "barcode-scanner",
+              "carbode-barcode-scanner",
+              "ios-app",
+              "opensource-barcode-scanner",
+              "qrcode",
+              "swiftui",
+              "swiftui-components"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2122,12 +3648,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zeplin component preview for your SwiftUI views",
+            "homepage": null,
             "id": 369502309,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-05-21T11:17:34Z",
+            "open_issues": 0,
             "owner": "eDeniska",
             "repo": "zeplin-preview-swiftui",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "swift",
+              "swiftui",
+              "zeplin",
+              "zeplin-components"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -2144,12 +3680,35 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A small, lightweight UISearchController wrapper for SwiftUI",
+            "homepage": null,
             "id": 272052185,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-06-08T02:53:41Z",
+            "open_issues": 0,
             "owner": "thislooksfun",
             "repo": "SwiftlySearch",
-            "stars": 219
+            "stars": 219,
+            "topics": [
+              "combine",
+              "combine-framework",
+              "deprecated",
+              "deprecated-api",
+              "deprecated-library",
+              "deprecated-repo",
+              "deprecated-repository",
+              "ios",
+              "ios-14",
+              "ios-library",
+              "ios13",
+              "obsolete",
+              "obsoleted",
+              "swift",
+              "swift-5",
+              "swift-library",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2160,12 +3719,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SwiftUI views and view models for ShopSavvy Data API",
+            "homepage": "https://shopsavvy.com/integrations/swiftui",
             "id": 1200240452,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-04-03T07:35:28Z",
+            "open_issues": 0,
             "owner": "shopsavvy",
             "repo": "swiftui-shopsavvy",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -2182,12 +3746,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🟣 A robust Swift state-management framework designed for complex applications, featuring an integrated ORM for efficient data handling.",
+            "homepage": "https://swiftpackageindex.com/VergeGroup/swift-Verge/main/documentation/verge",
             "id": 107319016,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-01-21T04:03:43Z",
+            "open_issues": 10,
             "owner": "VergeGroup",
             "repo": "swift-verge",
-            "stars": 812
+            "stars": 812,
+            "topics": [
+              "data-driven",
+              "dispatcher",
+              "flux",
+              "ios",
+              "memoization",
+              "mvvm",
+              "performance-monitoring",
+              "redux",
+              "rxswift",
+              "state-shape",
+              "state-tree",
+              "store-pattern",
+              "swift",
+              "swiftui",
+              "uikit",
+              "verge",
+              "vuex"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2198,12 +3785,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Async state management for SwiftUI (and UIKit) 🐦",
+            "homepage": null,
             "id": 289801738,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-08-01T02:15:54Z",
+            "open_issues": 13,
             "owner": "fmo91",
             "repo": "Pigeon",
-            "stars": 432
+            "stars": 432,
+            "topics": [
+              "combine",
+              "ios",
+              "networking",
+              "swift",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2214,12 +3812,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Predictable state management for SwiftUI applications.",
+            "homepage": "http://stevenlambion.github.io/SwiftDux",
             "id": 191248620,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-07-10T16:36:59Z",
+            "open_issues": 2,
             "owner": "StevenLambion",
             "repo": "SwiftDux",
-            "stars": 151
+            "stars": 151,
+            "topics": [
+              "architecture",
+              "combine",
+              "ios",
+              "macos",
+              "reactive",
+              "redux",
+              "state",
+              "state-management",
+              "swift",
+              "swiftui",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -2236,12 +3851,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A SwiftUI ScrollView Designed to imitate the App Store and Apple Music ScrollViews (with or without a Parallax Header)",
+            "homepage": null,
             "id": 230115401,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-10-29T15:08:20Z",
+            "open_issues": 7,
             "owner": "nerdsupremacist",
             "repo": "FancyScrollView",
-            "stars": 1025
+            "stars": 1025,
+            "topics": [
+              "app-store",
+              "apple-music",
+              "parallax",
+              "scrollview",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2252,12 +3878,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A SwiftUI custom scroll view with content offset binding",
+            "homepage": null,
             "id": 230204556,
             "language": "Swift",
+            "license": null,
             "last_commit": "2022-02-03T15:08:34Z",
+            "open_issues": 4,
             "owner": "maxnatchanon",
             "repo": "trackable-scroll-view",
-            "stars": 232
+            "stars": 232,
+            "topics": [
+              "hacktoberfest",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2268,12 +3902,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A SwiftUI ScrollView that only scrolls if the content doesn't fit in the View",
+            "homepage": null,
             "id": 434537298,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2025-04-04T08:34:30Z",
+            "open_issues": 1,
             "owner": "dkk",
             "repo": "ScrollViewIfNeeded",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -2290,12 +3929,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":rocket: Collection of SwiftUI shapes",
+            "homepage": null,
             "id": 234238971,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-08-01T06:53:07Z",
+            "open_issues": 1,
             "owner": "spacenation",
             "repo": "swiftui-shapes",
-            "stars": 305
+            "stars": 305,
+            "topics": [
+              "apple",
+              "ios",
+              "macos",
+              "shapes",
+              "swift",
+              "swift-library",
+              "swift-package",
+              "swiftui",
+              "swiftui-example",
+              "tvos",
+              "watchos",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2306,12 +3963,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Commonly Used Shapes and Utilities In SwiftUI",
+            "homepage": null,
             "id": 249079960,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-11-15T19:30:44Z",
+            "open_issues": 1,
             "owner": "kieranb662",
             "repo": "SwiftUI-Shapes",
-            "stars": 105
+            "stars": 105,
+            "topics": [
+              "drawing",
+              "shapes",
+              "swift",
+              "swift-package-manager",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2322,12 +3990,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shapes for SwiftUI ♡☾",
+            "homepage": null,
             "id": 197448212,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2019-11-08T09:31:41Z",
+            "open_issues": 2,
             "owner": "phimage",
             "repo": "morphi",
-            "stars": 75
+            "stars": 75,
+            "topics": [
+              "heart",
+              "path",
+              "shape",
+              "swift",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -2344,12 +4023,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A sliding Sheet from the bottom of the Screen with 3 States build with SwiftUI.",
+            "homepage": null,
             "id": 327119249,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-07-18T09:58:04Z",
+            "open_issues": 19,
             "owner": "lucaszischka",
             "repo": "BottomSheet",
-            "stars": 1244
+            "stars": 1244,
+            "topics": [
+              "bottomsheet",
+              "hacktoberfest",
+              "swift",
+              "swift5",
+              "swiftui",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2360,12 +4051,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A SwiftUI bottom-up controller, like in the Maps app. Drag to expand or minimize.",
+            "homepage": null,
             "id": 279685167,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-03-21T19:26:29Z",
+            "open_issues": 9,
             "owner": "maustinstar",
             "repo": "swiftui-drawer",
-            "stars": 1046
+            "stars": 1046,
+            "topics": [
+              "ios",
+              "macos",
+              "swift5",
+              "swiftui",
+              "ui",
+              "ui-components",
+              "ux"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2376,12 +4080,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⬆️ A SwiftUI view component sliding in from bottom",
+            "homepage": null,
             "id": 259103949,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-11-14T02:14:42Z",
+            "open_issues": 7,
             "owner": "weitieda",
             "repo": "bottom-sheet",
-            "stars": 864
+            "stars": 864,
+            "topics": [
+              "animation",
+              "card",
+              "drag",
+              "ios",
+              "sheet",
+              "swift",
+              "swiftpackage",
+              "swiftpackagemanager",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2392,12 +4111,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A customizable Snapping Drawer à la Apple Maps.   100% in SwiftUI.",
+            "homepage": null,
             "id": 281512701,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-02-20T23:43:01Z",
+            "open_issues": 6,
             "owner": "nerdsupremacist",
             "repo": "Snap",
-            "stars": 793
+            "stars": 793,
+            "topics": [
+              "drawer",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2408,12 +4135,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A powerful SwiftUI sheet replacement",
+            "homepage": null,
             "id": 201686154,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2019-10-10T09:17:58Z",
+            "open_issues": 3,
             "owner": "egeniq",
             "repo": "BetterSheet",
-            "stars": 110
+            "stars": 110,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -2430,12 +4162,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":rocket: SwiftUI Sliders with custom styles",
+            "homepage": null,
             "id": 236384068,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2025-08-01T18:08:20Z",
+            "open_issues": 17,
             "owner": "spacenation",
             "repo": "swiftui-sliders",
-            "stars": 936
+            "stars": 936,
+            "topics": [
+              "apple",
+              "ios",
+              "macos",
+              "sliders",
+              "swift",
+              "swift-library",
+              "swift-package",
+              "swiftui",
+              "swiftui-example",
+              "tvos",
+              "watchos",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2446,12 +4196,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of unique fully customizable SwiftUI sliders, joysticks, trackpads and more!",
+            "homepage": "https://kieranb662.github.io/Sliders-SwiftUI/documentation/sliders/",
             "id": 254684678,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-03-13T22:16:23Z",
+            "open_issues": 1,
             "owner": "kieranb662",
             "repo": "Sliders-SwiftUI",
-            "stars": 728
+            "stars": 728,
+            "topics": [
+              "colorpicker",
+              "joystick",
+              "sliders",
+              "swift",
+              "swift-package-manager",
+              "swiftui",
+              "ui",
+              "ui-components"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2462,12 +4226,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A sliding ruler control for SwiftUI",
+            "homepage": null,
             "id": 260156970,
             "language": "Swift",
+            "license": null,
             "last_commit": "2024-05-31T22:31:13Z",
+            "open_issues": 11,
             "owner": "Pyroh",
             "repo": "SlidingRuler",
-            "stars": 453
+            "stars": 453,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2478,12 +4247,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom SwiftUI Slider with Value",
+            "homepage": null,
             "id": 626692133,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2023-04-12T05:55:46Z",
+            "open_issues": 0,
             "owner": "sanhee16",
             "repo": "SwiftUIValueSlider",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -2500,12 +4274,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A speech recognition framework designed for SwiftUI.",
+            "homepage": null,
             "id": 223111229,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-07-27T11:37:15Z",
+            "open_issues": 7,
             "owner": "Cay-Zhang",
             "repo": "SwiftSpeech",
-            "stars": 531
+            "stars": 531,
+            "topics": [
+              "audio",
+              "combine",
+              "ios",
+              "speech-recognition",
+              "swift",
+              "swiftui",
+              "user-voice",
+              "voice-recognition"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -2522,12 +4310,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A SwiftUI HStack with the ability to wrap contained elements",
+            "homepage": null,
             "id": 349015613,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2023-10-26T00:59:16Z",
+            "open_issues": 6,
             "owner": "dkk",
             "repo": "WrappingHStack",
-            "stars": 563
+            "stars": 563,
+            "topics": [
+              "swiftui",
+              "swiftui-components"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -2544,12 +4340,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SwiftUI iOS component for Step Indications.  ",
+            "homepage": "https://badrinathvm.github.io/StepperView/",
             "id": 253174437,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-02-25T05:30:04Z",
+            "open_issues": 11,
             "owner": "badrinathvm",
             "repo": "StepperView",
-            "stars": 1362
+            "stars": 1362,
+            "topics": [
+              "apple-watch",
+              "carthage",
+              "cocoapods",
+              "ios",
+              "stepindicator",
+              "stepperview",
+              "swift",
+              "swift-package-manager",
+              "swiftui",
+              "timeline",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -2566,12 +4379,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SVG parser and renderer written in SwiftUI",
+            "homepage": null,
             "id": 334681837,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-07-08T08:24:43Z",
+            "open_issues": 44,
             "owner": "exyte",
             "repo": "SVGView",
-            "stars": 851
+            "stars": 851,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -2588,12 +4406,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Animated tabbar with native control",
+            "homepage": null,
             "id": 178192956,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2023-11-24T06:12:04Z",
+            "open_issues": 1,
             "owner": "SimformSolutionsPvtLtd",
             "repo": "SSCustomTabbar",
-            "stars": 615
+            "stars": 615,
+            "topics": [
+              "animatedtabbar",
+              "customtabbar",
+              "fluidtabbar",
+              "swiftui",
+              "swiftui-animations",
+              "tabbar"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2604,12 +4434,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tabbar with a number of preset animations written in pure SwiftUI",
+            "homepage": "https://exyte.com/",
             "id": 592172633,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-07-08T08:22:13Z",
+            "open_issues": 0,
             "owner": "exyte",
             "repo": "AnimatedTabBar",
-            "stars": 547
+            "stars": 548,
+            "topics": [
+              "animation",
+              "ios-component",
+              "swift",
+              "swiftui",
+              "swiftui-components",
+              "tabbar",
+              "tabbarcontroller"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2620,12 +4463,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A SwiftUI TabView that retains the state of each tab as well as some other goodies.",
+            "homepage": null,
             "id": 262447545,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-10-31T17:03:30Z",
+            "open_issues": 0,
             "owner": "NicholasBellucci",
             "repo": "StatefulTabView",
-            "stars": 326
+            "stars": 326,
+            "topics": [
+              "swift-package-manager",
+              "swiftui",
+              "tabview",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2636,12 +4489,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SwiftUI - Sliding Tab View",
+            "homepage": null,
             "id": 195463880,
             "language": "Swift",
+            "license": null,
             "last_commit": "2023-01-31T19:01:02Z",
+            "open_issues": 11,
             "owner": "QuynhNguyen",
             "repo": "SlidingTabView",
-            "stars": 258
+            "stars": 258,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2652,12 +4510,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Aesthetic floating tab bar – SwiftUI & Combine ⛓️ Importable via Swift Package Manager 📦",
+            "homepage": null,
             "id": 259106378,
             "language": "Swift",
+            "license": null,
             "last_commit": "2023-02-28T13:48:28Z",
+            "open_issues": 0,
             "owner": "claudiaeng",
             "repo": "FloatingTabBar",
-            "stars": 250
+            "stars": 250,
+            "topics": [
+              "combine",
+              "ios",
+              "swift",
+              "swiftpackage",
+              "swiftpackagemanager",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -2674,12 +4544,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Elegant SwiftUI phone number textField.",
+            "homepage": null,
             "id": 307078190,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2025-02-28T07:30:29Z",
+            "open_issues": 6,
             "owner": "MojtabaHs",
             "repo": "iPhoneNumberField",
-            "stars": 583
+            "stars": 583,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2690,12 +4565,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Floating Label TextField for SwiftUI. FloatingLabelTextFieldSwiftUI",
+            "homepage": null,
             "id": 263094741,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-03-11T13:33:16Z",
+            "open_issues": 16,
             "owner": "kishanraja",
             "repo": "FloatingLabelTextFieldSwiftUI",
-            "stars": 492
+            "stars": 492,
+            "topics": [
+              "cocoapods",
+              "floatinglabeltextfield",
+              "floatinglabeltextfieldswiftui",
+              "interface-builder",
+              "swift",
+              "swiftui",
+              "textfield"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2706,12 +4594,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Currency text field formatter available for UIKit and SwiftUI 💶✏️",
+            "homepage": null,
             "id": 130617198,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-02-12T14:50:14Z",
+            "open_issues": 7,
             "owner": "marinofelipe",
             "repo": "CurrencyText",
-            "stars": 235
+            "stars": 235,
+            "topics": [
+              "cocoapods",
+              "currency",
+              "currency-formatting",
+              "ios",
+              "swift",
+              "swift-package-manager",
+              "swiftui",
+              "textfield",
+              "uikit",
+              "uitextfield"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2722,12 +4626,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Focus text field in SwiftUI dynamically and progress through form using iOS keyboard.",
+            "homepage": null,
             "id": 402117152,
             "language": "Swift",
+            "license": null,
             "last_commit": "2024-06-05T18:32:19Z",
+            "open_issues": 11,
             "owner": "art-technologies",
             "repo": "swift-focuser",
-            "stars": 162
+            "stars": 162,
+            "topics": [
+              "ios13",
+              "ios14",
+              "ios15",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2738,12 +4652,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The missing interactive keyboard in SwiftUI for iOS",
+            "homepage": null,
             "id": 232497298,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-01-29T03:29:04Z",
+            "open_issues": 1,
             "owner": "michaelhenry",
             "repo": "KeyboardAvoider",
-            "stars": 137
+            "stars": 137,
+            "topics": [
+              "autodismisskeyboard",
+              "autokeyboard",
+              "ios",
+              "keyboard",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2754,12 +4679,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A better TextField for SwiftUI. A growing, multiline, auto-focusable TextField supporting bindable focus.",
+            "homepage": null,
             "id": 323977381,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-05-30T15:17:38Z",
+            "open_issues": 1,
             "owner": "kitlangton",
             "repo": "OmenTextField",
-            "stars": 135
+            "stars": 135,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -2776,12 +4706,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Marquee or \"scrolling text\" effect in SwiftUI",
+            "homepage": null,
             "id": 303484892,
             "language": "Swift",
+            "license": null,
             "last_commit": "2025-10-10T08:13:26Z",
+            "open_issues": 14,
             "owner": "joekndy",
             "repo": "MarqueeText",
-            "stars": 360
+            "stars": 360,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2792,12 +4727,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Like a SwiftUI ViewBuilder, but for Text",
+            "homepage": "https://swiftpackageindex.com/davdroman/swiftui-text-builder/main/documentation/textbuilder",
             "id": 356590714,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-07-14T08:48:06Z",
+            "open_issues": 0,
             "owner": "davdroman",
             "repo": "swiftui-text-builder",
-            "stars": 247
+            "stars": 247,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -2814,12 +4754,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Toasts and popups library written with SwiftUI",
+            "homepage": null,
             "id": 258158475,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-07-30T06:44:34Z",
+            "open_issues": 1,
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4060
+            "stars": 4060,
+            "topics": [
+              "popup",
+              "swiftui",
+              "swiftui-components",
+              "swiftui-framework",
+              "toast"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2830,12 +4781,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Popups, popovers, sheets, alerts, toasts, banners, (...) presentation made simple. Written with and for SwiftUI.",
+            "homepage": null,
             "id": 600241429,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-22T18:52:37Z",
+            "open_issues": 31,
             "owner": "Mijick",
             "repo": "Popups",
-            "stars": 1815
+            "stars": 1815,
+            "topics": [
+              "alert",
+              "cocoapods",
+              "ios",
+              "ios-sdk",
+              "ios-swift",
+              "mobile",
+              "popover",
+              "popup",
+              "popup-window",
+              "popupview",
+              "popupwindow",
+              "swift",
+              "swift-library",
+              "swift-package",
+              "swift-package-manager",
+              "swift6",
+              "swiftui",
+              "swiftui-components",
+              "swiftui-framework",
+              "toast"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2846,12 +4823,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A µFramework for showing alerts like the one used when copying from pasteboard or connecting Apple pencil",
+            "homepage": "https://omaralbeik.github.io/Drops",
             "id": 362044566,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-10-11T16:52:22Z",
+            "open_issues": 5,
             "owner": "omaralbeik",
             "repo": "Drops",
-            "stars": 1043
+            "stars": 1043,
+            "topics": [
+              "accessibility",
+              "alert",
+              "carthage",
+              "cocoapods",
+              "ios",
+              "swift",
+              "swift-package",
+              "swiftui",
+              "ui-framework",
+              "uikit",
+              "voiceover",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2862,12 +4857,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple way to show toast in SwiftUI.",
+            "homepage": null,
             "id": 285072300,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-08-11T01:19:51Z",
+            "open_issues": 3,
             "owner": "quanshousio",
             "repo": "ToastUI",
-            "stars": 652
+            "stars": 652,
+            "topics": [
+              "hud",
+              "popup",
+              "swift",
+              "swiftui",
+              "swiftui-components",
+              "swiftui-framework",
+              "toast"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2878,12 +4886,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SSToastMessage is written purely in SwiftUI. It will add toast, alert, and floating message view over the top of any view. It is intended to be simple, lightweight, and easy to use. It will be a popup with a single line of code.",
+            "homepage": null,
             "id": 293710018,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-05-30T10:52:14Z",
+            "open_issues": 1,
             "owner": "SimformSolutionsPvtLtd",
             "repo": "SSToastMessage",
-            "stars": 524
+            "stars": 524,
+            "topics": [
+              "cocoapods",
+              "custom-dropdown",
+              "customizable-toast-messages",
+              "floating-toast",
+              "in-app-notification-view",
+              "librery",
+              "messageview",
+              "simform",
+              "spm",
+              "swift5",
+              "swiftui",
+              "swiftui-alert",
+              "swiftui-popup",
+              "swiftui-toast",
+              "toast"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2894,12 +4923,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SimpleToast is a simple, lightweight, flexible and easy to use library to show toasts / popup notifications inside iOS or MacOS applications in SwiftUI. Because of the flexibility to show any content it is also possible to use the library for showing simple modals.",
+            "homepage": null,
             "id": 280126755,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-14T17:26:06Z",
+            "open_issues": 0,
             "owner": "sanzaru",
             "repo": "SimpleToast",
-            "stars": 486
+            "stars": 486,
+            "topics": [
+              "ios",
+              "macos",
+              "notification",
+              "popup",
+              "swift",
+              "swift-package",
+              "swift5",
+              "swiftui",
+              "toast",
+              "toast-notifications"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2910,12 +4955,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy Tooltip for your SwiftUI Project",
+            "homepage": null,
             "id": 306905090,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2023-05-10T11:03:26Z",
+            "open_issues": 7,
             "owner": "quassum",
             "repo": "SwiftUI-Tooltip",
-            "stars": 376
+            "stars": 376,
+            "topics": [
+              "apple",
+              "swift",
+              "swift5",
+              "swiftui",
+              "tooltip"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -2932,12 +4988,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Swift Package to easily play YouTube videos 📺",
+            "homepage": "https://sventiigi.github.io/YouTubePlayerKit/",
             "id": 408516560,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2025-12-25T09:57:47Z",
+            "open_issues": 1,
             "owner": "SvenTiigi",
             "repo": "YouTubePlayerKit",
-            "stars": 990
+            "stars": 990,
+            "topics": [
+              "ios",
+              "macos",
+              "swift",
+              "swiftui",
+              "visionos",
+              "youtube",
+              "youtube-iframe-player",
+              "youtube-player"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2948,12 +5018,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📽 A video player for SwiftUI, support for caching, preload and custom control view. SwiftUI 视频播放器，支持边下边播、预加载、自定义控制层",
+            "homepage": "https://github.com/wxxsw/VideoPlayer",
             "id": 196777426,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2025-06-21T12:37:25Z",
+            "open_issues": 25,
             "owner": "wxxsw",
             "repo": "VideoPlayer",
-            "stars": 776
+            "stars": 776,
+            "topics": [
+              "avplayer",
+              "player",
+              "swift",
+              "swiftui",
+              "videoplayer"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -2970,12 +5051,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[Looking for active maintainers] SwiftUI-compatible framework for building browser apps with WebAssembly and native apps for other platforms",
+            "homepage": null,
             "id": 148935509,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-23T16:00:17Z",
+            "open_issues": 127,
             "owner": "TokamakUI",
             "repo": "Tokamak",
-            "stars": 2844
+            "stars": 2843,
+            "topics": [
+              "data-binding",
+              "dom",
+              "hacktoberfest",
+              "swift",
+              "swiftui",
+              "swiftwasm",
+              "ui-components",
+              "wasi",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2986,12 +5082,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A better way to present a SFSafariViewController or start a ASWebAuthenticationSession in SwiftUI.",
+            "homepage": null,
             "id": 264128032,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-07-09T18:07:21Z",
+            "open_issues": 33,
             "owner": "stleamist",
             "repo": "BetterSafariView",
-            "stars": 641
+            "stars": 641,
+            "topics": [
+              "aswebauthenticationsession",
+              "ios",
+              "safari",
+              "sfauthenticationsession",
+              "sfsafariviewcontroller",
+              "swift",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -3002,12 +5111,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SwiftUI with support for WebAssembly",
+            "homepage": "http://www.alwaysrightinstitute.com/swiftwebui/",
             "id": 267459360,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2020-10-30T09:06:16Z",
+            "open_issues": 2,
             "owner": "carson-katri",
             "repo": "SwiftWebUI",
-            "stars": 425
+            "stars": 425,
+            "topics": [
+              "swiftui",
+              "swiftwasm",
+              "swiftwebui",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -3016,15 +5135,34 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:46:46.752Z",
+    "last_updated": "2026-08-29T04:30:52.261Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":rocket: Awesome SwiftUI Libraries ",
+      "homepage": null,
       "id": 397667534,
       "language": "Swift",
+      "license": "MIT",
       "last_commit": "2026-07-17T10:44:56Z",
+      "open_issues": 0,
       "owner": "Toni77777",
       "repo": "awesome-swiftui-libraries",
-      "stars": 1536
+      "stars": 1536,
+      "topics": [
+        "awesome",
+        "frameworks",
+        "ios",
+        "libraries",
+        "macos",
+        "swift",
+        "swiftui",
+        "swiftui-framework",
+        "swiftui2",
+        "swiftui3",
+        "tvos",
+        "watchos",
+        "xcode"
+      ]
     },
     "original_repository_sha": "9cfe3612e7e8b763fcc248ad5fba31e58a465d34",
     "enhanced_repository": "enhansome/enhansome-swiftui-libraries",
