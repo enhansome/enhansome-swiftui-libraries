@@ -985,7 +985,7 @@
             "open_issues": 96,
             "owner": "AppPear",
             "repo": "ChartView",
-            "stars": 5639,
+            "stars": 5638,
             "topics": [
               "chart",
               "charts",
@@ -1012,7 +1012,7 @@
             "open_issues": 2,
             "owner": "mecid",
             "repo": "SwiftUICharts",
-            "stars": 1574,
+            "stars": 1573,
             "topics": [
               "chart",
               "swiftui"
@@ -1901,7 +1901,7 @@
             "open_issues": 15,
             "owner": "exyte",
             "repo": "Grid",
-            "stars": 2104,
+            "stars": 2105,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -2771,7 +2771,7 @@
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-08-28T14:30:12Z",
+            "last_commit": "2026-08-30T11:04:36Z",
             "open_issues": 2,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
@@ -3399,7 +3399,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "MediaPicker",
-            "stars": 490,
+            "stars": 491,
             "topics": [
               "ios",
               "photo-gallery",
@@ -5027,7 +5027,7 @@
             "open_issues": 25,
             "owner": "wxxsw",
             "repo": "VideoPlayer",
-            "stars": 777,
+            "stars": 778,
             "topics": [
               "avplayer",
               "player",
@@ -5091,7 +5091,7 @@
             "open_issues": 33,
             "owner": "stleamist",
             "repo": "BetterSafariView",
-            "stars": 641,
+            "stars": 642,
             "topics": [
               "aswebauthenticationsession",
               "ios",
@@ -5135,7 +5135,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T12:43:15.699Z",
+    "last_updated": "2026-08-30T11:58:20.635Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
