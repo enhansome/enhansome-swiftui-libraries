@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "sparrowcode",
             "repo": "AlertKit",
-            "stars": 2634,
+            "stars": 2635,
             "topics": [
               "alert",
               "alert-controller",
@@ -58,7 +58,7 @@
             "open_issues": 32,
             "owner": "elai950",
             "repo": "AlertToast",
-            "stars": 2445,
+            "stars": 2446,
             "topics": [
               "alert",
               "alert-controller",
@@ -123,7 +123,7 @@
             "open_issues": 20,
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5626,
+            "stars": 5627,
             "topics": [
               "animations",
               "app-animations",
@@ -190,7 +190,7 @@
             "id": 553564385,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-02T09:37:56Z",
+            "last_commit": "2026-09-03T01:15:19Z",
             "open_issues": 4,
             "owner": "davdroman",
             "repo": "swiftui-navigation-transitions",
@@ -985,7 +985,7 @@
             "open_issues": 96,
             "owner": "AppPear",
             "repo": "ChartView",
-            "stars": 5641,
+            "stars": 5642,
             "topics": [
               "chart",
               "charts",
@@ -1036,7 +1036,7 @@
             "open_issues": 10,
             "owner": "spacenation",
             "repo": "swiftui-charts",
-            "stars": 807,
+            "stars": 809,
             "topics": [
               "apple",
               "charts",
@@ -1429,7 +1429,7 @@
             "open_issues": 9,
             "owner": "simibac",
             "repo": "ConfettiSwiftUI",
-            "stars": 2452,
+            "stars": 2451,
             "topics": [
               "animation",
               "swiftui"
@@ -1546,7 +1546,7 @@
             "open_issues": 0,
             "owner": "vmanot",
             "repo": "SwiftDB",
-            "stars": 342,
+            "stars": 340,
             "topics": [
               "attribute",
               "codable",
@@ -2175,7 +2175,7 @@
             "open_issues": 17,
             "owner": "lorenzofiamingo",
             "repo": "swiftui-cached-async-image",
-            "stars": 710,
+            "stars": 711,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -2771,7 +2771,7 @@
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-02T11:17:53Z",
+            "last_commit": "2026-09-03T11:18:43Z",
             "open_issues": 2,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
@@ -3229,7 +3229,7 @@
             "open_issues": 12,
             "owner": "nachonavarro",
             "repo": "Pages",
-            "stars": 870,
+            "stars": 871,
             "topics": [
               "ios",
               "paging",
@@ -3399,7 +3399,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "MediaPicker",
-            "stars": 491,
+            "stars": 490,
             "topics": [
               "ios",
               "photo-gallery",
@@ -4032,7 +4032,7 @@
             "open_issues": 19,
             "owner": "lucaszischka",
             "repo": "BottomSheet",
-            "stars": 1244,
+            "stars": 1243,
             "topics": [
               "bottomsheet",
               "hacktoberfest",
@@ -4388,7 +4388,7 @@
             "open_issues": 44,
             "owner": "exyte",
             "repo": "SVGView",
-            "stars": 852,
+            "stars": 853,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -4574,7 +4574,7 @@
             "open_issues": 16,
             "owner": "kishanraja",
             "repo": "FloatingLabelTextFieldSwiftUI",
-            "stars": 492,
+            "stars": 491,
             "topics": [
               "cocoapods",
               "floatinglabeltextfield",
@@ -4732,7 +4732,7 @@
             "id": 356590714,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-02T09:37:55Z",
+            "last_commit": "2026-09-03T01:05:00Z",
             "open_issues": 1,
             "owner": "davdroman",
             "repo": "swiftui-text-builder",
@@ -5135,7 +5135,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T11:24:18.209Z",
+    "last_updated": "2026-09-03T11:20:44.474Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
