@@ -190,11 +190,11 @@
             "id": 553564385,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-03T01:15:19Z",
+            "last_commit": "2026-09-04T00:13:26Z",
             "open_issues": 4,
             "owner": "davdroman",
             "repo": "swiftui-navigation-transitions",
-            "stars": 1081,
+            "stars": 1080,
             "topics": [
               "animation",
               "native",
@@ -225,7 +225,7 @@
             "open_issues": 0,
             "owner": "Arvindcs",
             "repo": "SwiftUI-Animation",
-            "stars": 1058,
+            "stars": 1059,
             "topics": [
               "animated-dots",
               "cardview",
@@ -870,7 +870,7 @@
             "open_issues": 4,
             "owner": "danielsaidi",
             "repo": "DeckKit",
-            "stars": 890,
+            "stars": 889,
             "topics": [
               "card",
               "deck",
@@ -985,7 +985,7 @@
             "open_issues": 96,
             "owner": "AppPear",
             "repo": "ChartView",
-            "stars": 5642,
+            "stars": 5643,
             "topics": [
               "chart",
               "charts",
@@ -1429,7 +1429,7 @@
             "open_issues": 9,
             "owner": "simibac",
             "repo": "ConfettiSwiftUI",
-            "stars": 2451,
+            "stars": 2452,
             "topics": [
               "animation",
               "swiftui"
@@ -1649,7 +1649,7 @@
             "open_issues": 29,
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8148,
+            "stars": 8150,
             "topics": [
               "attributedstring",
               "backwards-compatibility",
@@ -2113,7 +2113,7 @@
             "open_issues": 83,
             "owner": "SDWebImage",
             "repo": "SDWebImageSwiftUI",
-            "stars": 2561,
+            "stars": 2562,
             "topics": [
               "animated-webp",
               "apng",
@@ -2148,7 +2148,7 @@
             "open_issues": 15,
             "owner": "dmytro-anokhin",
             "repo": "url-image",
-            "stars": 1156,
+            "stars": 1155,
             "topics": [
               "ios",
               "macos",
@@ -2771,7 +2771,7 @@
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-03T11:18:43Z",
+            "last_commit": "2026-09-04T11:19:37Z",
             "open_issues": 2,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
@@ -2822,7 +2822,7 @@
             "open_issues": 5,
             "owner": "FluidGroup",
             "repo": "swiftui-messaging-ui",
-            "stars": 78,
+            "stars": 80,
             "topics": [
               "chat",
               "messaging",
@@ -3166,7 +3166,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "ConcentricOnboarding",
-            "stars": 1568,
+            "stars": 1569,
             "topics": [
               "cocoapods",
               "ios",
@@ -4060,7 +4060,7 @@
             "open_issues": 9,
             "owner": "maustinstar",
             "repo": "swiftui-drawer",
-            "stars": 1048,
+            "stars": 1050,
             "topics": [
               "ios",
               "macos",
@@ -4732,8 +4732,8 @@
             "id": 356590714,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-03T01:05:00Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-03T21:10:50Z",
+            "open_issues": 0,
             "owner": "davdroman",
             "repo": "swiftui-text-builder",
             "stars": 248,
@@ -4932,7 +4932,7 @@
             "open_issues": 0,
             "owner": "sanzaru",
             "repo": "SimpleToast",
-            "stars": 486,
+            "stars": 487,
             "topics": [
               "ios",
               "macos",
@@ -4997,7 +4997,7 @@
             "open_issues": 1,
             "owner": "SvenTiigi",
             "repo": "YouTubePlayerKit",
-            "stars": 992,
+            "stars": 991,
             "topics": [
               "ios",
               "macos",
@@ -5135,7 +5135,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T11:20:44.474Z",
+    "last_updated": "2026-09-04T11:23:59.173Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
