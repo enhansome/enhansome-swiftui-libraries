@@ -123,7 +123,7 @@
             "open_issues": 20,
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5627,
+            "stars": 5626,
             "topics": [
               "animations",
               "app-animations",
@@ -162,7 +162,7 @@
             "open_issues": 6,
             "owner": "maustinstar",
             "repo": "shiny",
-            "stars": 1093,
+            "stars": 1094,
             "topics": [
               "gyroscope",
               "ios",
@@ -190,8 +190,8 @@
             "id": 553564385,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-04T00:13:26Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-04T21:24:54Z",
+            "open_issues": 3,
             "owner": "davdroman",
             "repo": "swiftui-navigation-transitions",
             "stars": 1080,
@@ -562,7 +562,7 @@
             "open_issues": 10,
             "owner": "ThasianX",
             "repo": "ElegantCalendar",
-            "stars": 1093,
+            "stars": 1094,
             "topics": [
               "calendar",
               "elegantcalendar",
@@ -621,7 +621,7 @@
             "open_issues": 9,
             "owner": "GGJJack",
             "repo": "SwiftUICalendar",
-            "stars": 252,
+            "stars": 253,
             "topics": [
               "calendar",
               "cocoapods",
@@ -1922,7 +1922,7 @@
             "open_issues": 18,
             "owner": "Q-Mobile",
             "repo": "QGrid",
-            "stars": 1649,
+            "stars": 1648,
             "topics": [
               "declarative-ui",
               "grid",
@@ -2605,7 +2605,7 @@
             "open_issues": 62,
             "owner": "gonzalezreal",
             "repo": "swift-markdown-ui",
-            "stars": 3922,
+            "stars": 3923,
             "topics": [
               "cmark",
               "commonmark",
@@ -2771,7 +2771,7 @@
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-04T11:19:37Z",
+            "last_commit": "2026-09-05T08:16:08Z",
             "open_issues": 2,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
@@ -3229,7 +3229,7 @@
             "open_issues": 12,
             "owner": "nachonavarro",
             "repo": "Pages",
-            "stars": 871,
+            "stars": 872,
             "topics": [
               "ios",
               "paging",
@@ -4060,7 +4060,7 @@
             "open_issues": 9,
             "owner": "maustinstar",
             "repo": "swiftui-drawer",
-            "stars": 1050,
+            "stars": 1051,
             "topics": [
               "ios",
               "macos",
@@ -4120,7 +4120,7 @@
             "open_issues": 6,
             "owner": "nerdsupremacist",
             "repo": "Snap",
-            "stars": 794,
+            "stars": 793,
             "topics": [
               "drawer",
               "swiftui"
@@ -4319,7 +4319,7 @@
             "open_issues": 6,
             "owner": "dkk",
             "repo": "WrappingHStack",
-            "stars": 563,
+            "stars": 564,
             "topics": [
               "swiftui",
               "swiftui-components"
@@ -5135,7 +5135,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T11:23:59.173Z",
+    "last_updated": "2026-09-05T10:40:20.785Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
