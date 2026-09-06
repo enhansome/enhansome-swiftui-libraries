@@ -123,7 +123,7 @@
             "open_issues": 20,
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5626,
+            "stars": 5627,
             "topics": [
               "animations",
               "app-animations",
@@ -985,7 +985,7 @@
             "open_issues": 96,
             "owner": "AppPear",
             "repo": "ChartView",
-            "stars": 5643,
+            "stars": 5642,
             "topics": [
               "chart",
               "charts",
@@ -1649,7 +1649,7 @@
             "open_issues": 29,
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8150,
+            "stars": 8151,
             "topics": [
               "attributedstring",
               "backwards-compatibility",
@@ -2113,7 +2113,7 @@
             "open_issues": 83,
             "owner": "SDWebImage",
             "repo": "SDWebImageSwiftUI",
-            "stars": 2562,
+            "stars": 2561,
             "topics": [
               "animated-webp",
               "apng",
@@ -2605,7 +2605,7 @@
             "open_issues": 62,
             "owner": "gonzalezreal",
             "repo": "swift-markdown-ui",
-            "stars": 3923,
+            "stars": 3924,
             "topics": [
               "cmark",
               "commonmark",
@@ -2771,7 +2771,7 @@
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-05T08:16:08Z",
+            "last_commit": "2026-09-05T16:05:50Z",
             "open_issues": 2,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
@@ -3047,7 +3047,7 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2024-08-22T05:51:00Z",
-            "open_issues": 8,
+            "open_issues": 10,
             "owner": "SwiftUIX",
             "repo": "Coordinator",
             "stars": 298,
@@ -4235,7 +4235,7 @@
             "open_issues": 11,
             "owner": "Pyroh",
             "repo": "SlidingRuler",
-            "stars": 453,
+            "stars": 454,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -5060,7 +5060,7 @@
             "open_issues": 127,
             "owner": "TokamakUI",
             "repo": "Tokamak",
-            "stars": 2842,
+            "stars": 2841,
             "topics": [
               "data-binding",
               "dom",
@@ -5135,7 +5135,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T10:40:20.785Z",
+    "last_updated": "2026-09-06T11:02:14.757Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
