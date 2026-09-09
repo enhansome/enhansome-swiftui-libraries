@@ -123,7 +123,7 @@
             "open_issues": 20,
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5630,
+            "stars": 5632,
             "topics": [
               "animations",
               "app-animations",
@@ -985,7 +985,7 @@
             "open_issues": 96,
             "owner": "AppPear",
             "repo": "ChartView",
-            "stars": 5642,
+            "stars": 5643,
             "topics": [
               "chart",
               "charts",
@@ -1429,7 +1429,7 @@
             "open_issues": 9,
             "owner": "simibac",
             "repo": "ConfettiSwiftUI",
-            "stars": 2452,
+            "stars": 2453,
             "topics": [
               "animation",
               "swiftui"
@@ -1649,7 +1649,7 @@
             "open_issues": 29,
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8152,
+            "stars": 8154,
             "topics": [
               "attributedstring",
               "backwards-compatibility",
@@ -1869,7 +1869,7 @@
             "open_issues": 15,
             "owner": "paololeonardi",
             "repo": "WaterfallGrid",
-            "stars": 2665,
+            "stars": 2666,
             "topics": [
               "ios",
               "macos",
@@ -1897,8 +1897,8 @@
             "id": 255865003,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-07-08T08:24:32Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-09T05:42:03Z",
+            "open_issues": 11,
             "owner": "exyte",
             "repo": "Grid",
             "stars": 2106,
@@ -2771,7 +2771,7 @@
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-07T14:58:08Z",
+            "last_commit": "2026-09-09T10:22:43Z",
             "open_issues": 2,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
@@ -2822,7 +2822,7 @@
             "open_issues": 5,
             "owner": "FluidGroup",
             "repo": "swiftui-messaging-ui",
-            "stars": 81,
+            "stars": 82,
             "topics": [
               "chat",
               "messaging",
@@ -4032,7 +4032,7 @@
             "open_issues": 19,
             "owner": "lucaszischka",
             "repo": "BottomSheet",
-            "stars": 1243,
+            "stars": 1244,
             "topics": [
               "bottomsheet",
               "hacktoberfest",
@@ -4319,7 +4319,7 @@
             "open_issues": 6,
             "owner": "dkk",
             "repo": "WrappingHStack",
-            "stars": 564,
+            "stars": 565,
             "topics": [
               "swiftui",
               "swiftui-components"
@@ -4832,7 +4832,7 @@
             "open_issues": 5,
             "owner": "omaralbeik",
             "repo": "Drops",
-            "stars": 1043,
+            "stars": 1042,
             "topics": [
               "accessibility",
               "alert",
@@ -5135,7 +5135,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T11:24:42.478Z",
+    "last_updated": "2026-09-09T11:29:34.465Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
@@ -5147,7 +5147,7 @@
       "open_issues": 0,
       "owner": "Toni77777",
       "repo": "awesome-swiftui-libraries",
-      "stars": 1538,
+      "stars": 1539,
       "topics": [
         "awesome",
         "frameworks",
