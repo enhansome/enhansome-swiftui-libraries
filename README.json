@@ -194,7 +194,7 @@
             "open_issues": 3,
             "owner": "davdroman",
             "repo": "swiftui-navigation-transitions",
-            "stars": 1080,
+            "stars": 1081,
             "topics": [
               "animation",
               "native",
@@ -267,7 +267,7 @@
             "open_issues": 3,
             "owner": "maustinstar",
             "repo": "liquid",
-            "stars": 858,
+            "stars": 859,
             "topics": [
               "artwork",
               "ios",
@@ -840,7 +840,7 @@
             "open_issues": 11,
             "owner": "joogps",
             "repo": "SlideOverCard",
-            "stars": 1221,
+            "stars": 1220,
             "topics": [
               "apple",
               "card",
@@ -1036,7 +1036,7 @@
             "open_issues": 10,
             "owner": "spacenation",
             "repo": "swiftui-charts",
-            "stars": 810,
+            "stars": 809,
             "topics": [
               "apple",
               "charts",
@@ -1649,7 +1649,7 @@
             "open_issues": 29,
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8154,
+            "stars": 8156,
             "topics": [
               "attributedstring",
               "backwards-compatibility",
@@ -1869,7 +1869,7 @@
             "open_issues": 15,
             "owner": "paololeonardi",
             "repo": "WaterfallGrid",
-            "stars": 2666,
+            "stars": 2667,
             "topics": [
               "ios",
               "macos",
@@ -1897,8 +1897,8 @@
             "id": 255865003,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-09T05:42:03Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-10T07:04:53Z",
+            "open_issues": 8,
             "owner": "exyte",
             "repo": "Grid",
             "stars": 2106,
@@ -2465,11 +2465,11 @@
             "id": 248494113,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-07-17T09:28:57Z",
+            "last_commit": "2026-09-10T05:58:33Z",
             "open_issues": 0,
             "owner": "exyte",
             "repo": "ActivityIndicatorView",
-            "stars": 1665,
+            "stars": 1666,
             "topics": [
               "swiftui",
               "swiftui-components",
@@ -2605,7 +2605,7 @@
             "open_issues": 62,
             "owner": "gonzalezreal",
             "repo": "swift-markdown-ui",
-            "stars": 3923,
+            "stars": 3925,
             "topics": [
               "cmark",
               "commonmark",
@@ -2771,7 +2771,7 @@
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-09T10:22:43Z",
+            "last_commit": "2026-09-10T10:39:19Z",
             "open_issues": 2,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
@@ -4932,7 +4932,7 @@
             "open_issues": 0,
             "owner": "sanzaru",
             "repo": "SimpleToast",
-            "stars": 487,
+            "stars": 488,
             "topics": [
               "ios",
               "macos",
@@ -5135,7 +5135,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T11:29:34.465Z",
+    "last_updated": "2026-09-10T11:26:06.989Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
@@ -5147,7 +5147,7 @@
       "open_issues": 0,
       "owner": "Toni77777",
       "repo": "awesome-swiftui-libraries",
-      "stars": 1539,
+      "stars": 1540,
       "topics": [
         "awesome",
         "frameworks",
