@@ -58,7 +58,7 @@
             "open_issues": 32,
             "owner": "elai950",
             "repo": "AlertToast",
-            "stars": 2447,
+            "stars": 2448,
             "topics": [
               "alert",
               "alert-controller",
@@ -123,7 +123,7 @@
             "open_issues": 20,
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5632,
+            "stars": 5637,
             "topics": [
               "animations",
               "app-animations",
@@ -720,7 +720,7 @@
             "open_issues": 37,
             "owner": "Mijick",
             "repo": "Camera",
-            "stars": 653,
+            "stars": 654,
             "topics": [
               "avfoundation",
               "camera",
@@ -1036,7 +1036,7 @@
             "open_issues": 10,
             "owner": "spacenation",
             "repo": "swiftui-charts",
-            "stars": 809,
+            "stars": 810,
             "topics": [
               "apple",
               "charts",
@@ -1546,7 +1546,7 @@
             "open_issues": 0,
             "owner": "vmanot",
             "repo": "SwiftDB",
-            "stars": 340,
+            "stars": 339,
             "topics": [
               "attribute",
               "codable",
@@ -1649,7 +1649,7 @@
             "open_issues": 29,
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8156,
+            "stars": 8157,
             "topics": [
               "attributedstring",
               "backwards-compatibility",
@@ -1685,7 +1685,7 @@
             "open_issues": 1,
             "owner": "Mijick",
             "repo": "Timer",
-            "stars": 202,
+            "stars": 203,
             "topics": [
               "combine",
               "ios",
@@ -1901,7 +1901,7 @@
             "open_issues": 8,
             "owner": "exyte",
             "repo": "Grid",
-            "stars": 2106,
+            "stars": 2107,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -2175,7 +2175,7 @@
             "open_issues": 17,
             "owner": "lorenzofiamingo",
             "repo": "swiftui-cached-async-image",
-            "stars": 711,
+            "stars": 712,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -2605,7 +2605,7 @@
             "open_issues": 62,
             "owner": "gonzalezreal",
             "repo": "swift-markdown-ui",
-            "stars": 3925,
+            "stars": 3926,
             "topics": [
               "cmark",
               "commonmark",
@@ -2771,8 +2771,8 @@
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-10T10:39:19Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-11T08:13:07Z",
+            "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
             "stars": 89,
@@ -2818,7 +2818,7 @@
             "id": 1083101948,
             "language": "Swift",
             "license": "Apache-2.0",
-            "last_commit": "2026-06-24T10:12:34Z",
+            "last_commit": "2026-09-11T05:53:17Z",
             "open_issues": 5,
             "owner": "FluidGroup",
             "repo": "swiftui-messaging-ui",
@@ -4763,7 +4763,7 @@
             "open_issues": 1,
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4061,
+            "stars": 4060,
             "topics": [
               "popup",
               "swiftui",
@@ -4790,7 +4790,7 @@
             "open_issues": 31,
             "owner": "Mijick",
             "repo": "Popups",
-            "stars": 1814,
+            "stars": 1815,
             "topics": [
               "alert",
               "cocoapods",
@@ -5060,7 +5060,7 @@
             "open_issues": 127,
             "owner": "TokamakUI",
             "repo": "Tokamak",
-            "stars": 2841,
+            "stars": 2840,
             "topics": [
               "data-binding",
               "dom",
@@ -5135,7 +5135,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T11:26:06.989Z",
+    "last_updated": "2026-09-11T11:28:00.029Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
