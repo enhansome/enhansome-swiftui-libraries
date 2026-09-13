@@ -58,7 +58,7 @@
             "open_issues": 32,
             "owner": "elai950",
             "repo": "AlertToast",
-            "stars": 2448,
+            "stars": 2447,
             "topics": [
               "alert",
               "alert-controller",
@@ -123,7 +123,7 @@
             "open_issues": 20,
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5638,
+            "stars": 5639,
             "topics": [
               "animations",
               "app-animations",
@@ -650,7 +650,7 @@
             "open_issues": 9,
             "owner": "EvanCooper9",
             "repo": "swift-week-view",
-            "stars": 215,
+            "stars": 214,
             "topics": [
               "asynchronous",
               "calendar",
@@ -1649,7 +1649,7 @@
             "open_issues": 29,
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8158,
+            "stars": 8157,
             "topics": [
               "attributedstring",
               "backwards-compatibility",
@@ -2113,7 +2113,7 @@
             "open_issues": 83,
             "owner": "SDWebImage",
             "repo": "SDWebImageSwiftUI",
-            "stars": 2560,
+            "stars": 2561,
             "topics": [
               "animated-webp",
               "apng",
@@ -2148,7 +2148,7 @@
             "open_issues": 15,
             "owner": "dmytro-anokhin",
             "repo": "url-image",
-            "stars": 1156,
+            "stars": 1155,
             "topics": [
               "ios",
               "macos",
@@ -2822,7 +2822,7 @@
             "open_issues": 5,
             "owner": "FluidGroup",
             "repo": "swiftui-messaging-ui",
-            "stars": 83,
+            "stars": 84,
             "topics": [
               "chat",
               "messaging",
@@ -2880,7 +2880,7 @@
             "open_issues": 22,
             "owner": "matteopuc",
             "repo": "swiftui-navigation-stack",
-            "stars": 998,
+            "stars": 999,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -3195,7 +3195,7 @@
             "open_issues": 45,
             "owner": "fermoya",
             "repo": "SwiftUIPager",
-            "stars": 1469,
+            "stars": 1470,
             "topics": [
               "cocoapods",
               "ios",
@@ -3627,7 +3627,7 @@
             "open_issues": 17,
             "owner": "heart",
             "repo": "CarBode-Barcode-Scanner-For-SwiftUI",
-            "stars": 302,
+            "stars": 301,
             "topics": [
               "barcode-generator",
               "barcode-scanner",
@@ -3755,7 +3755,7 @@
             "open_issues": 10,
             "owner": "VergeGroup",
             "repo": "swift-verge",
-            "stars": 812,
+            "stars": 810,
             "topics": [
               "data-driven",
               "dispatcher",
@@ -4120,7 +4120,7 @@
             "open_issues": 6,
             "owner": "nerdsupremacist",
             "repo": "Snap",
-            "stars": 793,
+            "stars": 794,
             "topics": [
               "drawer",
               "swiftui"
@@ -4171,7 +4171,7 @@
             "open_issues": 17,
             "owner": "spacenation",
             "repo": "swiftui-sliders",
-            "stars": 937,
+            "stars": 936,
             "topics": [
               "apple",
               "ios",
@@ -4415,7 +4415,7 @@
             "open_issues": 1,
             "owner": "SimformSolutionsPvtLtd",
             "repo": "SSCustomTabbar",
-            "stars": 615,
+            "stars": 614,
             "topics": [
               "animatedtabbar",
               "customtabbar",
@@ -4472,7 +4472,7 @@
             "open_issues": 0,
             "owner": "NicholasBellucci",
             "repo": "StatefulTabView",
-            "stars": 326,
+            "stars": 325,
             "topics": [
               "swift-package-manager",
               "swiftui",
@@ -4932,7 +4932,7 @@
             "open_issues": 0,
             "owner": "sanzaru",
             "repo": "SimpleToast",
-            "stars": 488,
+            "stars": 489,
             "topics": [
               "ios",
               "macos",
@@ -4997,7 +4997,7 @@
             "open_issues": 1,
             "owner": "SvenTiigi",
             "repo": "YouTubePlayerKit",
-            "stars": 990,
+            "stars": 989,
             "topics": [
               "ios",
               "macos",
@@ -5060,7 +5060,7 @@
             "open_issues": 127,
             "owner": "TokamakUI",
             "repo": "Tokamak",
-            "stars": 2839,
+            "stars": 2838,
             "topics": [
               "data-binding",
               "dom",
@@ -5091,7 +5091,7 @@
             "open_issues": 33,
             "owner": "stleamist",
             "repo": "BetterSafariView",
-            "stars": 642,
+            "stars": 641,
             "topics": [
               "aswebauthenticationsession",
               "ios",
@@ -5135,7 +5135,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T10:52:35.810Z",
+    "last_updated": "2026-09-13T11:58:05.931Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
