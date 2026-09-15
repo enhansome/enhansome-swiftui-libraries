@@ -80,7 +80,7 @@
 * [swiftui-animations](https://github.com/amosgyamfi/swiftui-animation-library) ⭐ 5,640 | 🐛 20 | 🌐 Swift | 📅 2026-08-14 - SwiftUI Animation Library. Useful SwiftUI animations including Loading/progress, Looping, On-off, Enter, Exit, Fade, Spin and Background animations that you can directly implement in your next iOS application or project. The library also contains huge examples of spring animations such as Inertial Bounce, Shake, Twirl, Jelly, Jiggle, Rubber Band…
 * [shiny](https://github.com/maustinstar/shiny) ⭐ 1,093 | 🐛 6 | 🌐 Swift | 📅 2024-07-12 - Shiny uses your gyroscope to simulate lighting and motion effects on colors. Works on almost every SwiftUI View
 * [NavigationTransitions](https://github.com/davdroman/swiftui-navigation-transitions) ⭐ 1,082 | 🐛 3 | 🌐 Swift | 📅 2026-09-04 - Pure SwiftUI Navigation animated transitions
-* [SwiftUI-Animation](https://github.com/Arvindcs/SwiftUI-Animation) ⭐ 1,059 | 🐛 0 | 🌐 Swift | 📅 2025-07-12 - SwiftUI Animation
+* [SwiftUI-Animation](https://github.com/Arvindcs/SwiftUI-Animation) ⭐ 1,060 | 🐛 0 | 🌐 Swift | 📅 2025-07-12 - SwiftUI Animation
 * [Liquid](https://github.com/maustinstar/liquid) ⭐ 858 | 🐛 3 | 🌐 Swift | 📅 2024-08-19 - Create a playful backsplash in SwiftUI
 * [SwiftUIPathAnimations](https://github.com/adellibovi/SwiftUI-PathAnimations/blob/master/Package.swift) ⭐ 235 | 🐛 1 | 🌐 Swift | 📅 2019-09-13 - Tools for SwiftUI that helps perform Path and Shape animations, such us morphing circle or shape transformations
 
@@ -210,7 +210,7 @@
 
 [scroll to top](#readme)
 
-* [SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) ⭐ 8,157 | 🐛 29 | 🌐 Swift | 📅 2026-08-20 - An extension to the standard SwiftUI library.
+* [SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) ⭐ 8,159 | 🐛 29 | 🌐 Swift | 📅 2026-08-20 - An extension to the standard SwiftUI library.
 * [MijickTimer](https://github.com/Mijick/Timer) ⭐ 203 | 🐛 1 | 🌐 Swift | 📅 2025-05-14 - Modern API for Timer
 * [ViewCondition](https://github.com/tokijh/ViewCondition) ⭐ 105 | 🐛 0 | 🌐 Swift | 📅 2021-09-30 - Super sweet syntactic sugar for SwiftUI.View initializers.
 * [SwiftSafeUI](https://github.com/BaherTamer/SwiftSafeUI) ⭐ 37 | 🐛 0 | 🌐 Swift | 📅 2025-07-16 - Encapsulates your SwiftUI deprecation handling logic.
@@ -232,7 +232,7 @@
 [scroll to top](#readme)
 
 * [WaterfallGrid](https://github.com/paololeonardi/WaterfallGrid) ⭐ 2,666 | 🐛 15 | 🌐 Swift | 📅 2024-07-26 - A waterfall grid layout view for SwiftUI.
-* [Grid](https://github.com/exyte/Grid) ⭐ 2,107 | 🐛 5 | 🌐 Swift | 📅 2026-09-14 - The most powerful Grid container missed in SwiftUI
+* [Grid](https://github.com/exyte/Grid) ⭐ 2,108 | 🐛 4 | 🌐 Swift | 📅 2026-09-15 - The most powerful Grid container missed in SwiftUI
 * [QGrid](https://github.com/Q-Mobile/QGrid) ⭐ 1,648 | 🐛 18 | 🌐 Swift | 📅 2020-08-05 - 🎛 QGrid: The missing SwiftUI collection view.
 * [GridStack](https://github.com/pietropizzi/GridStack) ⭐ 660 | 🐛 4 | 🌐 Swift | 📅 2022-02-21 - A flexible grid layout view for SwiftUI
 * [BSZoomGridScrollView](https://github.com/boraseoksoon/BSZoomGridScrollView) ⭐ 160 | 🐛 0 | 🌐 Swift | 📅 2021-04-06 - Fun GridScrollView written in SwiftUI + Combine, bridging between UIKit
@@ -288,7 +288,7 @@
 
 * [DotGlobe](https://github.com/inventhq/dot-globe) ⭐ 126 | 🐛 2 | 🌐 Swift | 📅 2023-08-22 - A Library to that draws a dotted earth map to a globe and allows you to interract with it
 * [InteractiveMap](https://github.com/grandsir/InteractiveMap) ⭐ 120 | 🐛 4 | 🌐 Swift | 📅 2023-12-06 - A Library to draw interactive maps and SVGs in SwiftUI
-* [ImmersiveMap](https://github.com/artembobkin/ImmersiveMap) ⭐ 89 | 🐛 0 | 🌐 Swift | 📅 2026-09-11 - A native Swift + Metal vector-tile map engine for SwiftUI with a 3D globe, starfield and labels
+* [ImmersiveMap](https://github.com/artembobkin/ImmersiveMap) ⭐ 89 | 🐛 0 | 🌐 Swift | 📅 2026-09-15 - A native Swift + Metal vector-tile map engine for SwiftUI with a 3D globe, starfield and labels
 
 ## Messaging
 
@@ -331,13 +331,13 @@
 
 [scroll to top](#readme)
 
-* [TypeYouCard](https://github.com/alexejn/TypeYouCard) ⭐ 446 | 🐛 2 | 🌐 Swift | 📅 2020-01-16 - SwiftUI Paycard form
+* [TypeYouCard](https://github.com/alexejn/TypeYouCard) ⭐ 445 | 🐛 2 | 🌐 Swift | 📅 2020-01-16 - SwiftUI Paycard form
 
 ## Permission
 
 [scroll to top](#readme)
 
-* [PermissionsSwiftUI](https://github.com/jevonmao/PermissionsSwiftUI) ⭐ 1,569 | 🐛 15 | 🌐 Swift | 📅 2024-04-06 - A SwiftUI package to beautifully display and handle permissions.
+* [PermissionsSwiftUI](https://github.com/jevonmao/PermissionsSwiftUI) ⭐ 1,570 | 🐛 15 | 🌐 Swift | 📅 2024-04-06 - A SwiftUI package to beautifully display and handle permissions.
 
 ## Photo-Picker
 
@@ -455,7 +455,7 @@
 
 [scroll to top](#readme)
 
-* [StepperView](https://github.com/badrinathvm/StepperView) ⭐ 1,360 | 🐛 11 | 🌐 Swift | 📅 2026-02-25 - SwiftUI iOS component for Step Indications.
+* [StepperView](https://github.com/badrinathvm/StepperView) ⭐ 1,360 | 🐛 12 | 🌐 Swift | 📅 2026-02-25 - SwiftUI iOS component for Step Indications.
 
 ## SVG
 
@@ -513,13 +513,13 @@
 
 [scroll to top](#readme)
 
-* [ViewInspector](https://github.com/nalexn/ViewInspector) ⭐ 2,631 | 🐛 50 | 🌐 Swift | 📅 2026-09-13 - Runtime introspection and unit testing of SwiftUI views
+* [ViewInspector](https://github.com/nalexn/ViewInspector) ⭐ 2,631 | 🐛 55 | 🌐 Swift | 📅 2026-09-13 - Runtime introspection and unit testing of SwiftUI views
 
 ## Video
 
 [scroll to top](#readme)
 
-* [YouTubePlayerKit](https://github.com/SvenTiigi/YouTubePlayerKit) ⭐ 989 | 🐛 1 | 🌐 Swift | 📅 2025-12-25 - A Swift Package to easily play YouTube videos
+* [YouTubePlayerKit](https://github.com/SvenTiigi/YouTubePlayerKit) ⭐ 988 | 🐛 1 | 🌐 Swift | 📅 2025-12-25 - A Swift Package to easily play YouTube videos
 * [VideoPlayer](https://github.com/wxxsw/VideoPlayer) ⭐ 777 | 🐛 25 | 🌐 Swift | 📅 2025-06-21 - A video player for SwiftUI, support for caching, preload and custom control view
 
 ## Whats-New
@@ -538,4 +538,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._

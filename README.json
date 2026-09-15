@@ -225,7 +225,7 @@
             "open_issues": 0,
             "owner": "Arvindcs",
             "repo": "SwiftUI-Animation",
-            "stars": 1059,
+            "stars": 1060,
             "topics": [
               "animated-dots",
               "cardview",
@@ -1649,7 +1649,7 @@
             "open_issues": 29,
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8157,
+            "stars": 8159,
             "topics": [
               "attributedstring",
               "backwards-compatibility",
@@ -1897,11 +1897,11 @@
             "id": 255865003,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-14T07:50:56Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-15T08:04:11Z",
+            "open_issues": 4,
             "owner": "exyte",
             "repo": "Grid",
-            "stars": 2107,
+            "stars": 2108,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -2771,7 +2771,7 @@
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-11T12:31:55Z",
+            "last_commit": "2026-09-15T10:05:21Z",
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
@@ -3322,7 +3322,7 @@
             "open_issues": 2,
             "owner": "alexejn",
             "repo": "TypeYouCard",
-            "stars": 446,
+            "stars": 445,
             "topics": [
               "awesomeswit",
               "combine",
@@ -3355,7 +3355,7 @@
             "open_issues": 15,
             "owner": "jevonmao",
             "repo": "PermissionsSwiftUI",
-            "stars": 1569,
+            "stars": 1570,
             "topics": [
               "coding",
               "developer",
@@ -4346,7 +4346,7 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-02-25T05:30:04Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "badrinathvm",
             "repo": "StepperView",
             "stars": 1360,
@@ -4997,7 +4997,7 @@
             "open_issues": 1,
             "owner": "SvenTiigi",
             "repo": "YouTubePlayerKit",
-            "stars": 989,
+            "stars": 988,
             "topics": [
               "ios",
               "macos",
@@ -5135,7 +5135,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T12:55:47.350Z",
+    "last_updated": "2026-09-15T11:50:07.652Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
