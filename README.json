@@ -562,7 +562,7 @@
             "open_issues": 10,
             "owner": "ThasianX",
             "repo": "ElegantCalendar",
-            "stars": 1093,
+            "stars": 1092,
             "topics": [
               "calendar",
               "elegantcalendar",
@@ -621,7 +621,7 @@
             "open_issues": 9,
             "owner": "GGJJack",
             "repo": "SwiftUICalendar",
-            "stars": 253,
+            "stars": 252,
             "topics": [
               "calendar",
               "cocoapods",
@@ -985,7 +985,7 @@
             "open_issues": 96,
             "owner": "AppPear",
             "repo": "ChartView",
-            "stars": 5644,
+            "stars": 5643,
             "topics": [
               "chart",
               "charts",
@@ -1429,7 +1429,7 @@
             "open_issues": 9,
             "owner": "simibac",
             "repo": "ConfettiSwiftUI",
-            "stars": 2454,
+            "stars": 2455,
             "topics": [
               "animation",
               "swiftui"
@@ -1649,7 +1649,7 @@
             "open_issues": 29,
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8159,
+            "stars": 8160,
             "topics": [
               "attributedstring",
               "backwards-compatibility",
@@ -1901,7 +1901,7 @@
             "open_issues": 4,
             "owner": "exyte",
             "repo": "Grid",
-            "stars": 2108,
+            "stars": 2109,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -2113,7 +2113,7 @@
             "open_issues": 83,
             "owner": "SDWebImage",
             "repo": "SDWebImageSwiftUI",
-            "stars": 2561,
+            "stars": 2559,
             "topics": [
               "animated-webp",
               "apng",
@@ -2771,7 +2771,7 @@
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-15T10:05:21Z",
+            "last_commit": "2026-09-15T14:58:24Z",
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
@@ -2880,7 +2880,7 @@
             "open_issues": 22,
             "owner": "matteopuc",
             "repo": "swiftui-navigation-stack",
-            "stars": 999,
+            "stars": 998,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -3229,7 +3229,7 @@
             "open_issues": 12,
             "owner": "nachonavarro",
             "repo": "Pages",
-            "stars": 871,
+            "stars": 872,
             "topics": [
               "ios",
               "paging",
@@ -3355,7 +3355,7 @@
             "open_issues": 15,
             "owner": "jevonmao",
             "repo": "PermissionsSwiftUI",
-            "stars": 1570,
+            "stars": 1571,
             "topics": [
               "coding",
               "developer",
@@ -3938,7 +3938,7 @@
             "open_issues": 1,
             "owner": "spacenation",
             "repo": "swiftui-shapes",
-            "stars": 305,
+            "stars": 304,
             "topics": [
               "apple",
               "ios",
@@ -4032,7 +4032,7 @@
             "open_issues": 19,
             "owner": "lucaszischka",
             "repo": "BottomSheet",
-            "stars": 1243,
+            "stars": 1244,
             "topics": [
               "bottomsheet",
               "hacktoberfest",
@@ -4171,7 +4171,7 @@
             "open_issues": 17,
             "owner": "spacenation",
             "repo": "swiftui-sliders",
-            "stars": 936,
+            "stars": 937,
             "topics": [
               "apple",
               "ios",
@@ -4205,7 +4205,7 @@
             "open_issues": 1,
             "owner": "kieranb662",
             "repo": "Sliders-SwiftUI",
-            "stars": 731,
+            "stars": 732,
             "topics": [
               "colorpicker",
               "joystick",
@@ -4763,7 +4763,7 @@
             "open_issues": 1,
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4059,
+            "stars": 4060,
             "topics": [
               "popup",
               "swiftui",
@@ -4997,7 +4997,7 @@
             "open_issues": 1,
             "owner": "SvenTiigi",
             "repo": "YouTubePlayerKit",
-            "stars": 988,
+            "stars": 987,
             "topics": [
               "ios",
               "macos",
@@ -5135,7 +5135,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T11:50:07.652Z",
+    "last_updated": "2026-09-16T11:42:54.397Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
