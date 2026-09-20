@@ -225,7 +225,7 @@
             "open_issues": 0,
             "owner": "Arvindcs",
             "repo": "SwiftUI-Animation",
-            "stars": 1064,
+            "stars": 1065,
             "topics": [
               "animated-dots",
               "cardview",
@@ -1012,7 +1012,7 @@
             "open_issues": 2,
             "owner": "mecid",
             "repo": "SwiftUICharts",
-            "stars": 1572,
+            "stars": 1573,
             "topics": [
               "chart",
               "swiftui"
@@ -1338,7 +1338,7 @@
             "open_issues": 18,
             "owner": "yannickl",
             "repo": "DynamicColor",
-            "stars": 3083,
+            "stars": 3082,
             "topics": [
               "color",
               "gradient",
@@ -1588,7 +1588,7 @@
             "open_issues": 8,
             "owner": "duraidabdul",
             "repo": "LocalConsole",
-            "stars": 828,
+            "stars": 830,
             "topics": [
               "debugging",
               "swiftui",
@@ -1649,7 +1649,7 @@
             "open_issues": 28,
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8161,
+            "stars": 8164,
             "topics": [
               "attributedstring",
               "backwards-compatibility",
@@ -1869,7 +1869,7 @@
             "open_issues": 15,
             "owner": "paololeonardi",
             "repo": "WaterfallGrid",
-            "stars": 2665,
+            "stars": 2666,
             "topics": [
               "ios",
               "macos",
@@ -2113,7 +2113,7 @@
             "open_issues": 83,
             "owner": "SDWebImage",
             "repo": "SDWebImageSwiftUI",
-            "stars": 2559,
+            "stars": 2560,
             "topics": [
               "animated-webp",
               "apng",
@@ -2469,7 +2469,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "ActivityIndicatorView",
-            "stars": 1665,
+            "stars": 1666,
             "topics": [
               "swiftui",
               "swiftui-components",
@@ -2605,7 +2605,7 @@
             "open_issues": 62,
             "owner": "gonzalezreal",
             "repo": "swift-markdown-ui",
-            "stars": 3927,
+            "stars": 3928,
             "topics": [
               "cmark",
               "commonmark",
@@ -3195,7 +3195,7 @@
             "open_issues": 45,
             "owner": "fermoya",
             "repo": "SwiftUIPager",
-            "stars": 1469,
+            "stars": 1470,
             "topics": [
               "cocoapods",
               "ios",
@@ -4832,7 +4832,7 @@
             "open_issues": 5,
             "owner": "omaralbeik",
             "repo": "Drops",
-            "stars": 1041,
+            "stars": 1040,
             "topics": [
               "accessibility",
               "alert",
@@ -4993,11 +4993,11 @@
             "id": 408516560,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2025-12-25T09:57:47Z",
+            "last_commit": "2026-09-20T11:29:55Z",
             "open_issues": 1,
             "owner": "SvenTiigi",
             "repo": "YouTubePlayerKit",
-            "stars": 987,
+            "stars": 988,
             "topics": [
               "ios",
               "macos",
@@ -5135,7 +5135,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T11:05:52.644Z",
+    "last_updated": "2026-09-20T11:30:44.799Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
