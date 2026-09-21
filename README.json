@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "sparrowcode",
             "repo": "AlertKit",
-            "stars": 2633,
+            "stars": 2634,
             "topics": [
               "alert",
               "alert-controller",
@@ -330,7 +330,7 @@
             "open_issues": 3,
             "owner": "twostraws",
             "repo": "Subsonic",
-            "stars": 370,
+            "stars": 371,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -471,7 +471,7 @@
             "open_issues": 1,
             "owner": "atrinh0",
             "repo": "buttoncraft",
-            "stars": 449,
+            "stars": 448,
             "topics": [
               "button-animation",
               "buttons",
@@ -621,7 +621,7 @@
             "open_issues": 9,
             "owner": "GGJJack",
             "repo": "SwiftUICalendar",
-            "stars": 252,
+            "stars": 253,
             "topics": [
               "calendar",
               "cocoapods",
@@ -1338,7 +1338,7 @@
             "open_issues": 18,
             "owner": "yannickl",
             "repo": "DynamicColor",
-            "stars": 3082,
+            "stars": 3083,
             "topics": [
               "color",
               "gradient",
@@ -1901,7 +1901,7 @@
             "open_issues": 4,
             "owner": "exyte",
             "repo": "Grid",
-            "stars": 2108,
+            "stars": 2109,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -2148,7 +2148,7 @@
             "open_issues": 15,
             "owner": "dmytro-anokhin",
             "repo": "url-image",
-            "stars": 1154,
+            "stars": 1155,
             "topics": [
               "ios",
               "macos",
@@ -2469,7 +2469,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "ActivityIndicatorView",
-            "stars": 1666,
+            "stars": 1667,
             "topics": [
               "swiftui",
               "swiftui-components",
@@ -2605,7 +2605,7 @@
             "open_issues": 62,
             "owner": "gonzalezreal",
             "repo": "swift-markdown-ui",
-            "stars": 3928,
+            "stars": 3931,
             "topics": [
               "cmark",
               "commonmark",
@@ -3166,7 +3166,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "ConcentricOnboarding",
-            "stars": 1568,
+            "stars": 1567,
             "topics": [
               "cocoapods",
               "ios",
@@ -3195,7 +3195,7 @@
             "open_issues": 45,
             "owner": "fermoya",
             "repo": "SwiftUIPager",
-            "stars": 1470,
+            "stars": 1471,
             "topics": [
               "cocoapods",
               "ios",
@@ -3229,7 +3229,7 @@
             "open_issues": 12,
             "owner": "nachonavarro",
             "repo": "Pages",
-            "stars": 874,
+            "stars": 875,
             "topics": [
               "ios",
               "paging",
@@ -3755,7 +3755,7 @@
             "open_issues": 10,
             "owner": "VergeGroup",
             "repo": "swift-verge",
-            "stars": 809,
+            "stars": 810,
             "topics": [
               "data-driven",
               "dispatcher",
@@ -4060,7 +4060,7 @@
             "open_issues": 9,
             "owner": "maustinstar",
             "repo": "swiftui-drawer",
-            "stars": 1051,
+            "stars": 1052,
             "topics": [
               "ios",
               "macos",
@@ -4319,7 +4319,7 @@
             "open_issues": 6,
             "owner": "dkk",
             "repo": "WrappingHStack",
-            "stars": 564,
+            "stars": 565,
             "topics": [
               "swiftui",
               "swiftui-components"
@@ -4993,7 +4993,7 @@
             "id": 408516560,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-20T11:29:55Z",
+            "last_commit": "2026-09-20T12:42:06Z",
             "open_issues": 1,
             "owner": "SvenTiigi",
             "repo": "YouTubePlayerKit",
@@ -5135,7 +5135,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T11:30:44.799Z",
+    "last_updated": "2026-09-21T12:55:20.034Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
