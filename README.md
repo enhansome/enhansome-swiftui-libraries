@@ -77,7 +77,7 @@
 
 [scroll to top](#readme)
 
-* [swiftui-animations](https://github.com/amosgyamfi/swiftui-animation-library) ⭐ 5,645 | 🐛 20 | 🌐 Swift | 📅 2026-08-14 - SwiftUI Animation Library. Useful SwiftUI animations including Loading/progress, Looping, On-off, Enter, Exit, Fade, Spin and Background animations that you can directly implement in your next iOS application or project. The library also contains huge examples of spring animations such as Inertial Bounce, Shake, Twirl, Jelly, Jiggle, Rubber Band…
+* [swiftui-animations](https://github.com/amosgyamfi/swiftui-animation-library) ⭐ 5,648 | 🐛 20 | 🌐 Swift | 📅 2026-08-14 - SwiftUI Animation Library. Useful SwiftUI animations including Loading/progress, Looping, On-off, Enter, Exit, Fade, Spin and Background animations that you can directly implement in your next iOS application or project. The library also contains huge examples of spring animations such as Inertial Bounce, Shake, Twirl, Jelly, Jiggle, Rubber Band…
 * [shiny](https://github.com/maustinstar/shiny) ⭐ 1,092 | 🐛 6 | 🌐 Swift | 📅 2024-07-12 - Shiny uses your gyroscope to simulate lighting and motion effects on colors. Works on almost every SwiftUI View
 * [NavigationTransitions](https://github.com/davdroman/swiftui-navigation-transitions) ⭐ 1,084 | 🐛 3 | 🌐 Swift | 📅 2026-09-04 - Pure SwiftUI Navigation animated transitions
 * [SwiftUI-Animation](https://github.com/Arvindcs/SwiftUI-Animation) ⭐ 1,065 | 🐛 0 | 🌐 Swift | 📅 2025-07-12 - SwiftUI Animation
@@ -108,7 +108,7 @@
 [scroll to top](#readme)
 
 * [FloatingButton](https://github.com/exyte/FloatingButton) ⭐ 1,268 | 🐛 0 | 🌐 Swift | 📅 2026-07-08 - Easily customizable floating button menu created with SwiftUI
-* [buttoncraft](https://github.com/atrinh0/buttoncraft) ⭐ 448 | 🐛 1 | 🌐 Swift | 📅 2024-11-13 - Craft that perfect SwiftUI button effect
+* [buttoncraft](https://github.com/atrinh0/buttoncraft) ⭐ 449 | 🐛 1 | 🌐 Swift | 📅 2024-11-13 - Craft that perfect SwiftUI button effect
 * [LoadingButton](https://github.com/changemin/LoadingButton) ⭐ 121 | 🐛 1 | 🌐 Swift | 📅 2023-11-22 - Loading Animation Button for SwiftUI
 * [CUIExpandableButton](https://github.com/robhasacamera/CUIExpandableButton) ⭐ 19 | 🐛 0 | 🌐 Swift | 📅 2022-09-03 - A SwiftUI button that expands to show more content
 
@@ -117,7 +117,7 @@
 [scroll to top](#readme)
 
 * [ElegantCalendar](https://github.com/ThasianX/ElegantCalendar) ⭐ 1,093 | 🐛 10 | 🌐 Swift | 📅 2023-12-24 - The elegant full screen calendar missed in SwiftUI.
-* [RKCalendar](https://github.com/RaffiKian/RKCalendar) ⭐ 582 | 🐛 12 | 🌐 Swift | 📅 2023-02-07 - SwiftUI Simple Calendar / Date Picker for iOS
+* [RKCalendar](https://github.com/RaffiKian/RKCalendar) ⭐ 583 | 🐛 12 | 🌐 Swift | 📅 2023-02-07 - SwiftUI Simple Calendar / Date Picker for iOS
 * [SwiftUICalendar](https://github.com/GGJJack/SwiftUICalendar) ⭐ 253 | 🐛 9 | 🌐 Swift | 📅 2023-04-29 - SwiftUI base simple Calendar
 * [ECWeekView](https://github.com/EvanCooper9/swift-week-view) ⭐ 214 | 🐛 9 | 🌐 Swift | 📅 2025-03-10 - An iOS calendar library for displaying calendar events in a week view
 * [DateGrid](https://github.com/yodagamaheshan/DateGrid) ⭐ 200 | 🐛 3 | 🌐 Swift | 📅 2022-12-03 - A customizable swiftui calendar
@@ -232,7 +232,7 @@
 [scroll to top](#readme)
 
 * [WaterfallGrid](https://github.com/paololeonardi/WaterfallGrid) ⭐ 2,665 | 🐛 15 | 🌐 Swift | 📅 2024-07-26 - A waterfall grid layout view for SwiftUI.
-* [Grid](https://github.com/exyte/Grid) ⭐ 2,110 | 🐛 4 | 🌐 Swift | 📅 2026-09-15 - The most powerful Grid container missed in SwiftUI
+* [Grid](https://github.com/exyte/Grid) ⭐ 2,111 | 🐛 4 | 🌐 Swift | 📅 2026-09-15 - The most powerful Grid container missed in SwiftUI
 * [QGrid](https://github.com/Q-Mobile/QGrid) ⭐ 1,647 | 🐛 18 | 🌐 Swift | 📅 2020-08-05 - 🎛 QGrid: The missing SwiftUI collection view.
 * [GridStack](https://github.com/pietropizzi/GridStack) ⭐ 658 | 🐛 4 | 🌐 Swift | 📅 2022-02-21 - A flexible grid layout view for SwiftUI
 * [BSZoomGridScrollView](https://github.com/boraseoksoon/BSZoomGridScrollView) ⭐ 159 | 🐛 0 | 🌐 Swift | 📅 2021-04-06 - Fun GridScrollView written in SwiftUI + Combine, bridging between UIKit
@@ -288,7 +288,7 @@
 
 * [DotGlobe](https://github.com/inventhq/dot-globe) ⭐ 127 | 🐛 2 | 🌐 Swift | 📅 2023-08-22 - A Library to that draws a dotted earth map to a globe and allows you to interract with it
 * [InteractiveMap](https://github.com/grandsir/InteractiveMap) ⭐ 120 | 🐛 4 | 🌐 Swift | 📅 2023-12-06 - A Library to draw interactive maps and SVGs in SwiftUI
-* [ImmersiveMap](https://github.com/artembobkin/ImmersiveMap) ⭐ 91 | 🐛 0 | 🌐 Swift | 📅 2026-09-22 - A native Swift + Metal vector-tile map engine for SwiftUI with a 3D globe, starfield and labels
+* [ImmersiveMap](https://github.com/artembobkin/ImmersiveMap) ⭐ 92 | 🐛 0 | 🌐 Swift | 📅 2026-09-24 - A native Swift + Metal vector-tile map engine for SwiftUI with a 3D globe, starfield and labels
 
 ## Messaging
 
@@ -435,7 +435,7 @@
 [scroll to top](#readme)
 
 * [Swiftui sliders](https://github.com/spacenation/swiftui-sliders) ⭐ 937 | 🐛 17 | 🌐 Swift | 📅 2025-08-01 - SwiftUI Sliders with custom styles
-* [Sliders SwiftUI](https://github.com/kieranb662/Sliders-SwiftUI) ⭐ 735 | 🐛 1 | 🌐 Swift | 📅 2026-03-13 - Collection of unique fully customizable SwiftUI sliders, joysticks, trackpads and more
+* [Sliders SwiftUI](https://github.com/kieranb662/Sliders-SwiftUI) ⭐ 736 | 🐛 1 | 🌐 Swift | 📅 2026-03-13 - Collection of unique fully customizable SwiftUI sliders, joysticks, trackpads and more
 * [SlidingRuler](https://github.com/Pyroh/SlidingRuler) ⭐ 454 | 🐛 11 | 🌐 Swift | 📅 2024-05-31 - A sliding ruler control for SwiftUI
 * [SwiftUI Value Slider](https://github.com/sanhee16/SwiftUIValueSlider) ⭐ 5 | 🐛 0 | 🌐 Swift | 📅 2023-04-12 - SwiftUI Sliders with current value of thumb
 
@@ -502,8 +502,8 @@
 [scroll to top](#readme)
 
 * [ExytePopupView](https://github.com/exyte/PopupView) ⭐ 4,060 | 🐛 0 | 🌐 Swift | 📅 2026-09-23 - Toasts and popups library written with SwiftUI
-* [MijickPopups](https://github.com/Mijick/Popups) ⭐ 1,814 | 🐛 31 | 🌐 Swift | 📅 2025-10-22 - Popups, popovers, sheets, alerts, toasts, banners, (...) presentation made simple. Written with and for SwiftUI
-* [Drops](https://github.com/omaralbeik/Drops) ⭐ 1,040 | 🐛 4 | 🌐 Swift | 📅 2024-10-11 - A µFramework for showing alerts like the one used when copying from pasteboard or connecting Apple pencil
+* [MijickPopups](https://github.com/Mijick/Popups) ⭐ 1,813 | 🐛 31 | 🌐 Swift | 📅 2025-10-22 - Popups, popovers, sheets, alerts, toasts, banners, (...) presentation made simple. Written with and for SwiftUI
+* [Drops](https://github.com/omaralbeik/Drops) ⭐ 1,041 | 🐛 4 | 🌐 Swift | 📅 2024-10-11 - A µFramework for showing alerts like the one used when copying from pasteboard or connecting Apple pencil
 * [ToastUI](https://github.com/quanshousio/ToastUI) ⭐ 653 | 🐛 3 | 🌐 Swift | 📅 2024-08-11 - A simple way to show toast in SwiftUI.
 * [SSToastMessage](https://github.com/SimformSolutionsPvtLtd/SSToastMessage) ⭐ 525 | 🐛 1 | 🌐 Swift | 📅 2024-05-30 - SSToastMessage is written purely in SwiftUI. It will add toast, alert, and floating message view over the top of any view. It is intended to be simple, lightweight, and easy to use. It will be a popup with a single line of code.
 * [SimpleToast](https://github.com/sanzaru/SimpleToast) ⭐ 485 | 🐛 0 | 🌐 Swift | 📅 2026-02-14 - SimpleToast is a simple, lightweight and easy to use library to show toasts / pop-ups inside your iOS application in SwiftUI
@@ -513,7 +513,7 @@
 
 [scroll to top](#readme)
 
-* [ViewInspector](https://github.com/nalexn/ViewInspector) ⭐ 2,632 | 🐛 44 | 🌐 Swift | 📅 2026-09-20 - Runtime introspection and unit testing of SwiftUI views
+* [ViewInspector](https://github.com/nalexn/ViewInspector) ⭐ 2,635 | 🐛 44 | 🌐 Swift | 📅 2026-09-20 - Runtime introspection and unit testing of SwiftUI views
 
 ## Video
 
@@ -538,4 +538,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._

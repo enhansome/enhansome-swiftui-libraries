@@ -123,7 +123,7 @@
             "open_issues": 20,
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5645,
+            "stars": 5648,
             "topics": [
               "animations",
               "app-animations",
@@ -471,7 +471,7 @@
             "open_issues": 1,
             "owner": "atrinh0",
             "repo": "buttoncraft",
-            "stars": 448,
+            "stars": 449,
             "topics": [
               "button-animation",
               "buttons",
@@ -592,7 +592,7 @@
             "open_issues": 12,
             "owner": "RaffiKian",
             "repo": "RKCalendar",
-            "stars": 582,
+            "stars": 583,
             "topics": [
               "calendar",
               "datepicker",
@@ -1901,7 +1901,7 @@
             "open_issues": 4,
             "owner": "exyte",
             "repo": "Grid",
-            "stars": 2110,
+            "stars": 2111,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -2771,11 +2771,11 @@
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-22T09:01:38Z",
+            "last_commit": "2026-09-24T08:35:43Z",
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
-            "stars": 91,
+            "stars": 92,
             "topics": [
               "cartography",
               "geospatial",
@@ -2790,6 +2790,7 @@
               "maps",
               "metal",
               "mvt",
+              "protomaps",
               "rendering-engine",
               "swift",
               "swift-package-manager",
@@ -4205,7 +4206,7 @@
             "open_issues": 1,
             "owner": "kieranb662",
             "repo": "Sliders-SwiftUI",
-            "stars": 735,
+            "stars": 736,
             "topics": [
               "colorpicker",
               "joystick",
@@ -4790,7 +4791,7 @@
             "open_issues": 31,
             "owner": "Mijick",
             "repo": "Popups",
-            "stars": 1814,
+            "stars": 1813,
             "topics": [
               "alert",
               "cocoapods",
@@ -4832,7 +4833,7 @@
             "open_issues": 4,
             "owner": "omaralbeik",
             "repo": "Drops",
-            "stars": 1040,
+            "stars": 1041,
             "topics": [
               "accessibility",
               "alert",
@@ -5135,7 +5136,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T11:44:23.915Z",
+    "last_updated": "2026-09-24T11:53:24.854Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
@@ -5147,7 +5148,7 @@
       "open_issues": 0,
       "owner": "Toni77777",
       "repo": "awesome-swiftui-libraries",
-      "stars": 1543,
+      "stars": 1544,
       "topics": [
         "awesome",
         "frameworks",
