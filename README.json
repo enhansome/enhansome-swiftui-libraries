@@ -194,7 +194,7 @@
             "open_issues": 3,
             "owner": "davdroman",
             "repo": "swiftui-navigation-transitions",
-            "stars": 1085,
+            "stars": 1084,
             "topics": [
               "animation",
               "native",
@@ -225,7 +225,7 @@
             "open_issues": 0,
             "owner": "Arvindcs",
             "repo": "SwiftUI-Animation",
-            "stars": 1066,
+            "stars": 1065,
             "topics": [
               "animated-dots",
               "cardview",
@@ -720,7 +720,7 @@
             "open_issues": 37,
             "owner": "Mijick",
             "repo": "Camera",
-            "stars": 654,
+            "stars": 655,
             "topics": [
               "avfoundation",
               "camera",
@@ -2469,7 +2469,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "ActivityIndicatorView",
-            "stars": 1668,
+            "stars": 1669,
             "topics": [
               "swiftui",
               "swiftui-components",
@@ -2605,7 +2605,7 @@
             "open_issues": 62,
             "owner": "gonzalezreal",
             "repo": "swift-markdown-ui",
-            "stars": 3932,
+            "stars": 3933,
             "topics": [
               "cmark",
               "commonmark",
@@ -2771,11 +2771,11 @@
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-24T08:35:43Z",
+            "last_commit": "2026-09-27T11:41:13Z",
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
-            "stars": 93,
+            "stars": 94,
             "topics": [
               "cartography",
               "geospatial",
@@ -4061,7 +4061,7 @@
             "open_issues": 9,
             "owner": "maustinstar",
             "repo": "swiftui-drawer",
-            "stars": 1054,
+            "stars": 1055,
             "topics": [
               "ios",
               "macos",
@@ -4206,7 +4206,7 @@
             "open_issues": 1,
             "owner": "kieranb662",
             "repo": "Sliders-SwiftUI",
-            "stars": 736,
+            "stars": 737,
             "topics": [
               "colorpicker",
               "joystick",
@@ -4998,7 +4998,7 @@
             "open_issues": 1,
             "owner": "SvenTiigi",
             "repo": "YouTubePlayerKit",
-            "stars": 988,
+            "stars": 987,
             "topics": [
               "ios",
               "macos",
@@ -5136,7 +5136,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T11:30:07.082Z",
+    "last_updated": "2026-09-27T12:08:32.434Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
@@ -5148,7 +5148,7 @@
       "open_issues": 0,
       "owner": "Toni77777",
       "repo": "awesome-swiftui-libraries",
-      "stars": 1543,
+      "stars": 1542,
       "topics": [
         "awesome",
         "frameworks",
