@@ -194,7 +194,7 @@
             "open_issues": 3,
             "owner": "davdroman",
             "repo": "swiftui-navigation-transitions",
-            "stars": 1084,
+            "stars": 1085,
             "topics": [
               "animation",
               "native",
@@ -225,7 +225,7 @@
             "open_issues": 0,
             "owner": "Arvindcs",
             "repo": "SwiftUI-Animation",
-            "stars": 1065,
+            "stars": 1066,
             "topics": [
               "animated-dots",
               "cardview",
@@ -471,7 +471,7 @@
             "open_issues": 1,
             "owner": "atrinh0",
             "repo": "buttoncraft",
-            "stars": 449,
+            "stars": 448,
             "topics": [
               "button-animation",
               "buttons",
@@ -870,7 +870,7 @@
             "open_issues": 4,
             "owner": "danielsaidi",
             "repo": "DeckKit",
-            "stars": 889,
+            "stars": 890,
             "topics": [
               "card",
               "deck",
@@ -985,7 +985,7 @@
             "open_issues": 96,
             "owner": "AppPear",
             "repo": "ChartView",
-            "stars": 5644,
+            "stars": 5646,
             "topics": [
               "chart",
               "charts",
@@ -1429,7 +1429,7 @@
             "open_issues": 9,
             "owner": "simibac",
             "repo": "ConfettiSwiftUI",
-            "stars": 2459,
+            "stars": 2460,
             "topics": [
               "animation",
               "swiftui"
@@ -1649,7 +1649,7 @@
             "open_issues": 28,
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8167,
+            "stars": 8168,
             "topics": [
               "attributedstring",
               "backwards-compatibility",
@@ -1922,7 +1922,7 @@
             "open_issues": 18,
             "owner": "Q-Mobile",
             "repo": "QGrid",
-            "stars": 1647,
+            "stars": 1646,
             "topics": [
               "declarative-ui",
               "grid",
@@ -2605,7 +2605,7 @@
             "open_issues": 62,
             "owner": "gonzalezreal",
             "repo": "swift-markdown-ui",
-            "stars": 3933,
+            "stars": 3932,
             "topics": [
               "cmark",
               "commonmark",
@@ -2771,7 +2771,7 @@
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-27T11:41:13Z",
+            "last_commit": "2026-09-27T15:16:29Z",
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
@@ -3400,7 +3400,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "MediaPicker",
-            "stars": 489,
+            "stars": 488,
             "topics": [
               "ios",
               "photo-gallery",
@@ -4061,7 +4061,7 @@
             "open_issues": 9,
             "owner": "maustinstar",
             "repo": "swiftui-drawer",
-            "stars": 1055,
+            "stars": 1054,
             "topics": [
               "ios",
               "macos",
@@ -4090,7 +4090,7 @@
             "open_issues": 7,
             "owner": "weitieda",
             "repo": "bottom-sheet",
-            "stars": 864,
+            "stars": 863,
             "topics": [
               "animation",
               "card",
@@ -4350,7 +4350,7 @@
             "open_issues": 12,
             "owner": "badrinathvm",
             "repo": "StepperView",
-            "stars": 1360,
+            "stars": 1361,
             "topics": [
               "apple-watch",
               "carthage",
@@ -4896,7 +4896,7 @@
             "open_issues": 1,
             "owner": "SimformSolutionsPvtLtd",
             "repo": "SSToastMessage",
-            "stars": 525,
+            "stars": 524,
             "topics": [
               "cocoapods",
               "custom-dropdown",
@@ -5061,7 +5061,7 @@
             "open_issues": 127,
             "owner": "TokamakUI",
             "repo": "Tokamak",
-            "stars": 2837,
+            "stars": 2835,
             "topics": [
               "data-binding",
               "dom",
@@ -5136,7 +5136,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T12:08:32.434Z",
+    "last_updated": "2026-09-28T14:03:38.963Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
