@@ -123,7 +123,7 @@
             "open_issues": 20,
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5650,
+            "stars": 5653,
             "topics": [
               "animations",
               "app-animations",
@@ -267,7 +267,7 @@
             "open_issues": 3,
             "owner": "maustinstar",
             "repo": "liquid",
-            "stars": 857,
+            "stars": 858,
             "topics": [
               "artwork",
               "ios",
@@ -870,7 +870,7 @@
             "open_issues": 4,
             "owner": "danielsaidi",
             "repo": "DeckKit",
-            "stars": 890,
+            "stars": 891,
             "topics": [
               "card",
               "deck",
@@ -985,7 +985,7 @@
             "open_issues": 96,
             "owner": "AppPear",
             "repo": "ChartView",
-            "stars": 5646,
+            "stars": 5647,
             "topics": [
               "chart",
               "charts",
@@ -1036,7 +1036,7 @@
             "open_issues": 10,
             "owner": "spacenation",
             "repo": "swiftui-charts",
-            "stars": 811,
+            "stars": 812,
             "topics": [
               "apple",
               "charts",
@@ -1901,7 +1901,7 @@
             "open_issues": 4,
             "owner": "exyte",
             "repo": "Grid",
-            "stars": 2113,
+            "stars": 2114,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -2469,7 +2469,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "ActivityIndicatorView",
-            "stars": 1669,
+            "stars": 1670,
             "topics": [
               "swiftui",
               "swiftui-components",
@@ -2605,7 +2605,7 @@
             "open_issues": 62,
             "owner": "gonzalezreal",
             "repo": "swift-markdown-ui",
-            "stars": 3932,
+            "stars": 3931,
             "topics": [
               "cmark",
               "commonmark",
@@ -2771,11 +2771,11 @@
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-27T15:16:29Z",
+            "last_commit": "2026-09-28T14:33:00Z",
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
-            "stars": 94,
+            "stars": 95,
             "topics": [
               "cartography",
               "geospatial",
@@ -3095,32 +3095,6 @@
         },
         {
           "node_type": "item",
-          "title": "Helm",
-          "description": "A graph-based SwiftUI router",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A graph-based SwiftUI router",
-            "homepage": null,
-            "id": 441734689,
-            "language": "Swift",
-            "license": "MIT",
-            "last_commit": "2022-06-15T16:54:40Z",
-            "open_issues": 4,
-            "owner": "valentinradu",
-            "repo": "Helm",
-            "stars": 147,
-            "topics": [
-              "declarative",
-              "navigation",
-              "router",
-              "swiftui"
-            ]
-          },
-          "first_seen": "2026-08-28T18:46:46.752Z"
-        },
-        {
-          "node_type": "item",
           "title": "Router",
           "description": "Router is a library that assists with SwiftUI view transitions.",
           "children": [],
@@ -3259,7 +3233,7 @@
             "open_issues": 13,
             "owner": "xmartlabs",
             "repo": "PagerTabStripView",
-            "stars": 842,
+            "stars": 843,
             "topics": [
               "pager",
               "pagertabstripview",
@@ -4033,7 +4007,7 @@
             "open_issues": 19,
             "owner": "lucaszischka",
             "repo": "BottomSheet",
-            "stars": 1243,
+            "stars": 1244,
             "topics": [
               "bottomsheet",
               "hacktoberfest",
@@ -4090,7 +4064,7 @@
             "open_issues": 7,
             "owner": "weitieda",
             "repo": "bottom-sheet",
-            "stars": 863,
+            "stars": 864,
             "topics": [
               "animation",
               "card",
@@ -4206,7 +4180,7 @@
             "open_issues": 1,
             "owner": "kieranb662",
             "repo": "Sliders-SwiftUI",
-            "stars": 737,
+            "stars": 738,
             "topics": [
               "colorpicker",
               "joystick",
@@ -5028,7 +5002,7 @@
             "open_issues": 25,
             "owner": "wxxsw",
             "repo": "VideoPlayer",
-            "stars": 776,
+            "stars": 777,
             "topics": [
               "avplayer",
               "player",
@@ -5136,7 +5110,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T14:03:38.963Z",
+    "last_updated": "2026-09-29T12:59:27.266Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
