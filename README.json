@@ -123,7 +123,7 @@
             "open_issues": 20,
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5653,
+            "stars": 5654,
             "topics": [
               "animations",
               "app-animations",
@@ -1429,7 +1429,7 @@
             "open_issues": 9,
             "owner": "simibac",
             "repo": "ConfettiSwiftUI",
-            "stars": 2460,
+            "stars": 2461,
             "topics": [
               "animation",
               "swiftui"
@@ -2113,7 +2113,7 @@
             "open_issues": 83,
             "owner": "SDWebImage",
             "repo": "SDWebImageSwiftUI",
-            "stars": 2560,
+            "stars": 2561,
             "topics": [
               "animated-webp",
               "apng",
@@ -2605,7 +2605,7 @@
             "open_issues": 62,
             "owner": "gonzalezreal",
             "repo": "swift-markdown-ui",
-            "stars": 3931,
+            "stars": 3930,
             "topics": [
               "cmark",
               "commonmark",
@@ -2775,7 +2775,7 @@
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
-            "stars": 95,
+            "stars": 97,
             "topics": [
               "cartography",
               "geospatial",
@@ -3204,7 +3204,7 @@
             "open_issues": 12,
             "owner": "nachonavarro",
             "repo": "Pages",
-            "stars": 875,
+            "stars": 877,
             "topics": [
               "ios",
               "paging",
@@ -3330,7 +3330,7 @@
             "open_issues": 15,
             "owner": "jevonmao",
             "repo": "PermissionsSwiftUI",
-            "stars": 1571,
+            "stars": 1572,
             "topics": [
               "coding",
               "developer",
@@ -4418,7 +4418,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "AnimatedTabBar",
-            "stars": 554,
+            "stars": 555,
             "topics": [
               "animation",
               "ios-component",
@@ -5002,7 +5002,7 @@
             "open_issues": 25,
             "owner": "wxxsw",
             "repo": "VideoPlayer",
-            "stars": 777,
+            "stars": 778,
             "topics": [
               "avplayer",
               "player",
@@ -5110,7 +5110,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T12:59:27.266Z",
+    "last_updated": "2026-09-30T12:41:36.840Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
