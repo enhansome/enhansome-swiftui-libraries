@@ -123,7 +123,7 @@
             "open_issues": 20,
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5655,
+            "stars": 5656,
             "topics": [
               "animations",
               "app-animations",
@@ -2819,7 +2819,7 @@
             "id": 1083101948,
             "language": "Swift",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T11:38:14Z",
+            "last_commit": "2026-10-03T11:34:58Z",
             "open_issues": 7,
             "owner": "FluidGroup",
             "repo": "swiftui-messaging-ui",
@@ -5035,7 +5035,7 @@
             "open_issues": 127,
             "owner": "TokamakUI",
             "repo": "Tokamak",
-            "stars": 2835,
+            "stars": 2834,
             "topics": [
               "data-binding",
               "dom",
@@ -5066,7 +5066,7 @@
             "open_issues": 33,
             "owner": "stleamist",
             "repo": "BetterSafariView",
-            "stars": 641,
+            "stars": 640,
             "topics": [
               "aswebauthenticationsession",
               "ios",
@@ -5110,7 +5110,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:10:31.822Z",
+    "last_updated": "2026-10-03T11:44:31.065Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",

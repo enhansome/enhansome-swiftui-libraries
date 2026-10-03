@@ -77,7 +77,7 @@
 
 [scroll to top](#readme)
 
-* [swiftui-animations](https://github.com/amosgyamfi/swiftui-animation-library) ⭐ 5,655 | 🐛 20 | 🌐 Swift | 📅 2026-08-14 - SwiftUI Animation Library. Useful SwiftUI animations including Loading/progress, Looping, On-off, Enter, Exit, Fade, Spin and Background animations that you can directly implement in your next iOS application or project. The library also contains huge examples of spring animations such as Inertial Bounce, Shake, Twirl, Jelly, Jiggle, Rubber Band…
+* [swiftui-animations](https://github.com/amosgyamfi/swiftui-animation-library) ⭐ 5,656 | 🐛 20 | 🌐 Swift | 📅 2026-08-14 - SwiftUI Animation Library. Useful SwiftUI animations including Loading/progress, Looping, On-off, Enter, Exit, Fade, Spin and Background animations that you can directly implement in your next iOS application or project. The library also contains huge examples of spring animations such as Inertial Bounce, Shake, Twirl, Jelly, Jiggle, Rubber Band…
 * [shiny](https://github.com/maustinstar/shiny) ⭐ 1,092 | 🐛 6 | 🌐 Swift | 📅 2024-07-12 - Shiny uses your gyroscope to simulate lighting and motion effects on colors. Works on almost every SwiftUI View
 * [NavigationTransitions](https://github.com/davdroman/swiftui-navigation-transitions) ⭐ 1,086 | 🐛 3 | 🌐 Swift | 📅 2026-09-04 - Pure SwiftUI Navigation animated transitions
 * [SwiftUI-Animation](https://github.com/Arvindcs/SwiftUI-Animation) ⭐ 1,066 | 🐛 0 | 🌐 Swift | 📅 2025-07-12 - SwiftUI Animation
@@ -294,7 +294,7 @@
 
 [scroll to top](#readme)
 
-* [swiftui-messaging-ui](https://github.com/FluidGroup/swiftui-messaging-ui) ⭐ 85 | 🐛 7 | 🌐 Swift | 📅 2026-10-02 - A SwiftUI chat UI component with stable prepending for loading older messages without scroll jumps.
+* [swiftui-messaging-ui](https://github.com/FluidGroup/swiftui-messaging-ui) ⭐ 85 | 🐛 7 | 🌐 Swift | 📅 2026-10-03 - A SwiftUI chat UI component with stable prepending for loading older messages without scroll jumps.
 
 ## Menu
 
@@ -533,7 +533,7 @@
 [scroll to top](#readme)
 
 * [Tokamak](https://github.com/TokamakUI/Tokamak) ⚠️ Archived - SwiftUI-compatible framework for building browser apps with WebAssembly and native apps for other platforms.
-* [BetterSafariView](https://github.com/stleamist/BetterSafariView) ⭐ 641 | 🐛 33 | 🌐 Swift | 📅 2024-07-09 - A better way to present a SFSafariViewController or start a ASWebAuthenticationSession in SwiftUI.
+* [BetterSafariView](https://github.com/stleamist/BetterSafariView) ⭐ 640 | 🐛 33 | 🌐 Swift | 📅 2024-07-09 - A better way to present a SFSafariViewController or start a ASWebAuthenticationSession in SwiftUI.
 * [SwiftWebUI](https://github.com/carson-katri/SwiftWebUI) ⭐ 424 | 🐛 2 | 🌐 Swift | 📅 2020-10-30 - SwiftUI with support for WebAssembly
 
 ***
