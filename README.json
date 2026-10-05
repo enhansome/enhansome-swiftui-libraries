@@ -123,7 +123,7 @@
             "open_issues": 20,
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5657,
+            "stars": 5658,
             "topics": [
               "animations",
               "app-animations",
@@ -1429,7 +1429,7 @@
             "open_issues": 9,
             "owner": "simibac",
             "repo": "ConfettiSwiftUI",
-            "stars": 2463,
+            "stars": 2464,
             "topics": [
               "animation",
               "swiftui"
@@ -1588,7 +1588,7 @@
             "open_issues": 8,
             "owner": "duraidabdul",
             "repo": "LocalConsole",
-            "stars": 830,
+            "stars": 829,
             "topics": [
               "debugging",
               "swiftui",
@@ -1649,7 +1649,7 @@
             "open_issues": 28,
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8166,
+            "stars": 8167,
             "topics": [
               "attributedstring",
               "backwards-compatibility",
@@ -1901,7 +1901,7 @@
             "open_issues": 4,
             "owner": "exyte",
             "repo": "Grid",
-            "stars": 2116,
+            "stars": 2117,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -2001,7 +2001,7 @@
             "open_issues": 4,
             "owner": "johnsusek",
             "repo": "FlowStack",
-            "stars": 152,
+            "stars": 151,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -2771,11 +2771,11 @@
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-02T14:58:13Z",
+            "last_commit": "2026-10-05T11:50:29Z",
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
-            "stars": 97,
+            "stars": 100,
             "topics": [
               "cartography",
               "geospatial",
@@ -2923,7 +2923,7 @@
             "open_issues": 44,
             "owner": "rundfunk47",
             "repo": "stinsen",
-            "stars": 954,
+            "stars": 953,
             "topics": [
               "coordinator",
               "coordinator-pattern",
@@ -3051,7 +3051,7 @@
             "open_issues": 10,
             "owner": "SwiftUIX",
             "repo": "Coordinator",
-            "stars": 298,
+            "stars": 297,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -4363,7 +4363,7 @@
             "open_issues": 44,
             "owner": "exyte",
             "repo": "SVGView",
-            "stars": 855,
+            "stars": 856,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -4418,7 +4418,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "AnimatedTabBar",
-            "stars": 555,
+            "stars": 556,
             "topics": [
               "animation",
               "ios-component",
@@ -4738,7 +4738,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4058,
+            "stars": 4060,
             "topics": [
               "popup",
               "swiftui",
@@ -4765,7 +4765,7 @@
             "open_issues": 31,
             "owner": "Mijick",
             "repo": "Popups",
-            "stars": 1810,
+            "stars": 1809,
             "topics": [
               "alert",
               "cocoapods",
@@ -4807,7 +4807,7 @@
             "open_issues": 4,
             "owner": "omaralbeik",
             "repo": "Drops",
-            "stars": 1041,
+            "stars": 1042,
             "topics": [
               "accessibility",
               "alert",
@@ -5035,7 +5035,7 @@
             "open_issues": 127,
             "owner": "TokamakUI",
             "repo": "Tokamak",
-            "stars": 2834,
+            "stars": 2833,
             "topics": [
               "data-binding",
               "dom",
@@ -5110,7 +5110,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T12:27:28.837Z",
+    "last_updated": "2026-10-05T14:48:56.101Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
