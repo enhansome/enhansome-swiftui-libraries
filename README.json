@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "sparrowcode",
             "repo": "AlertKit",
-            "stars": 2632,
+            "stars": 2633,
             "topics": [
               "alert",
               "alert-controller",
@@ -58,7 +58,7 @@
             "open_issues": 32,
             "owner": "elai950",
             "repo": "AlertToast",
-            "stars": 2442,
+            "stars": 2443,
             "topics": [
               "alert",
               "alert-controller",
@@ -1012,7 +1012,7 @@
             "open_issues": 2,
             "owner": "mecid",
             "repo": "SwiftUICharts",
-            "stars": 1574,
+            "stars": 1575,
             "topics": [
               "chart",
               "swiftui"
@@ -1429,7 +1429,7 @@
             "open_issues": 9,
             "owner": "simibac",
             "repo": "ConfettiSwiftUI",
-            "stars": 2463,
+            "stars": 2465,
             "topics": [
               "animation",
               "swiftui"
@@ -1649,7 +1649,7 @@
             "open_issues": 28,
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8166,
+            "stars": 8168,
             "topics": [
               "attributedstring",
               "backwards-compatibility",
@@ -1901,7 +1901,7 @@
             "open_issues": 4,
             "owner": "exyte",
             "repo": "Grid",
-            "stars": 2117,
+            "stars": 2118,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -2196,7 +2196,7 @@
             "open_issues": 12,
             "owner": "Jake-Short",
             "repo": "swiftui-image-viewer",
-            "stars": 499,
+            "stars": 500,
             "topics": [
               "image-viewer",
               "ios",
@@ -2823,7 +2823,7 @@
             "open_issues": 7,
             "owner": "FluidGroup",
             "repo": "swiftui-messaging-ui",
-            "stars": 85,
+            "stars": 86,
             "topics": [
               "chat",
               "messaging",
@@ -3141,7 +3141,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "ConcentricOnboarding",
-            "stars": 1566,
+            "stars": 1567,
             "topics": [
               "cocoapods",
               "ios",
@@ -3204,7 +3204,7 @@
             "open_issues": 12,
             "owner": "nachonavarro",
             "repo": "Pages",
-            "stars": 878,
+            "stars": 879,
             "topics": [
               "ios",
               "paging",
@@ -4007,7 +4007,7 @@
             "open_issues": 19,
             "owner": "lucaszischka",
             "repo": "BottomSheet",
-            "stars": 1244,
+            "stars": 1245,
             "topics": [
               "bottomsheet",
               "hacktoberfest",
@@ -4180,7 +4180,7 @@
             "open_issues": 1,
             "owner": "kieranb662",
             "repo": "Sliders-SwiftUI",
-            "stars": 737,
+            "stars": 738,
             "topics": [
               "colorpicker",
               "joystick",
@@ -4418,7 +4418,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "AnimatedTabBar",
-            "stars": 556,
+            "stars": 557,
             "topics": [
               "animation",
               "ios-component",
@@ -4636,7 +4636,7 @@
             "open_issues": 1,
             "owner": "michaelhenry",
             "repo": "KeyboardAvoider",
-            "stars": 137,
+            "stars": 138,
             "topics": [
               "autodismisskeyboard",
               "autokeyboard",
@@ -4738,7 +4738,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4058,
+            "stars": 4061,
             "topics": [
               "popup",
               "swiftui",
@@ -4939,7 +4939,7 @@
             "open_issues": 7,
             "owner": "quassum",
             "repo": "SwiftUI-Tooltip",
-            "stars": 374,
+            "stars": 375,
             "topics": [
               "apple",
               "swift",
@@ -5035,7 +5035,7 @@
             "open_issues": 127,
             "owner": "TokamakUI",
             "repo": "Tokamak",
-            "stars": 2833,
+            "stars": 2834,
             "topics": [
               "data-binding",
               "dom",
@@ -5110,7 +5110,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T13:31:20.484Z",
+    "last_updated": "2026-10-08T13:37:18.859Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
@@ -5122,7 +5122,7 @@
       "open_issues": 0,
       "owner": "Toni77777",
       "repo": "awesome-swiftui-libraries",
-      "stars": 1542,
+      "stars": 1543,
       "topics": [
         "awesome",
         "frameworks",
