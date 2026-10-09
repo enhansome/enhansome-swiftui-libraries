@@ -123,7 +123,7 @@
             "open_issues": 20,
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5659,
+            "stars": 5661,
             "topics": [
               "animations",
               "app-animations",
@@ -330,7 +330,7 @@
             "open_issues": 3,
             "owner": "twostraws",
             "repo": "Subsonic",
-            "stars": 371,
+            "stars": 372,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -562,7 +562,7 @@
             "open_issues": 10,
             "owner": "ThasianX",
             "repo": "ElegantCalendar",
-            "stars": 1092,
+            "stars": 1093,
             "topics": [
               "calendar",
               "elegantcalendar",
@@ -985,7 +985,7 @@
             "open_issues": 95,
             "owner": "AppPear",
             "repo": "ChartView",
-            "stars": 5645,
+            "stars": 5646,
             "topics": [
               "chart",
               "charts",
@@ -2110,7 +2110,7 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-02-25T06:43:20Z",
-            "open_issues": 83,
+            "open_issues": 85,
             "owner": "SDWebImage",
             "repo": "SDWebImageSwiftUI",
             "stars": 2558,
@@ -2605,7 +2605,7 @@
             "open_issues": 62,
             "owner": "gonzalezreal",
             "repo": "swift-markdown-ui",
-            "stars": 3932,
+            "stars": 3933,
             "topics": [
               "cmark",
               "commonmark",
@@ -2771,11 +2771,11 @@
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-05T11:50:29Z",
+            "last_commit": "2026-10-09T12:46:16Z",
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
-            "stars": 100,
+            "stars": 101,
             "topics": [
               "cartography",
               "geospatial",
@@ -4035,7 +4035,7 @@
             "open_issues": 9,
             "owner": "maustinstar",
             "repo": "swiftui-drawer",
-            "stars": 1053,
+            "stars": 1054,
             "topics": [
               "ios",
               "macos",
@@ -4418,7 +4418,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "AnimatedTabBar",
-            "stars": 557,
+            "stars": 556,
             "topics": [
               "animation",
               "ios-component",
@@ -5066,7 +5066,7 @@
             "open_issues": 33,
             "owner": "stleamist",
             "repo": "BetterSafariView",
-            "stars": 641,
+            "stars": 642,
             "topics": [
               "aswebauthenticationsession",
               "ios",
@@ -5110,7 +5110,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T13:37:18.859Z",
+    "last_updated": "2026-10-09T13:23:22.496Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
