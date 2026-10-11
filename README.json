@@ -123,7 +123,7 @@
             "open_issues": 20,
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5664,
+            "stars": 5665,
             "topics": [
               "animations",
               "app-animations",
@@ -267,7 +267,7 @@
             "open_issues": 3,
             "owner": "maustinstar",
             "repo": "liquid",
-            "stars": 858,
+            "stars": 857,
             "topics": [
               "artwork",
               "ios",
@@ -1012,7 +1012,7 @@
             "open_issues": 2,
             "owner": "mecid",
             "repo": "SwiftUICharts",
-            "stars": 1575,
+            "stars": 1574,
             "topics": [
               "chart",
               "swiftui"
@@ -1613,7 +1613,7 @@
             "open_issues": 3,
             "owner": "nalexn",
             "repo": "EnvironmentOverrides",
-            "stars": 340,
+            "stars": 341,
             "topics": [
               "accessibility",
               "dark-theme",
@@ -1747,7 +1747,7 @@
             "open_issues": 0,
             "owner": "BaherTamer",
             "repo": "SwiftSafeUI",
-            "stars": 37,
+            "stars": 36,
             "topics": [
               "compatibility",
               "ios",
@@ -1869,7 +1869,7 @@
             "open_issues": 15,
             "owner": "paololeonardi",
             "repo": "WaterfallGrid",
-            "stars": 2664,
+            "stars": 2663,
             "topics": [
               "ios",
               "macos",
@@ -2110,10 +2110,10 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-02-25T06:43:20Z",
-            "open_issues": 85,
+            "open_issues": 86,
             "owner": "SDWebImage",
             "repo": "SDWebImageSwiftUI",
-            "stars": 2558,
+            "stars": 2559,
             "topics": [
               "animated-webp",
               "apng",
@@ -2469,7 +2469,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "ActivityIndicatorView",
-            "stars": 1671,
+            "stars": 1672,
             "topics": [
               "swiftui",
               "swiftui-components",
@@ -2775,7 +2775,7 @@
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
-            "stars": 102,
+            "stars": 103,
             "topics": [
               "cartography",
               "geospatial",
@@ -2881,7 +2881,7 @@
             "open_issues": 22,
             "owner": "matteopuc",
             "repo": "swiftui-navigation-stack",
-            "stars": 999,
+            "stars": 1000,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -3204,7 +3204,7 @@
             "open_issues": 12,
             "owner": "nachonavarro",
             "repo": "Pages",
-            "stars": 880,
+            "stars": 879,
             "topics": [
               "ios",
               "paging",
@@ -4324,7 +4324,7 @@
             "open_issues": 12,
             "owner": "badrinathvm",
             "repo": "StepperView",
-            "stars": 1360,
+            "stars": 1361,
             "topics": [
               "apple-watch",
               "carthage",
@@ -4363,7 +4363,7 @@
             "open_issues": 44,
             "owner": "exyte",
             "repo": "SVGView",
-            "stars": 857,
+            "stars": 858,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -4807,7 +4807,7 @@
             "open_issues": 4,
             "owner": "omaralbeik",
             "repo": "Drops",
-            "stars": 1041,
+            "stars": 1042,
             "topics": [
               "accessibility",
               "alert",
@@ -5110,7 +5110,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T12:38:29.339Z",
+    "last_updated": "2026-10-11T12:57:49.812Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
