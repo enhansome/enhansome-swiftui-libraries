@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "sparrowcode",
             "repo": "AlertKit",
-            "stars": 2633,
+            "stars": 2634,
             "topics": [
               "alert",
               "alert-controller",
@@ -58,7 +58,7 @@
             "open_issues": 32,
             "owner": "elai950",
             "repo": "AlertToast",
-            "stars": 2443,
+            "stars": 2444,
             "topics": [
               "alert",
               "alert-controller",
@@ -194,7 +194,7 @@
             "open_issues": 3,
             "owner": "davdroman",
             "repo": "swiftui-navigation-transitions",
-            "stars": 1086,
+            "stars": 1088,
             "topics": [
               "animation",
               "native",
@@ -225,7 +225,7 @@
             "open_issues": 0,
             "owner": "Arvindcs",
             "repo": "SwiftUI-Animation",
-            "stars": 1068,
+            "stars": 1069,
             "topics": [
               "animated-dots",
               "cardview",
@@ -840,7 +840,7 @@
             "open_issues": 11,
             "owner": "joogps",
             "repo": "SlideOverCard",
-            "stars": 1218,
+            "stars": 1219,
             "topics": [
               "apple",
               "card",
@@ -870,7 +870,7 @@
             "open_issues": 4,
             "owner": "danielsaidi",
             "repo": "DeckKit",
-            "stars": 891,
+            "stars": 892,
             "topics": [
               "card",
               "deck",
@@ -1518,7 +1518,7 @@
             "open_issues": 3,
             "owner": "ftchirou",
             "repo": "PredicateKit",
-            "stars": 411,
+            "stars": 410,
             "topics": [
               "coredata",
               "keypaths",
@@ -1588,7 +1588,7 @@
             "open_issues": 8,
             "owner": "duraidabdul",
             "repo": "LocalConsole",
-            "stars": 827,
+            "stars": 828,
             "topics": [
               "debugging",
               "swiftui",
@@ -1649,7 +1649,7 @@
             "open_issues": 29,
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8171,
+            "stars": 8172,
             "topics": [
               "attributedstring",
               "backwards-compatibility",
@@ -1869,7 +1869,7 @@
             "open_issues": 15,
             "owner": "paololeonardi",
             "repo": "WaterfallGrid",
-            "stars": 2663,
+            "stars": 2664,
             "topics": [
               "ios",
               "macos",
@@ -1901,7 +1901,7 @@
             "open_issues": 4,
             "owner": "exyte",
             "repo": "Grid",
-            "stars": 2118,
+            "stars": 2119,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -1922,7 +1922,7 @@
             "open_issues": 18,
             "owner": "Q-Mobile",
             "repo": "QGrid",
-            "stars": 1644,
+            "stars": 1645,
             "topics": [
               "declarative-ui",
               "grid",
@@ -2113,7 +2113,7 @@
             "open_issues": 86,
             "owner": "SDWebImage",
             "repo": "SDWebImageSwiftUI",
-            "stars": 2559,
+            "stars": 2560,
             "topics": [
               "animated-webp",
               "apng",
@@ -2469,7 +2469,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "ActivityIndicatorView",
-            "stars": 1672,
+            "stars": 1673,
             "topics": [
               "swiftui",
               "swiftui-components",
@@ -2605,7 +2605,7 @@
             "open_issues": 62,
             "owner": "gonzalezreal",
             "repo": "swift-markdown-ui",
-            "stars": 3933,
+            "stars": 3931,
             "topics": [
               "cmark",
               "commonmark",
@@ -2771,7 +2771,7 @@
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-12T13:54:20Z",
+            "last_commit": "2026-10-13T10:37:09Z",
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
@@ -2902,8 +2902,44 @@
             "open_issues": 24,
             "owner": "johnpatrickmorgan",
             "repo": "FlowStacks",
-            "stars": 969,
+            "stars": 970,
             "topics": []
+          },
+          "first_seen": "2026-08-28T18:46:46.752Z"
+        },
+        {
+          "node_type": "item",
+          "title": "stinsen",
+          "description": "Coordinators in SwiftUI. Simple, powerful and elegant.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Coordinators in SwiftUI. Simple, powerful and elegant.",
+            "homepage": null,
+            "id": 340845988,
+            "language": "Swift",
+            "license": "MIT",
+            "last_commit": "2026-03-28T07:04:00Z",
+            "open_issues": 44,
+            "owner": "rundfunk47",
+            "repo": "stinsen",
+            "stars": 953,
+            "topics": [
+              "coordinator",
+              "coordinator-pattern",
+              "coordinators",
+              "ios",
+              "macos",
+              "macosx",
+              "mvvm",
+              "mvvm-c",
+              "swift",
+              "swift-library",
+              "swift5",
+              "swiftui",
+              "tvos",
+              "watchos"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         },
@@ -2931,42 +2967,6 @@
               "routing",
               "swift",
               "swiftui"
-            ]
-          },
-          "first_seen": "2026-08-28T18:46:46.752Z"
-        },
-        {
-          "node_type": "item",
-          "title": "stinsen",
-          "description": "Coordinators in SwiftUI. Simple, powerful and elegant.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Coordinators in SwiftUI. Simple, powerful and elegant.",
-            "homepage": null,
-            "id": 340845988,
-            "language": "Swift",
-            "license": "MIT",
-            "last_commit": "2026-03-28T07:04:00Z",
-            "open_issues": 44,
-            "owner": "rundfunk47",
-            "repo": "stinsen",
-            "stars": 952,
-            "topics": [
-              "coordinator",
-              "coordinator-pattern",
-              "coordinators",
-              "ios",
-              "macos",
-              "macosx",
-              "mvvm",
-              "mvvm-c",
-              "swift",
-              "swift-library",
-              "swift5",
-              "swiftui",
-              "tvos",
-              "watchos"
             ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -3170,7 +3170,7 @@
             "open_issues": 45,
             "owner": "fermoya",
             "repo": "SwiftUIPager",
-            "stars": 1472,
+            "stars": 1471,
             "topics": [
               "cocoapods",
               "ios",
@@ -3233,7 +3233,7 @@
             "open_issues": 13,
             "owner": "xmartlabs",
             "repo": "PagerTabStripView",
-            "stars": 843,
+            "stars": 844,
             "topics": [
               "pager",
               "pagertabstripview",
@@ -3330,7 +3330,7 @@
             "open_issues": 15,
             "owner": "jevonmao",
             "repo": "PermissionsSwiftUI",
-            "stars": 1573,
+            "stars": 1575,
             "topics": [
               "coding",
               "developer",
@@ -3374,7 +3374,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "MediaPicker",
-            "stars": 489,
+            "stars": 490,
             "topics": [
               "ios",
               "photo-gallery",
@@ -3704,7 +3704,15 @@
             "owner": "shopsavvy",
             "repo": "swiftui-shopsavvy",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "mobile",
+              "price-comparison",
+              "price-history",
+              "pricing-api",
+              "product-data",
+              "shopsavvy",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
         }
@@ -3730,7 +3738,7 @@
             "open_issues": 10,
             "owner": "VergeGroup",
             "repo": "swift-verge",
-            "stars": 811,
+            "stars": 812,
             "topics": [
               "data-driven",
               "dispatcher",
@@ -4007,7 +4015,7 @@
             "open_issues": 19,
             "owner": "lucaszischka",
             "repo": "BottomSheet",
-            "stars": 1245,
+            "stars": 1246,
             "topics": [
               "bottomsheet",
               "hacktoberfest",
@@ -4146,7 +4154,7 @@
             "open_issues": 17,
             "owner": "spacenation",
             "repo": "swiftui-sliders",
-            "stars": 937,
+            "stars": 938,
             "topics": [
               "apple",
               "ios",
@@ -4180,7 +4188,7 @@
             "open_issues": 1,
             "owner": "kieranb662",
             "repo": "Sliders-SwiftUI",
-            "stars": 738,
+            "stars": 739,
             "topics": [
               "colorpicker",
               "joystick",
@@ -4324,7 +4332,7 @@
             "open_issues": 12,
             "owner": "badrinathvm",
             "repo": "StepperView",
-            "stars": 1361,
+            "stars": 1363,
             "topics": [
               "apple-watch",
               "carthage",
@@ -4363,7 +4371,7 @@
             "open_issues": 44,
             "owner": "exyte",
             "repo": "SVGView",
-            "stars": 858,
+            "stars": 859,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -4418,7 +4426,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "AnimatedTabBar",
-            "stars": 556,
+            "stars": 557,
             "topics": [
               "animation",
               "ios-component",
@@ -4738,7 +4746,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4061,
+            "stars": 4062,
             "topics": [
               "popup",
               "swiftui",
@@ -4807,7 +4815,7 @@
             "open_issues": 4,
             "owner": "omaralbeik",
             "repo": "Drops",
-            "stars": 1042,
+            "stars": 1043,
             "topics": [
               "accessibility",
               "alert",
@@ -5110,7 +5118,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T15:35:32.352Z",
+    "last_updated": "2026-10-13T14:18:04.726Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
@@ -5122,7 +5130,7 @@
       "open_issues": 0,
       "owner": "Toni77777",
       "repo": "awesome-swiftui-libraries",
-      "stars": 1543,
+      "stars": 1544,
       "topics": [
         "awesome",
         "frameworks",
