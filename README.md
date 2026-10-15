@@ -188,7 +188,7 @@
 
 [scroll to top](#readme)
 
-* [ConfettiSwiftUI](https://github.com/simibac/ConfettiSwiftUI) ⭐ 2,466 | 🐛 9 | 🌐 Swift | 📅 2026-01-05 - SwiftUI Package for Configurable Confetti Animation
+* [ConfettiSwiftUI](https://github.com/simibac/ConfettiSwiftUI) ⭐ 2,467 | 🐛 9 | 🌐 Swift | 📅 2026-01-05 - SwiftUI Package for Configurable Confetti Animation
 * [SPConfetti](https://github.com/ivanvorobei/SPConfetti) ⭐ 309 | 🐛 6 | 🌐 Swift | 📅 2024-04-05 - Show the confetti only when the user is having fun, and if not having fun, don't show it
 * [ConfettiView](https://github.com/ziligy/ConfettiView) ⭐ 135 | 🐛 0 | 🌐 Swift | 📅 2021-01-26 - a Confetti View for SwiftUI
 
@@ -210,7 +210,7 @@
 
 [scroll to top](#readme)
 
-* [SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) ⭐ 8,173 | 🐛 30 | 🌐 Swift | 📅 2026-09-18 - An extension to the standard SwiftUI library.
+* [SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) ⭐ 8,175 | 🐛 30 | 🌐 Swift | 📅 2026-09-18 - An extension to the standard SwiftUI library.
 * [MijickTimer](https://github.com/Mijick/Timer) ⭐ 203 | 🐛 1 | 🌐 Swift | 📅 2025-05-14 - Modern API for Timer
 * [ViewCondition](https://github.com/tokijh/ViewCondition) ⭐ 105 | 🐛 0 | 🌐 Swift | 📅 2021-09-30 - Super sweet syntactic sugar for SwiftUI.View initializers.
 * [SwiftSafeUI](https://github.com/BaherTamer/SwiftSafeUI) ⭐ 36 | 🐛 0 | 🌐 Swift | 📅 2025-07-16 - Encapsulates your SwiftUI deprecation handling logic.
@@ -267,7 +267,7 @@
 
 [scroll to top](#readme)
 
-* [ActivityIndicatorView](https://github.com/exyte/ActivityIndicatorView) ⭐ 1,673 | 🐛 0 | 🌐 Swift | 📅 2026-09-10 - A number of preset loading indicators created with SwiftUI
+* [ActivityIndicatorView](https://github.com/exyte/ActivityIndicatorView) ⭐ 1,674 | 🐛 0 | 🌐 Swift | 📅 2026-09-10 - A number of preset loading indicators created with SwiftUI
 * [LoaderUI](https://github.com/ninjaprox/LoaderUI) ⭐ 246 | 🐛 4 | 🌐 Swift | 📅 2026-06-28 - NVActivityIndicatorView implemented in SwiftUI
 * [TTProgressHUD](https://github.com/honkmaster/TTProgressHUD) ⭐ 244 | 🐛 1 | 🌐 Swift | 📅 2022-05-31 - TTProgressHUD is a light weight HUD written in SwiftUI meant to display the progress of an ongoing task on iOS
 * [JGProgressHUD-SwiftUI](https://github.com/JonasGessner/JGProgressHUD-SwiftUI) ⭐ 124 | 🐛 1 | 🌐 Swift | 📅 2020-10-20 - Easily show HUDs with SwiftUI! Lightweight SwiftUI wrapper for JGProgressHUD for iOS, tvOS, Catalyst
@@ -312,7 +312,7 @@
 * [SwiftUIRouter](https://github.com/frzi/SwiftUIRouter) ⚠️ Archived - Path based routing in SwiftUI
 * [Swift Composable Navigator](https://github.com/Bahn-X/swift-composable-navigator) ⭐ 589 | 🐛 11 | 🌐 Swift | 📅 2022-02-18 - An open source library for building deep-linkable SwiftUI applications with composition, testing and ergonomics in mind
 * [MijickNavigattie](https://github.com/Mijick/Navigattie) ⭐ 319 | 🐛 11 | 🌐 Swift | 📅 2025-05-14 - Easy navigation with SwiftUI
-* [Coordinator](https://github.com/SwiftUIX/Coordinator) ⭐ 297 | 🐛 10 | 🌐 Swift | 📅 2024-08-22 - A declarative navigation API for SwiftUI.
+* [Coordinator](https://github.com/SwiftUIX/Coordinator) ⭐ 298 | 🐛 10 | 🌐 Swift | 📅 2024-08-22 - A declarative navigation API for SwiftUI.
 * [NavigationKit](https://github.com/rebeloper/NavigationKit) ⭐ 225 | 🐛 6 | 🌐 Swift | 📅 2026-03-22 - SwiftUI navigation done right
 * [Router](https://github.com/1amageek/Router) ⭐ 75 | 🐛 0 | 🌐 Swift | 📅 2021-02-13 - Router is a library that assists with SwiftUI view transitions.
 * [Helm](https://github.com/valentinradu/Helm) - A graph-based SwiftUI router
@@ -323,7 +323,7 @@
 
 * [ConcentricOnboarding](https://github.com/exyte/ConcentricOnboarding) ⭐ 1,567 | 🐛 0 | 🌐 Swift | 📅 2026-07-08 - SwiftUI library for a walkthrough or onboarding flow with tap actions
 * [SwiftUIPager](https://github.com/fermoya/SwiftUIPager) ⭐ 1,471 | 🐛 45 | 🌐 Swift | 📅 2024-02-16 - Native Pager in SwiftUI
-* [Pages](https://github.com/nachonavarro/Pages) ⭐ 880 | 🐛 12 | 🌐 Swift | 📅 2025-12-30 - A lightweight, paging view solution for SwiftUI
+* [Pages](https://github.com/nachonavarro/Pages) ⭐ 879 | 🐛 12 | 🌐 Swift | 📅 2025-12-30 - A lightweight, paging view solution for SwiftUI
 * [PagerTabStripView](https://github.com/xmartlabs/PagerTabStripView) ⭐ 844 | 🐛 13 | 🌐 Swift | 📅 2025-02-26 - Elegant Pager View fully written in pure SwiftUI
 * [fredyshox/PageView](https://github.com/fredyshox/PageView) ⭐ 655 | 🐛 10 | 🌐 Swift | 📅 2023-03-11 - SwiftUI view enabling navigation between pages of content, imitating the behaviour of UIPageViewController for iOS and watchOS
 
@@ -337,7 +337,7 @@
 
 [scroll to top](#readme)
 
-* [PermissionsSwiftUI](https://github.com/jevonmao/PermissionsSwiftUI) ⭐ 1,575 | 🐛 15 | 🌐 Swift | 📅 2024-04-06 - A SwiftUI package to beautifully display and handle permissions.
+* [PermissionsSwiftUI](https://github.com/jevonmao/PermissionsSwiftUI) ⭐ 1,576 | 🐛 15 | 🌐 Swift | 📅 2024-04-06 - A SwiftUI package to beautifully display and handle permissions.
 
 ## Photo-Picker
 
@@ -538,4 +538,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._

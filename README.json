@@ -1429,7 +1429,7 @@
             "open_issues": 9,
             "owner": "simibac",
             "repo": "ConfettiSwiftUI",
-            "stars": 2466,
+            "stars": 2467,
             "topics": [
               "animation",
               "swiftui"
@@ -1649,7 +1649,7 @@
             "open_issues": 30,
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8173,
+            "stars": 8175,
             "topics": [
               "attributedstring",
               "backwards-compatibility",
@@ -2469,7 +2469,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "ActivityIndicatorView",
-            "stars": 1673,
+            "stars": 1674,
             "topics": [
               "swiftui",
               "swiftui-components",
@@ -2771,7 +2771,7 @@
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-14T08:26:31Z",
+            "last_commit": "2026-10-14T15:09:13Z",
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
@@ -3051,7 +3051,7 @@
             "open_issues": 10,
             "owner": "SwiftUIX",
             "repo": "Coordinator",
-            "stars": 297,
+            "stars": 298,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -3204,7 +3204,7 @@
             "open_issues": 12,
             "owner": "nachonavarro",
             "repo": "Pages",
-            "stars": 880,
+            "stars": 879,
             "topics": [
               "ios",
               "paging",
@@ -3330,7 +3330,7 @@
             "open_issues": 15,
             "owner": "jevonmao",
             "repo": "PermissionsSwiftUI",
-            "stars": 1575,
+            "stars": 1576,
             "topics": [
               "coding",
               "developer",
@@ -5118,7 +5118,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T11:59:35.443Z",
+    "last_updated": "2026-10-15T11:36:38.303Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
