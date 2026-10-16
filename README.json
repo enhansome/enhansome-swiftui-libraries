@@ -1429,7 +1429,7 @@
             "open_issues": 9,
             "owner": "simibac",
             "repo": "ConfettiSwiftUI",
-            "stars": 2467,
+            "stars": 2468,
             "topics": [
               "animation",
               "swiftui"
@@ -1649,7 +1649,7 @@
             "open_issues": 30,
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8175,
+            "stars": 8176,
             "topics": [
               "attributedstring",
               "backwards-compatibility",
@@ -2771,7 +2771,7 @@
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-14T15:09:13Z",
+            "last_commit": "2026-10-15T13:38:42Z",
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
@@ -4773,7 +4773,7 @@
             "open_issues": 31,
             "owner": "Mijick",
             "repo": "Popups",
-            "stars": 1808,
+            "stars": 1807,
             "topics": [
               "alert",
               "cocoapods",
@@ -5118,7 +5118,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T11:36:38.303Z",
+    "last_updated": "2026-10-16T11:30:46.447Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
@@ -5130,7 +5130,7 @@
       "open_issues": 0,
       "owner": "Toni77777",
       "repo": "awesome-swiftui-libraries",
-      "stars": 1544,
+      "stars": 1545,
       "topics": [
         "awesome",
         "frameworks",
