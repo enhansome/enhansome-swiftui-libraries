@@ -720,7 +720,7 @@
             "open_issues": 37,
             "owner": "Mijick",
             "repo": "Camera",
-            "stars": 655,
+            "stars": 656,
             "topics": [
               "avfoundation",
               "camera",
@@ -1649,7 +1649,7 @@
             "open_issues": 30,
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8176,
+            "stars": 8177,
             "topics": [
               "attributedstring",
               "backwards-compatibility",
@@ -1747,7 +1747,7 @@
             "open_issues": 0,
             "owner": "BaherTamer",
             "repo": "SwiftSafeUI",
-            "stars": 36,
+            "stars": 37,
             "topics": [
               "compatibility",
               "ios",
@@ -2196,7 +2196,7 @@
             "open_issues": 12,
             "owner": "Jake-Short",
             "repo": "swiftui-image-viewer",
-            "stars": 500,
+            "stars": 499,
             "topics": [
               "image-viewer",
               "ios",
@@ -4015,7 +4015,7 @@
             "open_issues": 19,
             "owner": "lucaszischka",
             "repo": "BottomSheet",
-            "stars": 1246,
+            "stars": 1247,
             "topics": [
               "bottomsheet",
               "hacktoberfest",
@@ -4478,7 +4478,7 @@
             "language": "Swift",
             "license": null,
             "last_commit": "2023-01-31T19:01:02Z",
-            "open_issues": 11,
+            "open_issues": 10,
             "owner": "QuynhNguyen",
             "repo": "SlidingTabView",
             "stars": 258,
@@ -4980,7 +4980,7 @@
             "open_issues": 1,
             "owner": "SvenTiigi",
             "repo": "YouTubePlayerKit",
-            "stars": 984,
+            "stars": 985,
             "topics": [
               "ios",
               "macos",
@@ -5118,7 +5118,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T11:30:46.447Z",
+    "last_updated": "2026-10-17T10:50:47.548Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
