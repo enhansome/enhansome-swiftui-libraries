@@ -123,7 +123,7 @@
             "open_issues": 20,
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5666,
+            "stars": 5668,
             "topics": [
               "animations",
               "app-animations",
@@ -592,7 +592,7 @@
             "open_issues": 12,
             "owner": "RaffiKian",
             "repo": "RKCalendar",
-            "stars": 583,
+            "stars": 584,
             "topics": [
               "calendar",
               "datepicker",
@@ -1036,7 +1036,7 @@
             "open_issues": 10,
             "owner": "spacenation",
             "repo": "swiftui-charts",
-            "stars": 813,
+            "stars": 814,
             "topics": [
               "apple",
               "charts",
@@ -1649,7 +1649,7 @@
             "open_issues": 30,
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8177,
+            "stars": 8180,
             "topics": [
               "attributedstring",
               "backwards-compatibility",
@@ -3262,7 +3262,7 @@
             "open_issues": 10,
             "owner": "fredyshox",
             "repo": "PageView",
-            "stars": 655,
+            "stars": 654,
             "topics": [
               "ios",
               "pageview",
@@ -3374,7 +3374,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "MediaPicker",
-            "stars": 490,
+            "stars": 489,
             "topics": [
               "ios",
               "photo-gallery",
@@ -4878,7 +4878,7 @@
             "open_issues": 1,
             "owner": "SimformSolutionsPvtLtd",
             "repo": "SSToastMessage",
-            "stars": 522,
+            "stars": 521,
             "topics": [
               "cocoapods",
               "custom-dropdown",
@@ -5118,7 +5118,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T10:50:47.548Z",
+    "last_updated": "2026-10-18T11:15:10.068Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
