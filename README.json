@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "sparrowcode",
             "repo": "AlertKit",
-            "stars": 2635,
+            "stars": 2636,
             "topics": [
               "alert",
               "alert-controller",
@@ -123,7 +123,7 @@
             "open_issues": 20,
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5668,
+            "stars": 5666,
             "topics": [
               "animations",
               "app-animations",
@@ -162,7 +162,7 @@
             "open_issues": 6,
             "owner": "maustinstar",
             "repo": "shiny",
-            "stars": 1093,
+            "stars": 1090,
             "topics": [
               "gyroscope",
               "ios",
@@ -190,7 +190,7 @@
             "id": 553564385,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-04T21:24:54Z",
+            "last_commit": "2026-10-19T23:34:56Z",
             "open_issues": 3,
             "owner": "davdroman",
             "repo": "swiftui-navigation-transitions",
@@ -411,7 +411,7 @@
             "open_issues": 2,
             "owner": "lucasbrown",
             "repo": "swiftui-visual-effects",
-            "stars": 342,
+            "stars": 341,
             "topics": [
               "apple",
               "ios",
@@ -621,7 +621,7 @@
             "open_issues": 9,
             "owner": "GGJJack",
             "repo": "SwiftUICalendar",
-            "stars": 253,
+            "stars": 254,
             "topics": [
               "calendar",
               "cocoapods",
@@ -840,7 +840,7 @@
             "open_issues": 11,
             "owner": "joogps",
             "repo": "SlideOverCard",
-            "stars": 1219,
+            "stars": 1218,
             "topics": [
               "apple",
               "card",
@@ -985,7 +985,7 @@
             "open_issues": 95,
             "owner": "AppPear",
             "repo": "ChartView",
-            "stars": 5648,
+            "stars": 5646,
             "topics": [
               "chart",
               "charts",
@@ -1588,7 +1588,7 @@
             "open_issues": 8,
             "owner": "duraidabdul",
             "repo": "LocalConsole",
-            "stars": 829,
+            "stars": 828,
             "topics": [
               "debugging",
               "swiftui",
@@ -1869,7 +1869,7 @@
             "open_issues": 15,
             "owner": "paololeonardi",
             "repo": "WaterfallGrid",
-            "stars": 2663,
+            "stars": 2664,
             "topics": [
               "ios",
               "macos",
@@ -2714,7 +2714,7 @@
             "open_issues": 2,
             "owner": "inventhq",
             "repo": "dot-globe",
-            "stars": 127,
+            "stars": 126,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -3843,7 +3843,7 @@
             "open_issues": 7,
             "owner": "nerdsupremacist",
             "repo": "FancyScrollView",
-            "stars": 1023,
+            "stars": 1022,
             "topics": [
               "app-store",
               "apple-music",
@@ -4015,7 +4015,7 @@
             "open_issues": 19,
             "owner": "lucaszischka",
             "repo": "BottomSheet",
-            "stars": 1248,
+            "stars": 1249,
             "topics": [
               "bottomsheet",
               "hacktoberfest",
@@ -4043,7 +4043,7 @@
             "open_issues": 9,
             "owner": "maustinstar",
             "repo": "swiftui-drawer",
-            "stars": 1054,
+            "stars": 1055,
             "topics": [
               "ios",
               "macos",
@@ -4719,7 +4719,7 @@
             "open_issues": 0,
             "owner": "davdroman",
             "repo": "swiftui-text-builder",
-            "stars": 248,
+            "stars": 247,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -4746,7 +4746,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4062,
+            "stars": 4061,
             "topics": [
               "popup",
               "swiftui",
@@ -4773,7 +4773,7 @@
             "open_issues": 31,
             "owner": "Mijick",
             "repo": "Popups",
-            "stars": 1807,
+            "stars": 1806,
             "topics": [
               "alert",
               "cocoapods",
@@ -4815,7 +4815,7 @@
             "open_issues": 4,
             "owner": "omaralbeik",
             "repo": "Drops",
-            "stars": 1043,
+            "stars": 1042,
             "topics": [
               "accessibility",
               "alert",
@@ -5043,7 +5043,7 @@
             "open_issues": 127,
             "owner": "TokamakUI",
             "repo": "Tokamak",
-            "stars": 2834,
+            "stars": 2833,
             "topics": [
               "data-binding",
               "dom",
@@ -5118,7 +5118,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T13:26:55.781Z",
+    "last_updated": "2026-10-20T11:45:19.039Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
@@ -5130,7 +5130,7 @@
       "open_issues": 0,
       "owner": "Toni77777",
       "repo": "awesome-swiftui-libraries",
-      "stars": 1545,
+      "stars": 1543,
       "topics": [
         "awesome",
         "frameworks",
