@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "sparrowcode",
             "repo": "AlertKit",
-            "stars": 2636,
+            "stars": 2637,
             "topics": [
               "alert",
               "alert-controller",
@@ -58,7 +58,7 @@
             "open_issues": 32,
             "owner": "elai950",
             "repo": "AlertToast",
-            "stars": 2444,
+            "stars": 2443,
             "topics": [
               "alert",
               "alert-controller",
@@ -123,7 +123,7 @@
             "open_issues": 20,
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5666,
+            "stars": 5667,
             "topics": [
               "animations",
               "app-animations",
@@ -446,7 +446,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "FloatingButton",
-            "stars": 1269,
+            "stars": 1270,
             "topics": [
               "swiftui",
               "swiftui-animations",
@@ -562,7 +562,7 @@
             "open_issues": 10,
             "owner": "ThasianX",
             "repo": "ElegantCalendar",
-            "stars": 1094,
+            "stars": 1095,
             "topics": [
               "calendar",
               "elegantcalendar",
@@ -870,7 +870,7 @@
             "open_issues": 4,
             "owner": "danielsaidi",
             "repo": "DeckKit",
-            "stars": 891,
+            "stars": 890,
             "topics": [
               "card",
               "deck",
@@ -985,7 +985,7 @@
             "open_issues": 95,
             "owner": "AppPear",
             "repo": "ChartView",
-            "stars": 5646,
+            "stars": 5647,
             "topics": [
               "chart",
               "charts",
@@ -1130,7 +1130,7 @@
             "open_issues": 1,
             "owner": "simonboots",
             "repo": "SwiftUIFourierSeries",
-            "stars": 253,
+            "stars": 254,
             "topics": [
               "fourier-series",
               "ios",
@@ -1157,7 +1157,7 @@
             "open_issues": 1,
             "owner": "pichukov",
             "repo": "LightChart",
-            "stars": 188,
+            "stars": 187,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -1588,7 +1588,7 @@
             "open_issues": 8,
             "owner": "duraidabdul",
             "repo": "LocalConsole",
-            "stars": 828,
+            "stars": 829,
             "topics": [
               "debugging",
               "swiftui",
@@ -1649,7 +1649,7 @@
             "open_issues": 30,
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8180,
+            "stars": 8182,
             "topics": [
               "attributedstring",
               "backwards-compatibility",
@@ -1830,7 +1830,7 @@
             "open_issues": 0,
             "owner": "joogps",
             "repo": "IrregularGradient",
-            "stars": 232,
+            "stars": 231,
             "topics": [
               "animated",
               "gradient",
@@ -2148,7 +2148,7 @@
             "open_issues": 15,
             "owner": "dmytro-anokhin",
             "repo": "url-image",
-            "stars": 1153,
+            "stars": 1154,
             "topics": [
               "ios",
               "macos",
@@ -2771,11 +2771,11 @@
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-18T21:24:45Z",
+            "last_commit": "2026-10-21T11:27:08Z",
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
-            "stars": 105,
+            "stars": 106,
             "topics": [
               "cartography",
               "geospatial",
@@ -3204,7 +3204,7 @@
             "open_issues": 12,
             "owner": "nachonavarro",
             "repo": "Pages",
-            "stars": 879,
+            "stars": 878,
             "topics": [
               "ios",
               "paging",
@@ -3374,7 +3374,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "MediaPicker",
-            "stars": 489,
+            "stars": 490,
             "topics": [
               "ios",
               "photo-gallery",
@@ -3843,7 +3843,7 @@
             "open_issues": 7,
             "owner": "nerdsupremacist",
             "repo": "FancyScrollView",
-            "stars": 1022,
+            "stars": 1023,
             "topics": [
               "app-store",
               "apple-music",
@@ -4266,7 +4266,7 @@
             "open_issues": 7,
             "owner": "Cay-Zhang",
             "repo": "SwiftSpeech",
-            "stars": 530,
+            "stars": 529,
             "topics": [
               "audio",
               "combine",
@@ -4371,7 +4371,7 @@
             "open_issues": 44,
             "owner": "exyte",
             "repo": "SVGView",
-            "stars": 859,
+            "stars": 860,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -4455,7 +4455,7 @@
             "open_issues": 0,
             "owner": "NicholasBellucci",
             "repo": "StatefulTabView",
-            "stars": 323,
+            "stars": 322,
             "topics": [
               "swift-package-manager",
               "swiftui",
@@ -4746,7 +4746,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4061,
+            "stars": 4060,
             "topics": [
               "popup",
               "swiftui",
@@ -4773,7 +4773,7 @@
             "open_issues": 31,
             "owner": "Mijick",
             "repo": "Popups",
-            "stars": 1806,
+            "stars": 1804,
             "topics": [
               "alert",
               "cocoapods",
@@ -4815,7 +4815,7 @@
             "open_issues": 4,
             "owner": "omaralbeik",
             "repo": "Drops",
-            "stars": 1042,
+            "stars": 1041,
             "topics": [
               "accessibility",
               "alert",
@@ -4915,7 +4915,7 @@
             "open_issues": 0,
             "owner": "sanzaru",
             "repo": "SimpleToast",
-            "stars": 487,
+            "stars": 486,
             "topics": [
               "ios",
               "macos",
@@ -5118,7 +5118,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T11:45:19.039Z",
+    "last_updated": "2026-10-21T11:57:35.832Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
