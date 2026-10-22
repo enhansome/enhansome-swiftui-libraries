@@ -77,7 +77,7 @@
 
 [scroll to top](#readme)
 
-* [swiftui-animations](https://github.com/amosgyamfi/swiftui-animation-library) ⭐ 5,667 | 🐛 20 | 🌐 Swift | 📅 2026-08-14 - SwiftUI Animation Library. Useful SwiftUI animations including Loading/progress, Looping, On-off, Enter, Exit, Fade, Spin and Background animations that you can directly implement in your next iOS application or project. The library also contains huge examples of spring animations such as Inertial Bounce, Shake, Twirl, Jelly, Jiggle, Rubber Band…
+* [swiftui-animations](https://github.com/amosgyamfi/swiftui-animation-library) ⭐ 5,668 | 🐛 20 | 🌐 Swift | 📅 2026-08-14 - SwiftUI Animation Library. Useful SwiftUI animations including Loading/progress, Looping, On-off, Enter, Exit, Fade, Spin and Background animations that you can directly implement in your next iOS application or project. The library also contains huge examples of spring animations such as Inertial Bounce, Shake, Twirl, Jelly, Jiggle, Rubber Band…
 * [shiny](https://github.com/maustinstar/shiny) ⭐ 1,090 | 🐛 6 | 🌐 Swift | 📅 2024-07-12 - Shiny uses your gyroscope to simulate lighting and motion effects on colors. Works on almost every SwiftUI View
 * [NavigationTransitions](https://github.com/davdroman/swiftui-navigation-transitions) ⭐ 1,088 | 🐛 3 | 🌐 Swift | 📅 2026-10-19 - Pure SwiftUI Navigation animated transitions
 * [SwiftUI-Animation](https://github.com/Arvindcs/SwiftUI-Animation) ⭐ 1,070 | 🐛 0 | 🌐 Swift | 📅 2025-07-12 - SwiftUI Animation
@@ -180,7 +180,7 @@
 
 [scroll to top](#readme)
 
-* [DynamicColor](https://github.com/yannickl/DynamicColor) ⭐ 3,078 | 🐛 18 | 🌐 Swift | 📅 2023-11-30 - Yet another extension to manipulate colors easily in Swift and SwiftUI
+* [DynamicColor](https://github.com/yannickl/DynamicColor) ⭐ 3,077 | 🐛 18 | 🌐 Swift | 📅 2023-11-30 - Yet another extension to manipulate colors easily in Swift and SwiftUI
 * [SwiftUIColourWheel](https://github.com/Priva28/SwiftUIColourWheel) ⭐ 85 | 🐛 1 | 🌐 Swift | 📅 2020-06-12 - A colour wheel made all in SwiftUI
 * [ColorPickerRing](https://github.com/hendriku/ColorPicker) ⭐ 77 | 🐛 2 | 🌐 Swift | 📅 2022-04-18 - Simple color picker. Looks like a wheel. Plain SwiftUI
 
@@ -188,7 +188,7 @@
 
 [scroll to top](#readme)
 
-* [ConfettiSwiftUI](https://github.com/simibac/ConfettiSwiftUI) ⭐ 2,468 | 🐛 9 | 🌐 Swift | 📅 2026-01-05 - SwiftUI Package for Configurable Confetti Animation
+* [ConfettiSwiftUI](https://github.com/simibac/ConfettiSwiftUI) ⭐ 2,470 | 🐛 9 | 🌐 Swift | 📅 2026-01-05 - SwiftUI Package for Configurable Confetti Animation
 * [SPConfetti](https://github.com/ivanvorobei/SPConfetti) ⭐ 309 | 🐛 6 | 🌐 Swift | 📅 2024-04-05 - Show the confetti only when the user is having fun, and if not having fun, don't show it
 * [ConfettiView](https://github.com/ziligy/ConfettiView) ⭐ 135 | 🐛 0 | 🌐 Swift | 📅 2021-01-26 - a Confetti View for SwiftUI
 
@@ -219,7 +219,7 @@
 
 [scroll to top](#readme)
 
-* [OctopusKit](https://github.com/InvadingOctopus/octopuskit) ⭐ 486 | 🐛 0 | 🌐 Swift | 📅 2024-06-19 - 2D ECS game engine in 100% Swift + SwiftUI for iOS, macOS, tvOS
+* [OctopusKit](https://github.com/InvadingOctopus/octopuskit) ⭐ 487 | 🐛 0 | 🌐 Swift | 📅 2024-06-19 - 2D ECS game engine in 100% Swift + SwiftUI for iOS, macOS, tvOS
 
 ## Gradient
 
@@ -288,7 +288,7 @@
 
 * [DotGlobe](https://github.com/inventhq/dot-globe) ⭐ 126 | 🐛 2 | 🌐 Swift | 📅 2023-08-22 - A Library to that draws a dotted earth map to a globe and allows you to interract with it
 * [InteractiveMap](https://github.com/grandsir/InteractiveMap) ⭐ 120 | 🐛 4 | 🌐 Swift | 📅 2023-12-06 - A Library to draw interactive maps and SVGs in SwiftUI
-* [ImmersiveMap](https://github.com/artembobkin/ImmersiveMap) ⭐ 106 | 🐛 0 | 🌐 Swift | 📅 2026-10-21 - A native Swift + Metal vector-tile map engine for SwiftUI with a 3D globe, starfield and labels
+* [ImmersiveMap](https://github.com/artembobkin/ImmersiveMap) ⭐ 107 | 🐛 0 | 🌐 Swift | 📅 2026-10-22 - A native Swift + Metal vector-tile map engine for SwiftUI with a 3D globe, starfield and labels
 
 ## Messaging
 
@@ -323,7 +323,7 @@
 
 * [ConcentricOnboarding](https://github.com/exyte/ConcentricOnboarding) ⭐ 1,567 | 🐛 0 | 🌐 Swift | 📅 2026-07-08 - SwiftUI library for a walkthrough or onboarding flow with tap actions
 * [SwiftUIPager](https://github.com/fermoya/SwiftUIPager) ⭐ 1,471 | 🐛 45 | 🌐 Swift | 📅 2024-02-16 - Native Pager in SwiftUI
-* [Pages](https://github.com/nachonavarro/Pages) ⭐ 878 | 🐛 12 | 🌐 Swift | 📅 2025-12-30 - A lightweight, paging view solution for SwiftUI
+* [Pages](https://github.com/nachonavarro/Pages) ⭐ 879 | 🐛 12 | 🌐 Swift | 📅 2025-12-30 - A lightweight, paging view solution for SwiftUI
 * [PagerTabStripView](https://github.com/xmartlabs/PagerTabStripView) ⭐ 844 | 🐛 13 | 🌐 Swift | 📅 2025-02-26 - Elegant Pager View fully written in pure SwiftUI
 * [fredyshox/PageView](https://github.com/fredyshox/PageView) ⭐ 654 | 🐛 10 | 🌐 Swift | 📅 2023-03-11 - SwiftUI view enabling navigation between pages of content, imitating the behaviour of UIPageViewController for iOS and watchOS
 
@@ -418,7 +418,7 @@
 [scroll to top](#readme)
 
 * [BottomSheet (LucasMucGH)](https://github.com/LucasMucGH/BottomSheet) ⭐ 1,249 | 🐛 19 | 🌐 Swift | 📅 2026-07-18 - A sliding Sheet from the bottom of the Screen with 3 States build with SwiftUI.
-* [SwiftUI Drawer](https://github.com/maustinstar/swiftui-drawer) ⭐ 1,055 | 🐛 9 | 🌐 Swift | 📅 2022-03-21 - A SwiftUI bottom-up
+* [SwiftUI Drawer](https://github.com/maustinstar/swiftui-drawer) ⭐ 1,054 | 🐛 9 | 🌐 Swift | 📅 2022-03-21 - A SwiftUI bottom-up
 * [BottomSheet](https://github.com/weitieda/bottom-sheet) ⭐ 863 | 🐛 7 | 🌐 Swift | 📅 2022-11-14 - A SwiftUI view component sliding in from bottom
 * [Snap](https://github.com/nerdsupremacist/Snap) ⭐ 793 | 🐛 6 | 🌐 Swift | 📅 2022-02-20 - A customizable Snapping Drawer à la Apple Maps. 100% in SwiftUI.
 * [BetterSheet](https://github.com/egeniq/BetterSheet) ⭐ 110 | 🐛 3 | 🌐 Swift | 📅 2019-10-10 - A powerful SwiftUI sheet replacement
@@ -533,9 +533,9 @@
 [scroll to top](#readme)
 
 * [Tokamak](https://github.com/TokamakUI/Tokamak) ⚠️ Archived - SwiftUI-compatible framework for building browser apps with WebAssembly and native apps for other platforms.
-* [BetterSafariView](https://github.com/stleamist/BetterSafariView) ⭐ 642 | 🐛 33 | 🌐 Swift | 📅 2024-07-09 - A better way to present a SFSafariViewController or start a ASWebAuthenticationSession in SwiftUI.
+* [BetterSafariView](https://github.com/stleamist/BetterSafariView) ⭐ 641 | 🐛 33 | 🌐 Swift | 📅 2024-07-09 - A better way to present a SFSafariViewController or start a ASWebAuthenticationSession in SwiftUI.
 * [SwiftWebUI](https://github.com/carson-katri/SwiftWebUI) ⭐ 424 | 🐛 2 | 🌐 Swift | 📅 2020-10-30 - SwiftUI with support for WebAssembly
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._

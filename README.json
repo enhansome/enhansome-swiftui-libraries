@@ -123,7 +123,7 @@
             "open_issues": 20,
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5667,
+            "stars": 5668,
             "topics": [
               "animations",
               "app-animations",
@@ -1338,7 +1338,7 @@
             "open_issues": 18,
             "owner": "yannickl",
             "repo": "DynamicColor",
-            "stars": 3078,
+            "stars": 3077,
             "topics": [
               "color",
               "gradient",
@@ -1429,7 +1429,7 @@
             "open_issues": 9,
             "owner": "simibac",
             "repo": "ConfettiSwiftUI",
-            "stars": 2468,
+            "stars": 2470,
             "topics": [
               "animation",
               "swiftui"
@@ -1782,7 +1782,7 @@
             "open_issues": 0,
             "owner": "InvadingOctopus",
             "repo": "octopuskit",
-            "stars": 486,
+            "stars": 487,
             "topics": [
               "2d-game-engine",
               "components",
@@ -2771,11 +2771,11 @@
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-21T11:27:08Z",
+            "last_commit": "2026-10-22T11:24:03Z",
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
-            "stars": 106,
+            "stars": 107,
             "topics": [
               "cartography",
               "geospatial",
@@ -3204,7 +3204,7 @@
             "open_issues": 12,
             "owner": "nachonavarro",
             "repo": "Pages",
-            "stars": 878,
+            "stars": 879,
             "topics": [
               "ios",
               "paging",
@@ -4043,7 +4043,7 @@
             "open_issues": 9,
             "owner": "maustinstar",
             "repo": "swiftui-drawer",
-            "stars": 1055,
+            "stars": 1054,
             "topics": [
               "ios",
               "macos",
@@ -5043,7 +5043,7 @@
             "open_issues": 127,
             "owner": "TokamakUI",
             "repo": "Tokamak",
-            "stars": 2833,
+            "stars": 2834,
             "topics": [
               "data-binding",
               "dom",
@@ -5074,7 +5074,7 @@
             "open_issues": 33,
             "owner": "stleamist",
             "repo": "BetterSafariView",
-            "stars": 642,
+            "stars": 641,
             "topics": [
               "aswebauthenticationsession",
               "ios",
@@ -5118,7 +5118,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T11:57:35.832Z",
+    "last_updated": "2026-10-22T11:59:35.601Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
