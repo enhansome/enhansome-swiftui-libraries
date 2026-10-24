@@ -120,10 +120,10 @@
             "language": "Swift",
             "license": "Unlicense",
             "last_commit": "2026-08-14T21:11:39Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5669,
+            "stars": 5668,
             "topics": [
               "animations",
               "app-animations",
@@ -190,7 +190,7 @@
             "id": 553564385,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-19T23:34:56Z",
+            "last_commit": "2026-10-23T19:15:34Z",
             "open_issues": 3,
             "owner": "davdroman",
             "repo": "swiftui-navigation-transitions",
@@ -1338,7 +1338,7 @@
             "open_issues": 18,
             "owner": "yannickl",
             "repo": "DynamicColor",
-            "stars": 3077,
+            "stars": 3076,
             "topics": [
               "color",
               "gradient",
@@ -2775,7 +2775,7 @@
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
-            "stars": 108,
+            "stars": 109,
             "topics": [
               "cartography",
               "geospatial",
@@ -3843,7 +3843,7 @@
             "open_issues": 7,
             "owner": "nerdsupremacist",
             "repo": "FancyScrollView",
-            "stars": 1023,
+            "stars": 1022,
             "topics": [
               "app-store",
               "apple-music",
@@ -4746,7 +4746,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4060,
+            "stars": 4061,
             "topics": [
               "popup",
               "swiftui",
@@ -4980,7 +4980,7 @@
             "open_issues": 1,
             "owner": "SvenTiigi",
             "repo": "YouTubePlayerKit",
-            "stars": 985,
+            "stars": 986,
             "topics": [
               "ios",
               "macos",
@@ -5043,7 +5043,7 @@
             "open_issues": 127,
             "owner": "TokamakUI",
             "repo": "Tokamak",
-            "stars": 2834,
+            "stars": 2835,
             "topics": [
               "data-binding",
               "dom",
@@ -5118,7 +5118,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T11:45:20.501Z",
+    "last_updated": "2026-10-24T11:09:32.671Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
@@ -5130,7 +5130,7 @@
       "open_issues": 0,
       "owner": "Toni77777",
       "repo": "awesome-swiftui-libraries",
-      "stars": 1543,
+      "stars": 1542,
       "topics": [
         "awesome",
         "frameworks",
