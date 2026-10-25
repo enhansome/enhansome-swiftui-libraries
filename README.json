@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "sparrowcode",
             "repo": "AlertKit",
-            "stars": 2637,
+            "stars": 2638,
             "topics": [
               "alert",
               "alert-controller",
@@ -123,7 +123,7 @@
             "open_issues": 21,
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5668,
+            "stars": 5669,
             "topics": [
               "animations",
               "app-animations",
@@ -985,7 +985,7 @@
             "open_issues": 95,
             "owner": "AppPear",
             "repo": "ChartView",
-            "stars": 5648,
+            "stars": 5649,
             "topics": [
               "chart",
               "charts",
@@ -1012,7 +1012,7 @@
             "open_issues": 2,
             "owner": "mecid",
             "repo": "SwiftUICharts",
-            "stars": 1574,
+            "stars": 1575,
             "topics": [
               "chart",
               "swiftui"
@@ -1646,10 +1646,10 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-09-18T05:37:34Z",
-            "open_issues": 30,
+            "open_issues": 31,
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8185,
+            "stars": 8186,
             "topics": [
               "attributedstring",
               "backwards-compatibility",
@@ -2605,7 +2605,7 @@
             "open_issues": 62,
             "owner": "gonzalezreal",
             "repo": "swift-markdown-ui",
-            "stars": 3933,
+            "stars": 3934,
             "topics": [
               "cmark",
               "commonmark",
@@ -2771,7 +2771,7 @@
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-23T07:44:12Z",
+            "last_commit": "2026-10-25T08:43:05Z",
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
@@ -4103,7 +4103,7 @@
             "open_issues": 6,
             "owner": "nerdsupremacist",
             "repo": "Snap",
-            "stars": 793,
+            "stars": 794,
             "topics": [
               "drawer",
               "swiftui"
@@ -4332,7 +4332,7 @@
             "open_issues": 12,
             "owner": "badrinathvm",
             "repo": "StepperView",
-            "stars": 1363,
+            "stars": 1364,
             "topics": [
               "apple-watch",
               "carthage",
@@ -5118,7 +5118,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T11:09:32.671Z",
+    "last_updated": "2026-10-25T11:39:09.832Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
