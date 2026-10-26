@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "sparrowcode",
             "repo": "AlertKit",
-            "stars": 2638,
+            "stars": 2639,
             "topics": [
               "alert",
               "alert-controller",
@@ -58,7 +58,7 @@
             "open_issues": 32,
             "owner": "elai950",
             "repo": "AlertToast",
-            "stars": 2442,
+            "stars": 2443,
             "topics": [
               "alert",
               "alert-controller",
@@ -123,7 +123,7 @@
             "open_issues": 21,
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5669,
+            "stars": 5671,
             "topics": [
               "animations",
               "app-animations",
@@ -190,7 +190,7 @@
             "id": 553564385,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-23T19:15:34Z",
+            "last_commit": "2026-10-26T11:48:25Z",
             "open_issues": 3,
             "owner": "davdroman",
             "repo": "swiftui-navigation-transitions",
@@ -680,7 +680,7 @@
             "open_issues": 3,
             "owner": "yodagamaheshan",
             "repo": "DateGrid",
-            "stars": 200,
+            "stars": 201,
             "topics": [
               "calendar",
               "calendar-swiftui",
@@ -1036,7 +1036,7 @@
             "open_issues": 10,
             "owner": "spacenation",
             "repo": "swiftui-charts",
-            "stars": 814,
+            "stars": 812,
             "topics": [
               "apple",
               "charts",
@@ -1338,7 +1338,7 @@
             "open_issues": 18,
             "owner": "yannickl",
             "repo": "DynamicColor",
-            "stars": 3076,
+            "stars": 3077,
             "topics": [
               "color",
               "gradient",
@@ -1429,7 +1429,7 @@
             "open_issues": 9,
             "owner": "simibac",
             "repo": "ConfettiSwiftUI",
-            "stars": 2469,
+            "stars": 2470,
             "topics": [
               "animation",
               "swiftui"
@@ -1649,7 +1649,7 @@
             "open_issues": 31,
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8186,
+            "stars": 8185,
             "topics": [
               "attributedstring",
               "backwards-compatibility",
@@ -1762,6 +1762,43 @@
         }
       ],
       "title": "Extensions"
+    },
+    {
+      "description": "scroll to top",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WishKit",
+          "description": "In-app feature request and feedback board where users submit and vote on features",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "In-App Feature Requests. Made Easy.",
+            "homepage": "https://www.wishkit.io",
+            "id": 599390092,
+            "language": "Swift",
+            "license": "MIT",
+            "last_commit": "2026-10-06T19:30:14Z",
+            "open_issues": 10,
+            "owner": "wishkit",
+            "repo": "wishkit-ios",
+            "stars": 200,
+            "topics": [
+              "feature-requests",
+              "feedback",
+              "feedback-board",
+              "ios",
+              "macos",
+              "spm",
+              "swift",
+              "swiftui",
+              "visionos"
+            ]
+          },
+          "first_seen": "2026-10-26T13:11:41.110Z"
+        }
+      ],
+      "title": "Feedback"
     },
     {
       "description": "scroll to top",
@@ -1901,7 +1938,7 @@
             "open_issues": 4,
             "owner": "exyte",
             "repo": "Grid",
-            "stars": 2119,
+            "stars": 2120,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -3014,7 +3051,7 @@
             "open_issues": 11,
             "owner": "Mijick",
             "repo": "NavigationView",
-            "stars": 319,
+            "stars": 318,
             "topics": [
               "ios-swift",
               "navigation",
@@ -3051,7 +3088,7 @@
             "open_issues": 10,
             "owner": "SwiftUIX",
             "repo": "Coordinator",
-            "stars": 298,
+            "stars": 297,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -3602,7 +3639,7 @@
             "open_issues": 17,
             "owner": "heart",
             "repo": "CarBode-Barcode-Scanner-For-SwiftUI",
-            "stars": 301,
+            "stars": 302,
             "topics": [
               "barcode-generator",
               "barcode-scanner",
@@ -4015,7 +4052,7 @@
             "open_issues": 19,
             "owner": "lucaszischka",
             "repo": "BottomSheet",
-            "stars": 1249,
+            "stars": 1250,
             "topics": [
               "bottomsheet",
               "hacktoberfest",
@@ -4072,7 +4109,7 @@
             "open_issues": 7,
             "owner": "weitieda",
             "repo": "bottom-sheet",
-            "stars": 863,
+            "stars": 862,
             "topics": [
               "animation",
               "card",
@@ -4154,7 +4191,7 @@
             "open_issues": 17,
             "owner": "spacenation",
             "repo": "swiftui-sliders",
-            "stars": 937,
+            "stars": 938,
             "topics": [
               "apple",
               "ios",
@@ -4188,7 +4225,7 @@
             "open_issues": 1,
             "owner": "kieranb662",
             "repo": "Sliders-SwiftUI",
-            "stars": 740,
+            "stars": 741,
             "topics": [
               "colorpicker",
               "joystick",
@@ -5006,7 +5043,7 @@
             "id": 196777426,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2025-06-21T12:37:25Z",
+            "last_commit": "2026-10-26T03:09:18Z",
             "open_issues": 25,
             "owner": "wxxsw",
             "repo": "VideoPlayer",
@@ -5043,7 +5080,7 @@
             "open_issues": 127,
             "owner": "TokamakUI",
             "repo": "Tokamak",
-            "stars": 2835,
+            "stars": 2836,
             "topics": [
               "data-binding",
               "dom",
@@ -5118,7 +5155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T11:39:09.832Z",
+    "last_updated": "2026-10-26T13:11:41.110Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
@@ -5126,11 +5163,11 @@
       "id": 397667534,
       "language": "Swift",
       "license": "MIT",
-      "last_commit": "2026-07-17T10:44:56Z",
+      "last_commit": "2026-10-26T08:33:20Z",
       "open_issues": 0,
       "owner": "Toni77777",
       "repo": "awesome-swiftui-libraries",
-      "stars": 1542,
+      "stars": 1543,
       "topics": [
         "awesome",
         "frameworks",
@@ -5147,7 +5184,7 @@
         "xcode"
       ]
     },
-    "original_repository_sha": "9cfe3612e7e8b763fcc248ad5fba31e58a465d34",
+    "original_repository_sha": "b81d1f88ef0614bf4ad861a2645a75d8cbd523f5",
     "enhanced_repository": "enhansome/enhansome-swiftui-libraries",
     "enhanced_repository_description": null,
     "title": "Awesome SwiftUI Libraries :rocket: :rocket: :rocket: with stars"
