@@ -58,7 +58,7 @@
             "open_issues": 32,
             "owner": "elai950",
             "repo": "AlertToast",
-            "stars": 2443,
+            "stars": 2442,
             "topics": [
               "alert",
               "alert-controller",
@@ -190,7 +190,7 @@
             "id": 553564385,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-26T11:48:25Z",
+            "last_commit": "2026-10-26T16:29:40Z",
             "open_issues": 3,
             "owner": "davdroman",
             "repo": "swiftui-navigation-transitions",
@@ -870,7 +870,7 @@
             "open_issues": 4,
             "owner": "danielsaidi",
             "repo": "DeckKit",
-            "stars": 890,
+            "stars": 891,
             "topics": [
               "card",
               "deck",
@@ -982,7 +982,7 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-03-02T08:41:42Z",
-            "open_issues": 95,
+            "open_issues": 96,
             "owner": "AppPear",
             "repo": "ChartView",
             "stars": 5649,
@@ -1036,7 +1036,7 @@
             "open_issues": 10,
             "owner": "spacenation",
             "repo": "swiftui-charts",
-            "stars": 812,
+            "stars": 813,
             "topics": [
               "apple",
               "charts",
@@ -1101,7 +1101,7 @@
             "open_issues": 3,
             "owner": "aunnnn",
             "repo": "RHLinePlot",
-            "stars": 282,
+            "stars": 283,
             "topics": [
               "lineplot",
               "plot",
@@ -1338,7 +1338,7 @@
             "open_issues": 18,
             "owner": "yannickl",
             "repo": "DynamicColor",
-            "stars": 3077,
+            "stars": 3076,
             "topics": [
               "color",
               "gradient",
@@ -1649,7 +1649,7 @@
             "open_issues": 31,
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8185,
+            "stars": 8186,
             "topics": [
               "attributedstring",
               "backwards-compatibility",
@@ -1906,7 +1906,7 @@
             "open_issues": 15,
             "owner": "paololeonardi",
             "repo": "WaterfallGrid",
-            "stars": 2664,
+            "stars": 2663,
             "topics": [
               "ios",
               "macos",
@@ -1938,7 +1938,7 @@
             "open_issues": 4,
             "owner": "exyte",
             "repo": "Grid",
-            "stars": 2120,
+            "stars": 2122,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -3299,7 +3299,7 @@
             "open_issues": 10,
             "owner": "fredyshox",
             "repo": "PageView",
-            "stars": 654,
+            "stars": 655,
             "topics": [
               "ios",
               "pageview",
@@ -3367,7 +3367,7 @@
             "open_issues": 15,
             "owner": "jevonmao",
             "repo": "PermissionsSwiftUI",
-            "stars": 1576,
+            "stars": 1577,
             "topics": [
               "coding",
               "developer",
@@ -5155,7 +5155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T13:11:41.110Z",
+    "last_updated": "2026-10-27T12:19:42.103Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
