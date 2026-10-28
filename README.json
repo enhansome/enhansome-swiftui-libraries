@@ -190,7 +190,7 @@
             "id": 553564385,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-26T16:29:40Z",
+            "last_commit": "2026-10-27T15:51:22Z",
             "open_issues": 3,
             "owner": "davdroman",
             "repo": "swiftui-navigation-transitions",
@@ -225,7 +225,7 @@
             "open_issues": 0,
             "owner": "Arvindcs",
             "repo": "SwiftUI-Animation",
-            "stars": 1071,
+            "stars": 1072,
             "topics": [
               "animated-dots",
               "cardview",
@@ -1338,7 +1338,7 @@
             "open_issues": 18,
             "owner": "yannickl",
             "repo": "DynamicColor",
-            "stars": 3076,
+            "stars": 3075,
             "topics": [
               "color",
               "gradient",
@@ -1649,7 +1649,7 @@
             "open_issues": 31,
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8186,
+            "stars": 8188,
             "topics": [
               "attributedstring",
               "backwards-compatibility",
@@ -2185,7 +2185,7 @@
             "open_issues": 15,
             "owner": "dmytro-anokhin",
             "repo": "url-image",
-            "stars": 1154,
+            "stars": 1153,
             "topics": [
               "ios",
               "macos",
@@ -2812,7 +2812,7 @@
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
-            "stars": 109,
+            "stars": 110,
             "topics": [
               "cartography",
               "geospatial",
@@ -3411,7 +3411,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "MediaPicker",
-            "stars": 490,
+            "stars": 492,
             "topics": [
               "ios",
               "photo-gallery",
@@ -4164,7 +4164,7 @@
             "open_issues": 3,
             "owner": "egeniq",
             "repo": "BetterSheet",
-            "stars": 110,
+            "stars": 109,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -4408,7 +4408,7 @@
             "open_issues": 44,
             "owner": "exyte",
             "repo": "SVGView",
-            "stars": 860,
+            "stars": 861,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -4783,7 +4783,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4061,
+            "stars": 4062,
             "topics": [
               "popup",
               "swiftui",
@@ -5155,7 +5155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T12:19:42.103Z",
+    "last_updated": "2026-10-28T13:03:05.050Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
@@ -5167,7 +5167,7 @@
       "open_issues": 0,
       "owner": "Toni77777",
       "repo": "awesome-swiftui-libraries",
-      "stars": 1543,
+      "stars": 1544,
       "topics": [
         "awesome",
         "frameworks",
