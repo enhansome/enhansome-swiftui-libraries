@@ -58,7 +58,7 @@
             "open_issues": 32,
             "owner": "elai950",
             "repo": "AlertToast",
-            "stars": 2442,
+            "stars": 2444,
             "topics": [
               "alert",
               "alert-controller",
@@ -123,7 +123,7 @@
             "open_issues": 21,
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5671,
+            "stars": 5672,
             "topics": [
               "animations",
               "app-animations",
@@ -162,7 +162,7 @@
             "open_issues": 6,
             "owner": "maustinstar",
             "repo": "shiny",
-            "stars": 1090,
+            "stars": 1091,
             "topics": [
               "gyroscope",
               "ios",
@@ -225,7 +225,7 @@
             "open_issues": 0,
             "owner": "Arvindcs",
             "repo": "SwiftUI-Animation",
-            "stars": 1072,
+            "stars": 1073,
             "topics": [
               "animated-dots",
               "cardview",
@@ -720,7 +720,7 @@
             "open_issues": 37,
             "owner": "Mijick",
             "repo": "Camera",
-            "stars": 658,
+            "stars": 657,
             "topics": [
               "avfoundation",
               "camera",
@@ -2185,7 +2185,7 @@
             "open_issues": 15,
             "owner": "dmytro-anokhin",
             "repo": "url-image",
-            "stars": 1153,
+            "stars": 1152,
             "topics": [
               "ios",
               "macos",
@@ -2812,7 +2812,7 @@
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
-            "stars": 110,
+            "stars": 112,
             "topics": [
               "cartography",
               "geospatial",
@@ -4408,7 +4408,7 @@
             "open_issues": 44,
             "owner": "exyte",
             "repo": "SVGView",
-            "stars": 861,
+            "stars": 860,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -4852,7 +4852,7 @@
             "open_issues": 4,
             "owner": "omaralbeik",
             "repo": "Drops",
-            "stars": 1041,
+            "stars": 1042,
             "topics": [
               "accessibility",
               "alert",
@@ -5155,7 +5155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T13:03:05.050Z",
+    "last_updated": "2026-10-29T13:10:24.625Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
@@ -5164,10 +5164,10 @@
       "language": "Swift",
       "license": "MIT",
       "last_commit": "2026-10-26T08:33:20Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "Toni77777",
       "repo": "awesome-swiftui-libraries",
-      "stars": 1544,
+      "stars": 1546,
       "topics": [
         "awesome",
         "frameworks",

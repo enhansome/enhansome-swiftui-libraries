@@ -71,17 +71,17 @@
 [scroll to top](#readme)
 
 * [SPAlert](https://github.com/ivanvorobei/SPAlert) ⭐ 2,639 | 🐛 7 | 🌐 Swift | 📅 2024-08-11 - Native alert from Apple Music & Feedback. Contains Done, Heart & Message and other presets. Support SwiftUI.
-* [AlertToast](https://github.com/elai950/AlertToast) ⭐ 2,442 | 🐛 32 | 🌐 Swift | 📅 2024-11-12 - Create Apple-like alerts & toasts using SwiftUI
+* [AlertToast](https://github.com/elai950/AlertToast) ⭐ 2,444 | 🐛 32 | 🌐 Swift | 📅 2024-11-12 - Create Apple-like alerts & toasts using SwiftUI
 * [AlertX](https://github.com/neel-makhecha/AlertX) ⭐ 256 | 🐛 6 | 🌐 Swift | 📅 2021-06-13 - A library for SwiftUI to create custom alerts with different appearances and animations.
 
 ## Animation
 
 [scroll to top](#readme)
 
-* [swiftui-animations](https://github.com/amosgyamfi/swiftui-animation-library) ⭐ 5,671 | 🐛 21 | 🌐 Swift | 📅 2026-08-14 - SwiftUI Animation Library. Useful SwiftUI animations including Loading/progress, Looping, On-off, Enter, Exit, Fade, Spin and Background animations that you can directly implement in your next iOS application or project. The library also contains huge examples of spring animations such as Inertial Bounce, Shake, Twirl, Jelly, Jiggle, Rubber Band…
-* [shiny](https://github.com/maustinstar/shiny) ⭐ 1,090 | 🐛 6 | 🌐 Swift | 📅 2024-07-12 - Shiny uses your gyroscope to simulate lighting and motion effects on colors. Works on almost every SwiftUI View
+* [swiftui-animations](https://github.com/amosgyamfi/swiftui-animation-library) ⭐ 5,672 | 🐛 21 | 🌐 Swift | 📅 2026-08-14 - SwiftUI Animation Library. Useful SwiftUI animations including Loading/progress, Looping, On-off, Enter, Exit, Fade, Spin and Background animations that you can directly implement in your next iOS application or project. The library also contains huge examples of spring animations such as Inertial Bounce, Shake, Twirl, Jelly, Jiggle, Rubber Band…
+* [shiny](https://github.com/maustinstar/shiny) ⭐ 1,091 | 🐛 6 | 🌐 Swift | 📅 2024-07-12 - Shiny uses your gyroscope to simulate lighting and motion effects on colors. Works on almost every SwiftUI View
 * [NavigationTransitions](https://github.com/davdroman/swiftui-navigation-transitions) ⭐ 1,088 | 🐛 3 | 🌐 Swift | 📅 2026-10-27 - Pure SwiftUI Navigation animated transitions
-* [SwiftUI-Animation](https://github.com/Arvindcs/SwiftUI-Animation) ⭐ 1,072 | 🐛 0 | 🌐 Swift | 📅 2025-07-12 - SwiftUI Animation
+* [SwiftUI-Animation](https://github.com/Arvindcs/SwiftUI-Animation) ⭐ 1,073 | 🐛 0 | 🌐 Swift | 📅 2025-07-12 - SwiftUI Animation
 * [Liquid](https://github.com/maustinstar/liquid) ⭐ 856 | 🐛 3 | 🌐 Swift | 📅 2024-08-19 - Create a playful backsplash in SwiftUI
 * [SwiftUIPathAnimations](https://github.com/adellibovi/SwiftUI-PathAnimations/blob/master/Package.swift) ⭐ 234 | 🐛 1 | 🌐 Swift | 📅 2019-09-13 - Tools for SwiftUI that helps perform Path and Shape animations, such us morphing circle or shape transformations
 
@@ -127,7 +127,7 @@
 
 [scroll to top](#readme)
 
-* [MijickCamera](https://github.com/Mijick/Camera) ⭐ 658 | 🐛 37 | 🌐 Swift | 📅 2025-09-30 - Camera made simple. Fully customizable camera library that significantly reduces implementation time and effort. Written with and for SwiftUI.
+* [MijickCamera](https://github.com/Mijick/Camera) ⭐ 657 | 🐛 37 | 🌐 Swift | 📅 2025-09-30 - Camera made simple. Fully customizable camera library that significantly reduces implementation time and effort. Written with and for SwiftUI.
 * [Camera-SwiftUI](https://github.com/rorodriguez116/Camera-SwiftUI) ⭐ 266 | 🐛 4 | 🌐 Swift | 📅 2024-08-11 - A lightweight camera library for quick integration with SwiftUI - iOS/iPadOS only
 * [SwiftUICam](https://github.com/pierreveron/SwiftUICam) ⚠️ Archived - A Snapchat Style Camera View to use with a SwiftUI interface
 * [CameraView](https://github.com/brettfazio/CameraView) ⭐ 80 | 🐛 4 | 🌐 Swift | 📅 2023-06-12 - SwiftUI View for live camera output
@@ -295,7 +295,7 @@
 
 * [DotGlobe](https://github.com/inventhq/dot-globe) ⭐ 126 | 🐛 2 | 🌐 Swift | 📅 2023-08-22 - A Library to that draws a dotted earth map to a globe and allows you to interract with it
 * [InteractiveMap](https://github.com/grandsir/InteractiveMap) ⭐ 120 | 🐛 4 | 🌐 Swift | 📅 2023-12-06 - A Library to draw interactive maps and SVGs in SwiftUI
-* [ImmersiveMap](https://github.com/artembobkin/ImmersiveMap) ⭐ 110 | 🐛 0 | 🌐 Swift | 📅 2026-10-25 - A native Swift + Metal vector-tile map engine for SwiftUI with a 3D globe, starfield and labels
+* [ImmersiveMap](https://github.com/artembobkin/ImmersiveMap) ⭐ 112 | 🐛 0 | 🌐 Swift | 📅 2026-10-25 - A native Swift + Metal vector-tile map engine for SwiftUI with a 3D globe, starfield and labels
 
 ## Messaging
 
@@ -468,7 +468,7 @@
 
 [scroll to top](#readme)
 
-* [SVGView](https://github.com/exyte/SVGView) ⭐ 861 | 🐛 44 | 🌐 Swift | 📅 2026-07-08 - SVG parser and renderer written in SwiftUI
+* [SVGView](https://github.com/exyte/SVGView) ⭐ 860 | 🐛 44 | 🌐 Swift | 📅 2026-07-08 - SVG parser and renderer written in SwiftUI
 
 ## TabBar-and-Tabs
 
@@ -510,7 +510,7 @@
 
 * [ExytePopupView](https://github.com/exyte/PopupView) ⭐ 4,062 | 🐛 0 | 🌐 Swift | 📅 2026-10-06 - Toasts and popups library written with SwiftUI
 * [MijickPopups](https://github.com/Mijick/Popups) ⭐ 1,803 | 🐛 31 | 🌐 Swift | 📅 2025-10-22 - Popups, popovers, sheets, alerts, toasts, banners, (...) presentation made simple. Written with and for SwiftUI
-* [Drops](https://github.com/omaralbeik/Drops) ⭐ 1,041 | 🐛 4 | 🌐 Swift | 📅 2024-10-11 - A µFramework for showing alerts like the one used when copying from pasteboard or connecting Apple pencil
+* [Drops](https://github.com/omaralbeik/Drops) ⭐ 1,042 | 🐛 4 | 🌐 Swift | 📅 2024-10-11 - A µFramework for showing alerts like the one used when copying from pasteboard or connecting Apple pencil
 * [ToastUI](https://github.com/quanshousio/ToastUI) ⭐ 653 | 🐛 3 | 🌐 Swift | 📅 2024-08-11 - A simple way to show toast in SwiftUI.
 * [SSToastMessage](https://github.com/SimformSolutionsPvtLtd/SSToastMessage) ⭐ 521 | 🐛 1 | 🌐 Swift | 📅 2024-05-30 - SSToastMessage is written purely in SwiftUI. It will add toast, alert, and floating message view over the top of any view. It is intended to be simple, lightweight, and easy to use. It will be a popup with a single line of code.
 * [SimpleToast](https://github.com/sanzaru/SimpleToast) ⭐ 486 | 🐛 0 | 🌐 Swift | 📅 2026-02-14 - SimpleToast is a simple, lightweight and easy to use library to show toasts / pop-ups inside your iOS application in SwiftUI
@@ -545,4 +545,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
