@@ -15,7 +15,7 @@
             "id": 183909168,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2024-08-11T16:29:07Z",
+            "last_commit": "2026-10-31T10:17:13Z",
             "open_issues": 7,
             "owner": "sparrowcode",
             "repo": "AlertKit",
@@ -123,7 +123,7 @@
             "open_issues": 21,
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5679,
+            "stars": 5681,
             "topics": [
               "animations",
               "app-animations",
@@ -1429,7 +1429,7 @@
             "open_issues": 9,
             "owner": "simibac",
             "repo": "ConfettiSwiftUI",
-            "stars": 2470,
+            "stars": 2471,
             "topics": [
               "animation",
               "swiftui"
@@ -1649,7 +1649,7 @@
             "open_issues": 31,
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8189,
+            "stars": 8191,
             "topics": [
               "attributedstring",
               "backwards-compatibility",
@@ -1938,7 +1938,7 @@
             "open_issues": 4,
             "owner": "exyte",
             "repo": "Grid",
-            "stars": 2122,
+            "stars": 2123,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -2150,7 +2150,7 @@
             "open_issues": 86,
             "owner": "SDWebImage",
             "repo": "SDWebImageSwiftUI",
-            "stars": 2560,
+            "stars": 2561,
             "topics": [
               "animated-webp",
               "apng",
@@ -2212,7 +2212,7 @@
             "open_issues": 17,
             "owner": "lorenzofiamingo",
             "repo": "swiftui-cached-async-image",
-            "stars": 711,
+            "stars": 712,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -2506,7 +2506,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "ActivityIndicatorView",
-            "stars": 1675,
+            "stars": 1676,
             "topics": [
               "swiftui",
               "swiftui-components",
@@ -2642,7 +2642,7 @@
             "open_issues": 62,
             "owner": "gonzalezreal",
             "repo": "swift-markdown-ui",
-            "stars": 3934,
+            "stars": 3935,
             "topics": [
               "cmark",
               "commonmark",
@@ -2737,6 +2737,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "ImmersiveMap",
+          "description": "A native Swift + Metal vector-tile map engine for SwiftUI with a 3D globe, starfield and labels",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Native Swift 6 + Metal map rendering engine for SwiftUI. Globe and flat vector-tile maps with labels, SwiftUI markers and avatars, on iOS and macOS.",
+            "homepage": "https://swiftpackageindex.com/artembobkin/ImmersiveMap",
+            "id": 1249253355,
+            "language": "Swift",
+            "license": "MIT",
+            "last_commit": "2026-10-30T12:54:34Z",
+            "open_issues": 0,
+            "owner": "artembobkin",
+            "repo": "ImmersiveMap",
+            "stars": 129,
+            "topics": [
+              "cartography",
+              "geospatial",
+              "globe",
+              "gpu",
+              "graphics",
+              "ios",
+              "macos",
+              "map-engine",
+              "map-rendering",
+              "mapbox",
+              "maps",
+              "metal",
+              "mvt",
+              "protomaps",
+              "rendering-engine",
+              "swift",
+              "swift-package-manager",
+              "swift6",
+              "swiftui",
+              "vector-tiles"
+            ]
+          },
+          "first_seen": "2026-08-28T18:46:46.752Z"
+        },
+        {
+          "node_type": "item",
           "title": "DotGlobe",
           "description": "A Library to that draws a dotted earth map to a globe and allows you to interract with it",
           "children": [],
@@ -2792,48 +2834,6 @@
               "swiftui1",
               "swiftui2",
               "swiftui3"
-            ]
-          },
-          "first_seen": "2026-08-28T18:46:46.752Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ImmersiveMap",
-          "description": "A native Swift + Metal vector-tile map engine for SwiftUI with a 3D globe, starfield and labels",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Native Swift 6 + Metal map rendering engine for SwiftUI. Globe and flat vector-tile maps with labels, SwiftUI markers and avatars, on iOS and macOS.",
-            "homepage": "https://swiftpackageindex.com/artembobkin/ImmersiveMap",
-            "id": 1249253355,
-            "language": "Swift",
-            "license": "MIT",
-            "last_commit": "2026-10-30T12:54:34Z",
-            "open_issues": 0,
-            "owner": "artembobkin",
-            "repo": "ImmersiveMap",
-            "stars": 112,
-            "topics": [
-              "cartography",
-              "geospatial",
-              "globe",
-              "gpu",
-              "graphics",
-              "ios",
-              "macos",
-              "map-engine",
-              "map-rendering",
-              "mapbox",
-              "maps",
-              "metal",
-              "mvt",
-              "protomaps",
-              "rendering-engine",
-              "swift",
-              "swift-package-manager",
-              "swift6",
-              "swiftui",
-              "vector-tiles"
             ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -2939,7 +2939,7 @@
             "open_issues": 24,
             "owner": "johnpatrickmorgan",
             "repo": "FlowStacks",
-            "stars": 970,
+            "stars": 971,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -3775,7 +3775,7 @@
             "open_issues": 10,
             "owner": "VergeGroup",
             "repo": "swift-verge",
-            "stars": 812,
+            "stars": 813,
             "topics": [
               "data-driven",
               "dispatcher",
@@ -4225,7 +4225,7 @@
             "open_issues": 1,
             "owner": "kieranb662",
             "repo": "Sliders-SwiftUI",
-            "stars": 741,
+            "stars": 742,
             "topics": [
               "colorpicker",
               "joystick",
@@ -4463,7 +4463,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "AnimatedTabBar",
-            "stars": 558,
+            "stars": 559,
             "topics": [
               "animation",
               "ios-component",
@@ -4783,7 +4783,7 @@
             "open_issues": 1,
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4063,
+            "stars": 4062,
             "topics": [
               "popup",
               "swiftui",
@@ -4952,7 +4952,7 @@
             "open_issues": 0,
             "owner": "sanzaru",
             "repo": "SimpleToast",
-            "stars": 486,
+            "stars": 487,
             "topics": [
               "ios",
               "macos",
@@ -5155,7 +5155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T13:02:59.253Z",
+    "last_updated": "2026-10-31T12:40:59.033Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
