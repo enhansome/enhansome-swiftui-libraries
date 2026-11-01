@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "sparrowcode",
             "repo": "AlertKit",
-            "stars": 2638,
+            "stars": 2637,
             "topics": [
               "alert",
               "alert-controller",
@@ -123,7 +123,7 @@
             "open_issues": 21,
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5681,
+            "stars": 5683,
             "topics": [
               "animations",
               "app-animations",
@@ -225,7 +225,7 @@
             "open_issues": 0,
             "owner": "Arvindcs",
             "repo": "SwiftUI-Animation",
-            "stars": 1072,
+            "stars": 1073,
             "topics": [
               "animated-dots",
               "cardview",
@@ -840,7 +840,7 @@
             "open_issues": 11,
             "owner": "joogps",
             "repo": "SlideOverCard",
-            "stars": 1217,
+            "stars": 1218,
             "topics": [
               "apple",
               "card",
@@ -1546,7 +1546,7 @@
             "open_issues": 0,
             "owner": "vmanot",
             "repo": "SwiftDB",
-            "stars": 339,
+            "stars": 338,
             "topics": [
               "attribute",
               "codable",
@@ -1649,7 +1649,7 @@
             "open_issues": 31,
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8191,
+            "stars": 8193,
             "topics": [
               "attributedstring",
               "backwards-compatibility",
@@ -1938,7 +1938,7 @@
             "open_issues": 4,
             "owner": "exyte",
             "repo": "Grid",
-            "stars": 2123,
+            "stars": 2124,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -2751,7 +2751,7 @@
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
-            "stars": 129,
+            "stars": 132,
             "topics": [
               "cartography",
               "geospatial",
@@ -2793,7 +2793,7 @@
             "open_issues": 2,
             "owner": "inventhq",
             "repo": "dot-globe",
-            "stars": 126,
+            "stars": 127,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -2918,7 +2918,7 @@
             "open_issues": 22,
             "owner": "matteopuc",
             "repo": "swiftui-navigation-stack",
-            "stars": 1001,
+            "stars": 1002,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -4780,10 +4780,10 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-10-06T13:57:51Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4062,
+            "stars": 4063,
             "topics": [
               "popup",
               "swiftui",
@@ -5155,7 +5155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T12:40:59.033Z",
+    "last_updated": "2026-11-01T13:31:39.421Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
