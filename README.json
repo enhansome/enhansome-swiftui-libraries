@@ -123,7 +123,7 @@
             "open_issues": 21,
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5683,
+            "stars": 5685,
             "topics": [
               "animations",
               "app-animations",
@@ -162,7 +162,7 @@
             "open_issues": 6,
             "owner": "maustinstar",
             "repo": "shiny",
-            "stars": 1091,
+            "stars": 1092,
             "topics": [
               "gyroscope",
               "ios",
@@ -225,7 +225,7 @@
             "open_issues": 0,
             "owner": "Arvindcs",
             "repo": "SwiftUI-Animation",
-            "stars": 1073,
+            "stars": 1074,
             "topics": [
               "animated-dots",
               "cardview",
@@ -1338,7 +1338,7 @@
             "open_issues": 18,
             "owner": "yannickl",
             "repo": "DynamicColor",
-            "stars": 3074,
+            "stars": 3073,
             "topics": [
               "color",
               "gradient",
@@ -1649,7 +1649,7 @@
             "open_issues": 31,
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8193,
+            "stars": 8195,
             "topics": [
               "attributedstring",
               "backwards-compatibility",
@@ -2150,7 +2150,7 @@
             "open_issues": 86,
             "owner": "SDWebImage",
             "repo": "SDWebImageSwiftUI",
-            "stars": 2561,
+            "stars": 2562,
             "topics": [
               "animated-webp",
               "apng",
@@ -2747,11 +2747,11 @@
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-30T12:54:34Z",
+            "last_commit": "2026-11-01T18:14:48Z",
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
-            "stars": 132,
+            "stars": 138,
             "topics": [
               "cartography",
               "geospatial",
@@ -2918,7 +2918,7 @@
             "open_issues": 22,
             "owner": "matteopuc",
             "repo": "swiftui-navigation-stack",
-            "stars": 1002,
+            "stars": 1003,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -3241,7 +3241,7 @@
             "open_issues": 12,
             "owner": "nachonavarro",
             "repo": "Pages",
-            "stars": 879,
+            "stars": 880,
             "topics": [
               "ios",
               "paging",
@@ -4052,7 +4052,7 @@
             "open_issues": 19,
             "owner": "lucaszischka",
             "repo": "BottomSheet",
-            "stars": 1250,
+            "stars": 1248,
             "topics": [
               "bottomsheet",
               "hacktoberfest",
@@ -4080,7 +4080,7 @@
             "open_issues": 9,
             "owner": "maustinstar",
             "repo": "swiftui-drawer",
-            "stars": 1054,
+            "stars": 1053,
             "topics": [
               "ios",
               "macos",
@@ -4140,7 +4140,7 @@
             "open_issues": 6,
             "owner": "nerdsupremacist",
             "repo": "Snap",
-            "stars": 794,
+            "stars": 793,
             "topics": [
               "drawer",
               "swiftui"
@@ -4779,8 +4779,8 @@
             "id": 258158475,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-06T13:57:51Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-02T15:29:53Z",
+            "open_issues": 1,
             "owner": "exyte",
             "repo": "PopupView",
             "stars": 4063,
@@ -5017,7 +5017,7 @@
             "open_issues": 1,
             "owner": "SvenTiigi",
             "repo": "YouTubePlayerKit",
-            "stars": 986,
+            "stars": 985,
             "topics": [
               "ios",
               "macos",
@@ -5155,7 +5155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T13:31:39.421Z",
+    "last_updated": "2026-11-02T16:06:05.885Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
