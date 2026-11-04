@@ -123,7 +123,7 @@
             "open_issues": 21,
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5686,
+            "stars": 5687,
             "topics": [
               "animations",
               "app-animations",
@@ -1906,7 +1906,7 @@
             "open_issues": 15,
             "owner": "paololeonardi",
             "repo": "WaterfallGrid",
-            "stars": 2662,
+            "stars": 2661,
             "topics": [
               "ios",
               "macos",
@@ -1938,7 +1938,7 @@
             "open_issues": 4,
             "owner": "exyte",
             "repo": "Grid",
-            "stars": 2125,
+            "stars": 2124,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -2430,13 +2430,13 @@
           "description": "Swipe Left2Right & Right2Left, pure SwiftUI implementation",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Swipe Left2Right & Right2Left, pure SwiftUI implementation",
             "homepage": null,
             "id": 262656447,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2024-11-12T17:41:31Z",
+            "last_commit": "2026-11-04T04:21:35Z",
             "open_issues": 0,
             "owner": "EnesKaraosman",
             "repo": "SwipeCell",
@@ -2751,7 +2751,7 @@
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
-            "stars": 178,
+            "stars": 189,
             "topics": [
               "cartography",
               "geospatial",
@@ -3299,7 +3299,7 @@
             "open_issues": 10,
             "owner": "fredyshox",
             "repo": "PageView",
-            "stars": 655,
+            "stars": 654,
             "topics": [
               "ios",
               "pageview",
@@ -3367,7 +3367,7 @@
             "open_issues": 15,
             "owner": "jevonmao",
             "repo": "PermissionsSwiftUI",
-            "stars": 1577,
+            "stars": 1578,
             "topics": [
               "coding",
               "developer",
@@ -4077,7 +4077,7 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2022-03-21T19:26:29Z",
-            "open_issues": 9,
+            "open_issues": 8,
             "owner": "maustinstar",
             "repo": "swiftui-drawer",
             "stars": 1054,
@@ -4435,7 +4435,7 @@
             "open_issues": 1,
             "owner": "SimformSolutionsPvtLtd",
             "repo": "SSCustomTabbar",
-            "stars": 613,
+            "stars": 614,
             "topics": [
               "animatedtabbar",
               "customtabbar",
@@ -4783,7 +4783,7 @@
             "open_issues": 1,
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4063,
+            "stars": 4062,
             "topics": [
               "popup",
               "swiftui",
@@ -5080,7 +5080,7 @@
             "open_issues": 127,
             "owner": "TokamakUI",
             "repo": "Tokamak",
-            "stars": 2836,
+            "stars": 2835,
             "topics": [
               "data-binding",
               "dom",
@@ -5155,7 +5155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T14:24:03.050Z",
+    "last_updated": "2026-11-04T14:39:28.609Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
