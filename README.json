@@ -123,7 +123,7 @@
             "open_issues": 21,
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5687,
+            "stars": 5688,
             "topics": [
               "animations",
               "app-animations",
@@ -562,7 +562,7 @@
             "open_issues": 10,
             "owner": "ThasianX",
             "repo": "ElegantCalendar",
-            "stars": 1094,
+            "stars": 1095,
             "topics": [
               "calendar",
               "elegantcalendar",
@@ -923,7 +923,7 @@
             "open_issues": 0,
             "owner": "Volorf",
             "repo": "swipeable-cards",
-            "stars": 229,
+            "stars": 228,
             "topics": [
               "cards",
               "swift",
@@ -985,7 +985,7 @@
             "open_issues": 96,
             "owner": "AppPear",
             "repo": "ChartView",
-            "stars": 5650,
+            "stars": 5649,
             "topics": [
               "chart",
               "charts",
@@ -1209,7 +1209,7 @@
             "open_issues": 1,
             "owner": "dagronf",
             "repo": "DSFSparkline",
-            "stars": 163,
+            "stars": 164,
             "topics": [
               "appkit",
               "chart",
@@ -1429,7 +1429,7 @@
             "open_issues": 9,
             "owner": "simibac",
             "repo": "ConfettiSwiftUI",
-            "stars": 2472,
+            "stars": 2473,
             "topics": [
               "animation",
               "swiftui"
@@ -1649,7 +1649,7 @@
             "open_issues": 31,
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8198,
+            "stars": 8197,
             "topics": [
               "attributedstring",
               "backwards-compatibility",
@@ -2212,7 +2212,7 @@
             "open_issues": 17,
             "owner": "lorenzofiamingo",
             "repo": "swiftui-cached-async-image",
-            "stars": 712,
+            "stars": 713,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -2747,7 +2747,7 @@
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-11-01T18:14:48Z",
+            "last_commit": "2026-11-05T12:33:11Z",
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
@@ -2918,7 +2918,7 @@
             "open_issues": 22,
             "owner": "matteopuc",
             "repo": "swiftui-navigation-stack",
-            "stars": 1003,
+            "stars": 1004,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -3367,7 +3367,7 @@
             "open_issues": 15,
             "owner": "jevonmao",
             "repo": "PermissionsSwiftUI",
-            "stars": 1578,
+            "stars": 1579,
             "topics": [
               "coding",
               "developer",
@@ -4463,7 +4463,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "AnimatedTabBar",
-            "stars": 559,
+            "stars": 560,
             "topics": [
               "animation",
               "ios-component",
@@ -5155,7 +5155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T14:39:28.609Z",
+    "last_updated": "2026-11-05T14:44:17.998Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
@@ -5164,7 +5164,7 @@
       "language": "Swift",
       "license": "MIT",
       "last_commit": "2026-10-26T08:33:20Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "Toni77777",
       "repo": "awesome-swiftui-libraries",
       "stars": 1547,
