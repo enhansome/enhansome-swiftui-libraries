@@ -194,7 +194,7 @@
             "open_issues": 3,
             "owner": "davdroman",
             "repo": "swiftui-navigation-transitions",
-            "stars": 1089,
+            "stars": 1090,
             "topics": [
               "animation",
               "native",
@@ -1429,7 +1429,7 @@
             "open_issues": 9,
             "owner": "simibac",
             "repo": "ConfettiSwiftUI",
-            "stars": 2474,
+            "stars": 2475,
             "topics": [
               "animation",
               "swiftui"
@@ -1649,7 +1649,7 @@
             "open_issues": 31,
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8197,
+            "stars": 8196,
             "topics": [
               "attributedstring",
               "backwards-compatibility",
@@ -1938,7 +1938,7 @@
             "open_issues": 4,
             "owner": "exyte",
             "repo": "Grid",
-            "stars": 2124,
+            "stars": 2125,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -2642,7 +2642,7 @@
             "open_issues": 62,
             "owner": "gonzalezreal",
             "repo": "swift-markdown-ui",
-            "stars": 3936,
+            "stars": 3937,
             "topics": [
               "cmark",
               "commonmark",
@@ -2747,11 +2747,11 @@
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-11-06T11:15:33Z",
+            "last_commit": "2026-11-06T18:19:21Z",
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
-            "stars": 189,
+            "stars": 190,
             "topics": [
               "cartography",
               "geospatial",
@@ -4303,7 +4303,7 @@
             "open_issues": 7,
             "owner": "Cay-Zhang",
             "repo": "SwiftSpeech",
-            "stars": 529,
+            "stars": 528,
             "topics": [
               "audio",
               "combine",
@@ -5080,7 +5080,7 @@
             "open_issues": 127,
             "owner": "TokamakUI",
             "repo": "Tokamak",
-            "stars": 2835,
+            "stars": 2834,
             "topics": [
               "data-binding",
               "dom",
@@ -5155,7 +5155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T14:21:57.046Z",
+    "last_updated": "2026-11-07T13:11:08.311Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
