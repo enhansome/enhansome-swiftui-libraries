@@ -127,7 +127,7 @@
 
 [scroll to top](#readme)
 
-* [MijickCamera](https://github.com/Mijick/Camera) ⭐ 656 | 🐛 37 | 🌐 Swift | 📅 2025-09-30 - Camera made simple. Fully customizable camera library that significantly reduces implementation time and effort. Written with and for SwiftUI.
+* [MijickCamera](https://github.com/Mijick/Camera) ⭐ 657 | 🐛 37 | 🌐 Swift | 📅 2025-09-30 - Camera made simple. Fully customizable camera library that significantly reduces implementation time and effort. Written with and for SwiftUI.
 * [Camera-SwiftUI](https://github.com/rorodriguez116/Camera-SwiftUI) ⭐ 266 | 🐛 4 | 🌐 Swift | 📅 2024-08-11 - A lightweight camera library for quick integration with SwiftUI - iOS/iPadOS only
 * [SwiftUICam](https://github.com/pierreveron/SwiftUICam) ⚠️ Archived - A Snapchat Style Camera View to use with a SwiftUI interface
 * [CameraView](https://github.com/brettfazio/CameraView) ⭐ 80 | 🐛 4 | 🌐 Swift | 📅 2023-06-12 - SwiftUI View for live camera output
@@ -212,7 +212,7 @@
 [scroll to top](#readme)
 
 * [SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) ⭐ 8,196 | 🐛 31 | 🌐 Swift | 📅 2026-09-18 - An extension to the standard SwiftUI library.
-* [MijickTimer](https://github.com/Mijick/Timer) ⭐ 202 | 🐛 1 | 🌐 Swift | 📅 2025-05-14 - Modern API for Timer
+* [MijickTimer](https://github.com/Mijick/Timer) ⭐ 203 | 🐛 1 | 🌐 Swift | 📅 2025-05-14 - Modern API for Timer
 * [ViewCondition](https://github.com/tokijh/ViewCondition) ⭐ 105 | 🐛 0 | 🌐 Swift | 📅 2021-09-30 - Super sweet syntactic sugar for SwiftUI.View initializers.
 * [SwiftSafeUI](https://github.com/BaherTamer/SwiftSafeUI) ⭐ 37 | 🐛 0 | 🌐 Swift | 📅 2025-07-16 - Encapsulates your SwiftUI deprecation handling logic.
 
@@ -293,7 +293,7 @@
 
 [scroll to top](#readme)
 
-* [ImmersiveMap](https://github.com/artembobkin/ImmersiveMap) ⭐ 190 | 🐛 0 | 🌐 Swift | 📅 2026-11-06 - A native Swift + Metal vector-tile map engine for SwiftUI with a 3D globe, starfield and labels
+* [ImmersiveMap](https://github.com/artembobkin/ImmersiveMap) ⭐ 193 | 🐛 0 | 🌐 Swift | 📅 2026-11-08 - A native Swift + Metal vector-tile map engine for SwiftUI with a 3D globe, starfield and labels
 * [DotGlobe](https://github.com/inventhq/dot-globe) ⭐ 127 | 🐛 2 | 🌐 Swift | 📅 2023-08-22 - A Library to that draws a dotted earth map to a globe and allows you to interract with it
 * [InteractiveMap](https://github.com/grandsir/InteractiveMap) ⭐ 120 | 🐛 4 | 🌐 Swift | 📅 2023-12-06 - A Library to draw interactive maps and SVGs in SwiftUI
 
@@ -315,7 +315,7 @@
 
 * [NavigationStack](https://github.com/matteopuc/swiftui-navigation-stack) ⭐ 1,004 | 🐛 22 | 🌐 Swift | 📅 2022-12-05 - An alternative SwiftUI NavigationView implementing classic stack-based navigation giving also some more control on animations and programmatic navigation.
 * [FlowStacks](https://github.com/johnpatrickmorgan/FlowStacks) ⭐ 971 | 🐛 24 | 🌐 Swift | 📅 2025-10-10 - FlowStacks allows you to hoist SwiftUI navigation and presentation state into a Coordinator
-* [stinsen](https://github.com/rundfunk47/stinsen) ⭐ 953 | 🐛 44 | 🌐 Swift | 📅 2026-03-28 - Coordinators in SwiftUI. Simple, powerful and elegant.
+* [stinsen](https://github.com/rundfunk47/stinsen) ⭐ 954 | 🐛 44 | 🌐 Swift | 📅 2026-03-28 - Coordinators in SwiftUI. Simple, powerful and elegant.
 * [SwiftUIRouter](https://github.com/frzi/SwiftUIRouter) ⚠️ Archived - Path based routing in SwiftUI
 * [Swift Composable Navigator](https://github.com/Bahn-X/swift-composable-navigator) ⭐ 589 | 🐛 11 | 🌐 Swift | 📅 2022-02-18 - An open source library for building deep-linkable SwiftUI applications with composition, testing and ergonomics in mind
 * [MijickNavigattie](https://github.com/Mijick/Navigattie) ⭐ 318 | 🐛 11 | 🌐 Swift | 📅 2025-05-14 - Easy navigation with SwiftUI
@@ -401,8 +401,8 @@
 [scroll to top](#readme)
 
 * [Verge](https://github.com/VergeGroup/Verge) ⭐ 811 | 🐛 10 | 🌐 Swift | 📅 2026-10-30 - Verge is a very tunable state-management engine on iOS App
-* [Pigeon](https://github.com/fmo91/Pigeon) ⭐ 432 | 🐛 13 | 🌐 Swift | 📅 2021-08-01 - Async state management for SwiftUI
-* [SwiftDux](https://github.com/StevenLambion/SwiftDux) ⭐ 151 | 🐛 2 | 🌐 Swift | 📅 2021-07-10 - Predictable state management for SwiftUI applications.
+* [Pigeon](https://github.com/fmo91/Pigeon) ⭐ 433 | 🐛 13 | 🌐 Swift | 📅 2021-08-01 - Async state management for SwiftUI
+* [SwiftDux](https://github.com/StevenLambion/SwiftDux) ⭐ 152 | 🐛 2 | 🌐 Swift | 📅 2021-07-10 - Predictable state management for SwiftUI applications.
 
 ## Scroll
 
@@ -435,7 +435,7 @@
 
 [scroll to top](#readme)
 
-* [SkeletonUI](https://github.com/CSolanaM/SkeletonUI) ⭐ 964 | 🐛 8 | 🌐 Swift | 📅 2024-08-10 - Elegant skeleton loading animation in SwiftUI and Combine.
+* [SkeletonUI](https://github.com/CSolanaM/SkeletonUI) ⭐ 965 | 🐛 8 | 🌐 Swift | 📅 2024-08-10 - Elegant skeleton loading animation in SwiftUI and Combine.
 
 ## Slider
 
@@ -450,7 +450,7 @@
 
 [scroll to top](#readme)
 
-* [SwiftSpeech](https://github.com/Cay-Zhang/SwiftSpeech) ⭐ 528 | 🐛 7 | 🌐 Swift | 📅 2021-07-27 - A speech recognition framework designed for SwiftUI.
+* [SwiftSpeech](https://github.com/Cay-Zhang/SwiftSpeech) ⭐ 529 | 🐛 7 | 🌐 Swift | 📅 2021-07-27 - A speech recognition framework designed for SwiftUI.
 
 ## Stack
 
@@ -475,10 +475,10 @@
 [scroll to top](#readme)
 
 * [SSCustomTabbar](https://github.com/SimformSolutionsPvtLtd/SSCustomTabbar) ⭐ 614 | 🐛 1 | 🌐 Swift | 📅 2023-11-24 - Simple Animated tabbar with native control
-* [AnimatedTabBar](https://github.com/exyte/AnimatedTabBar) ⭐ 560 | 🐛 0 | 🌐 Swift | 📅 2026-11-06 - A tabbar with number of preset animations written in pure SwiftU
+* [AnimatedTabBar](https://github.com/exyte/AnimatedTabBar) ⭐ 561 | 🐛 0 | 🌐 Swift | 📅 2026-11-06 - A tabbar with number of preset animations written in pure SwiftU
 * [StatefulTabView](https://github.com/NicholasBellucci/StatefulTabView) ⭐ 321 | 🐛 0 | 🌐 Swift | 📅 2022-10-31 - A SwiftUI TabView that retains the state of each tab as well as some other goodies.
 * [SlidingTabView](https://github.com/QuynhNguyen/SlidingTabView) ⭐ 258 | 🐛 10 | 🌐 Swift | 📅 2023-01-31 - SwiftUI - Sliding Tab View
-* [FloatingTabBar](https://github.com/10011co/FloatingTabBar) ⭐ 250 | 🐛 0 | 🌐 Swift | 📅 2023-02-28 - Aesthetic floating tab bar
+* [FloatingTabBar](https://github.com/10011co/FloatingTabBar) ⭐ 251 | 🐛 0 | 🌐 Swift | 📅 2023-02-28 - Aesthetic floating tab bar
 
 ## TextField
 
@@ -520,7 +520,7 @@
 
 [scroll to top](#readme)
 
-* [ViewInspector](https://github.com/nalexn/ViewInspector) ⭐ 2,640 | 🐛 49 | 🌐 Swift | 📅 2026-10-15 - Runtime introspection and unit testing of SwiftUI views
+* [ViewInspector](https://github.com/nalexn/ViewInspector) ⭐ 2,641 | 🐛 49 | 🌐 Swift | 📅 2026-10-15 - Runtime introspection and unit testing of SwiftUI views
 
 ## Video
 
@@ -545,4 +545,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._

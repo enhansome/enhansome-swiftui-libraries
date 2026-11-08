@@ -720,7 +720,7 @@
             "open_issues": 37,
             "owner": "Mijick",
             "repo": "Camera",
-            "stars": 656,
+            "stars": 657,
             "topics": [
               "avfoundation",
               "camera",
@@ -1685,7 +1685,7 @@
             "open_issues": 1,
             "owner": "Mijick",
             "repo": "Timer",
-            "stars": 202,
+            "stars": 203,
             "topics": [
               "combine",
               "ios",
@@ -2747,11 +2747,11 @@
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-11-06T18:19:21Z",
+            "last_commit": "2026-11-08T08:28:17Z",
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
-            "stars": 190,
+            "stars": 193,
             "topics": [
               "cartography",
               "geospatial",
@@ -2960,7 +2960,7 @@
             "open_issues": 44,
             "owner": "rundfunk47",
             "repo": "stinsen",
-            "stars": 953,
+            "stars": 954,
             "topics": [
               "coordinator",
               "coordinator-pattern",
@@ -3814,7 +3814,7 @@
             "open_issues": 13,
             "owner": "fmo91",
             "repo": "Pigeon",
-            "stars": 432,
+            "stars": 433,
             "topics": [
               "combine",
               "ios",
@@ -3841,7 +3841,7 @@
             "open_issues": 2,
             "owner": "StevenLambion",
             "repo": "SwiftDux",
-            "stars": 151,
+            "stars": 152,
             "topics": [
               "architecture",
               "combine",
@@ -4303,7 +4303,7 @@
             "open_issues": 7,
             "owner": "Cay-Zhang",
             "repo": "SwiftSpeech",
-            "stars": 528,
+            "stars": 529,
             "topics": [
               "audio",
               "combine",
@@ -4463,7 +4463,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "AnimatedTabBar",
-            "stars": 560,
+            "stars": 561,
             "topics": [
               "animation",
               "ios-component",
@@ -4539,7 +4539,7 @@
             "open_issues": 0,
             "owner": "claudiaeng",
             "repo": "FloatingTabBar",
-            "stars": 250,
+            "stars": 251,
             "topics": [
               "combine",
               "ios",
@@ -5155,7 +5155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T13:11:08.311Z",
+    "last_updated": "2026-11-08T13:31:58.558Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
