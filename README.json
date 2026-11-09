@@ -225,7 +225,7 @@
             "open_issues": 0,
             "owner": "Arvindcs",
             "repo": "SwiftUI-Animation",
-            "stars": 1074,
+            "stars": 1075,
             "topics": [
               "animated-dots",
               "cardview",
@@ -390,7 +390,7 @@
             "open_issues": 0,
             "owner": "Lakr233",
             "repo": "Colorful",
-            "stars": 389,
+            "stars": 388,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -870,7 +870,7 @@
             "open_issues": 4,
             "owner": "danielsaidi",
             "repo": "DeckKit",
-            "stars": 891,
+            "stars": 892,
             "topics": [
               "card",
               "deck",
@@ -1429,7 +1429,7 @@
             "open_issues": 9,
             "owner": "simibac",
             "repo": "ConfettiSwiftUI",
-            "stars": 2475,
+            "stars": 2477,
             "topics": [
               "animation",
               "swiftui"
@@ -1747,7 +1747,7 @@
             "open_issues": 0,
             "owner": "BaherTamer",
             "repo": "SwiftSafeUI",
-            "stars": 37,
+            "stars": 38,
             "topics": [
               "compatibility",
               "ios",
@@ -1938,7 +1938,7 @@
             "open_issues": 4,
             "owner": "exyte",
             "repo": "Grid",
-            "stars": 2125,
+            "stars": 2126,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -2747,7 +2747,7 @@
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-11-08T08:28:17Z",
+            "last_commit": "2026-11-09T14:12:45Z",
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
@@ -4435,7 +4435,7 @@
             "open_issues": 1,
             "owner": "SimformSolutionsPvtLtd",
             "repo": "SSCustomTabbar",
-            "stars": 614,
+            "stars": 615,
             "topics": [
               "animatedtabbar",
               "customtabbar",
@@ -4463,7 +4463,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "AnimatedTabBar",
-            "stars": 561,
+            "stars": 562,
             "topics": [
               "animation",
               "ios-component",
@@ -5080,7 +5080,7 @@
             "open_issues": 127,
             "owner": "TokamakUI",
             "repo": "Tokamak",
-            "stars": 2834,
+            "stars": 2835,
             "topics": [
               "data-binding",
               "dom",
@@ -5155,7 +5155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T13:31:58.558Z",
+    "last_updated": "2026-11-09T16:29:55.976Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
@@ -5164,7 +5164,7 @@
       "language": "Swift",
       "license": "MIT",
       "last_commit": "2026-10-26T08:33:20Z",
-      "open_issues": 2,
+      "open_issues": 4,
       "owner": "Toni77777",
       "repo": "awesome-swiftui-libraries",
       "stars": 1548,
