@@ -79,17 +79,17 @@
 [scroll to top](#readme)
 
 * [swiftui-animations](https://github.com/amosgyamfi/swiftui-animation-library) ⭐ 5,688 | 🐛 21 | 🌐 Swift | 📅 2026-08-14 - SwiftUI Animation Library. Useful SwiftUI animations including Loading/progress, Looping, On-off, Enter, Exit, Fade, Spin and Background animations that you can directly implement in your next iOS application or project. The library also contains huge examples of spring animations such as Inertial Bounce, Shake, Twirl, Jelly, Jiggle, Rubber Band…
-* [shiny](https://github.com/maustinstar/shiny) ⭐ 1,092 | 🐛 6 | 🌐 Swift | 📅 2024-07-12 - Shiny uses your gyroscope to simulate lighting and motion effects on colors. Works on almost every SwiftUI View
+* [shiny](https://github.com/maustinstar/shiny) ⭐ 1,091 | 🐛 6 | 🌐 Swift | 📅 2024-07-12 - Shiny uses your gyroscope to simulate lighting and motion effects on colors. Works on almost every SwiftUI View
 * [NavigationTransitions](https://github.com/davdroman/swiftui-navigation-transitions) ⭐ 1,090 | 🐛 3 | 🌐 Swift | 📅 2026-10-27 - Pure SwiftUI Navigation animated transitions
 * [SwiftUI-Animation](https://github.com/Arvindcs/SwiftUI-Animation) ⭐ 1,075 | 🐛 0 | 🌐 Swift | 📅 2025-07-12 - SwiftUI Animation
-* [Liquid](https://github.com/maustinstar/liquid) ⭐ 856 | 🐛 3 | 🌐 Swift | 📅 2024-08-19 - Create a playful backsplash in SwiftUI
+* [Liquid](https://github.com/maustinstar/liquid) ⭐ 855 | 🐛 3 | 🌐 Swift | 📅 2024-08-19 - Create a playful backsplash in SwiftUI
 * [SwiftUIPathAnimations](https://github.com/adellibovi/SwiftUI-PathAnimations/blob/master/Package.swift) ⭐ 234 | 🐛 1 | 🌐 Swift | 📅 2019-09-13 - Tools for SwiftUI that helps perform Path and Shape animations, such us morphing circle or shape transformations
 
 ## Audio
 
 [scroll to top](#readme)
 
-* [Subsonic](https://github.com/twostraws/Subsonic) ⭐ 372 | 🐛 3 | 🌐 Swift | 📅 2026-04-02 - A small library that makes it easier to play audio with SwiftUI
+* [Subsonic](https://github.com/twostraws/Subsonic) ⭐ 373 | 🐛 3 | 🌐 Swift | 📅 2026-04-02 - A small library that makes it easier to play audio with SwiftUI
 
 ## Bezier-Path
 
@@ -136,7 +136,7 @@
 
 [scroll to top](#readme)
 
-* [SlideOverCard](https://github.com/joogps/SlideOverCard) ⭐ 1,218 | 🐛 11 | 🌐 Swift | 📅 2024-03-29 - A SwiftUI card view, made great for setup interactions.
+* [SlideOverCard](https://github.com/joogps/SlideOverCard) ⭐ 1,217 | 🐛 11 | 🌐 Swift | 📅 2024-03-29 - A SwiftUI card view, made great for setup interactions.
 * [DeckKit](https://github.com/danielsaidi/DeckKit) ⭐ 892 | 🐛 4 | 🌐 Swift | 📅 2026-06-09 - DeckKit is a tiny library that helps you create card-based apps in SwiftUI.
 * [SwiftUI-CardStackView](https://github.com/dadalar/SwiftUI-CardStackView) ⭐ 642 | 🐛 9 | 🌐 Swift | 📅 2025-02-11 - A easy-to-use SwiftUI view for Tinder like cards on iOS, macOS & watchOS
 * [swipeable-cards](https://github.com/Volorf/swipeable-cards) ⭐ 228 | 🐛 0 | 🌐 Swift | 📅 2021-07-05 - Swipeable Cards with SwiftUI
@@ -256,7 +256,7 @@
 * [url-image](https://github.com/dmytro-anokhin/url-image) ⚠️ Archived - AsyncImage before iOS 15. Lightweight, pure SwiftUI Image view, that displays an image downloaded from URL, with auxiliary views and local cache.
 * [CachedAsyncImage](https://github.com/lorenzofiamingo/SwiftUI-CachedAsyncImage) ⭐ 713 | 🐛 17 | 🌐 Swift | 📅 2026-07-01 - 🗃️ The simplest way to add cache to your AsyncImage.
 * [swiftui-image-viewer](https://github.com/Jake-Short/swiftui-image-viewer) ⭐ 499 | 🐛 12 | 🌐 Swift | 📅 2023-04-12 - Image viewer built in SwiftUI for both local and remote images
-* [Longinus](https://github.com/KittenYang/Longinus) ⭐ 327 | 🐛 4 | 🌐 Swift | 📅 2022-12-03 - A pure Swift high-performance asynchronous image loading framework.
+* [Longinus](https://github.com/KittenYang/Longinus) ⭐ 326 | 🐛 4 | 🌐 Swift | 📅 2022-12-03 - A pure Swift high-performance asynchronous image loading framework.
 * [SwURL](https://github.com/cmtrounce/SwURL) ⭐ 200 | 🐛 1 | 🌐 Swift | 📅 2023-07-06 - Lightweight asynchronous image loading in SwiftUI. Fetch and display images from URLs.
 * [AnimatedImage](https://github.com/krzyzanowskim/SwiftUI.AnimatedImage) ⭐ 57 | 🐛 0 | 🌐 Swift | 📅 2021-07-31 - SwiftUI AnimatedImage View
 * [NukeUI](https://github.com/kean/NukeUI) ⚠️ Archived - Lazy image loading for SwiftUI
@@ -284,7 +284,7 @@
 
 [scroll to top](#readme)
 
-* [MarkdownUI](https://github.com/gonzalezreal/MarkdownUI) ⭐ 3,937 | 🐛 62 | 🌐 Swift | 📅 2025-12-28 - Render Markdown text in SwiftUI
+* [MarkdownUI](https://github.com/gonzalezreal/MarkdownUI) ⭐ 3,938 | 🐛 62 | 🌐 Swift | 📅 2025-12-28 - Render Markdown text in SwiftUI
 * [Parma](https://github.com/dasautoooo/Parma) ⭐ 800 | 🐛 17 | 🌐 Swift | 📅 2021-12-24 - A SwiftUI view for displaying Markdown with customizable appearances.
 * [SwiftDown](https://github.com/qeude/SwiftDown) ⚠️ Archived - A themable markdown editor component for your SwiftUI apps.
 * [MDText](https://github.com/Lambdo-Labs/MDText) ⚠️ Archived - s a markdown render library built in and for SwiftUI
@@ -293,7 +293,7 @@
 
 [scroll to top](#readme)
 
-* [ImmersiveMap](https://github.com/artembobkin/ImmersiveMap) ⭐ 193 | 🐛 0 | 🌐 Swift | 📅 2026-11-09 - A native Swift + Metal vector-tile map engine for SwiftUI with a 3D globe, starfield and labels
+* [ImmersiveMap](https://github.com/artembobkin/ImmersiveMap) ⭐ 202 | 🐛 0 | 🌐 Swift | 📅 2026-11-09 - A native Swift + Metal vector-tile map engine for SwiftUI with a 3D globe, starfield and labels
 * [DotGlobe](https://github.com/inventhq/dot-globe) ⭐ 127 | 🐛 2 | 🌐 Swift | 📅 2023-08-22 - A Library to that draws a dotted earth map to a globe and allows you to interract with it
 * [InteractiveMap](https://github.com/grandsir/InteractiveMap) ⭐ 120 | 🐛 4 | 🌐 Swift | 📅 2023-12-06 - A Library to draw interactive maps and SVGs in SwiftUI
 
@@ -301,7 +301,7 @@
 
 [scroll to top](#readme)
 
-* [swiftui-messaging-ui](https://github.com/FluidGroup/swiftui-messaging-ui) ⭐ 89 | 🐛 7 | 🌐 Swift | 📅 2026-10-14 - A SwiftUI chat UI component with stable prepending for loading older messages without scroll jumps.
+* [swiftui-messaging-ui](https://github.com/FluidGroup/swiftui-messaging-ui) ⭐ 90 | 🐛 7 | 🌐 Swift | 📅 2026-10-14 - A SwiftUI chat UI component with stable prepending for loading older messages without scroll jumps.
 
 ## Menu
 
@@ -314,7 +314,7 @@
 [scroll to top](#readme)
 
 * [NavigationStack](https://github.com/matteopuc/swiftui-navigation-stack) ⭐ 1,004 | 🐛 22 | 🌐 Swift | 📅 2022-12-05 - An alternative SwiftUI NavigationView implementing classic stack-based navigation giving also some more control on animations and programmatic navigation.
-* [FlowStacks](https://github.com/johnpatrickmorgan/FlowStacks) ⭐ 971 | 🐛 24 | 🌐 Swift | 📅 2025-10-10 - FlowStacks allows you to hoist SwiftUI navigation and presentation state into a Coordinator
+* [FlowStacks](https://github.com/johnpatrickmorgan/FlowStacks) ⭐ 973 | 🐛 24 | 🌐 Swift | 📅 2025-10-10 - FlowStacks allows you to hoist SwiftUI navigation and presentation state into a Coordinator
 * [stinsen](https://github.com/rundfunk47/stinsen) ⭐ 954 | 🐛 44 | 🌐 Swift | 📅 2026-03-28 - Coordinators in SwiftUI. Simple, powerful and elegant.
 * [SwiftUIRouter](https://github.com/frzi/SwiftUIRouter) ⚠️ Archived - Path based routing in SwiftUI
 * [Swift Composable Navigator](https://github.com/Bahn-X/swift-composable-navigator) ⭐ 589 | 🐛 11 | 🌐 Swift | 📅 2022-02-18 - An open source library for building deep-linkable SwiftUI applications with composition, testing and ergonomics in mind
@@ -374,7 +374,7 @@
 
 [scroll to top](#readme)
 
-* [CarBode](https://github.com/heart/CarBode-Barcode-Scanner-For-SwiftUI) ⭐ 302 | 🐛 17 | 🌐 Swift | 📅 2025-05-06 - CarBode : Free & Opensource barcode scanner & generator for SwiftUI
+* [CarBode](https://github.com/heart/CarBode-Barcode-Scanner-For-SwiftUI) ⭐ 303 | 🐛 17 | 🌐 Swift | 📅 2025-05-06 - CarBode : Free & Opensource barcode scanner & generator for SwiftUI
 * [CodeScanner](https://github.com/eDeniska/zeplin-preview-swiftui) ⭐ 7 | 🐛 0 | 🌐 Swift | 📅 2021-05-21 - A SwiftUI view that is able to scan barcodes, QR codes, and more, and send back what was found.
 
 ## Ratings
@@ -425,9 +425,9 @@
 [scroll to top](#readme)
 
 * [BottomSheet (LucasMucGH)](https://github.com/LucasMucGH/BottomSheet) ⭐ 1,248 | 🐛 19 | 🌐 Swift | 📅 2026-07-18 - A sliding Sheet from the bottom of the Screen with 3 States build with SwiftUI.
-* [SwiftUI Drawer](https://github.com/maustinstar/swiftui-drawer) ⭐ 1,054 | 🐛 8 | 🌐 Swift | 📅 2022-03-21 - A SwiftUI bottom-up
+* [SwiftUI Drawer](https://github.com/maustinstar/swiftui-drawer) ⭐ 1,053 | 🐛 8 | 🌐 Swift | 📅 2022-03-21 - A SwiftUI bottom-up
 * [BottomSheet](https://github.com/weitieda/bottom-sheet) ⭐ 863 | 🐛 7 | 🌐 Swift | 📅 2022-11-14 - A SwiftUI view component sliding in from bottom
-* [Snap](https://github.com/nerdsupremacist/Snap) ⭐ 793 | 🐛 6 | 🌐 Swift | 📅 2022-02-20 - A customizable Snapping Drawer à la Apple Maps. 100% in SwiftUI.
+* [Snap](https://github.com/nerdsupremacist/Snap) ⭐ 794 | 🐛 6 | 🌐 Swift | 📅 2022-02-20 - A customizable Snapping Drawer à la Apple Maps. 100% in SwiftUI.
 * [BetterSheet](https://github.com/egeniq/BetterSheet) ⭐ 109 | 🐛 3 | 🌐 Swift | 📅 2019-10-10 - A powerful SwiftUI sheet replacement
 * [ActionOver](https://github.com/AndreaMiotto/ActionOver) - A custom SwiftUI modifier to present an ActionSheet or a Popover menu
 
@@ -435,14 +435,14 @@
 
 [scroll to top](#readme)
 
-* [SkeletonUI](https://github.com/CSolanaM/SkeletonUI) ⭐ 965 | 🐛 8 | 🌐 Swift | 📅 2024-08-10 - Elegant skeleton loading animation in SwiftUI and Combine.
+* [SkeletonUI](https://github.com/CSolanaM/SkeletonUI) ⭐ 966 | 🐛 8 | 🌐 Swift | 📅 2024-08-10 - Elegant skeleton loading animation in SwiftUI and Combine.
 
 ## Slider
 
 [scroll to top](#readme)
 
 * [Swiftui sliders](https://github.com/spacenation/swiftui-sliders) ⭐ 938 | 🐛 17 | 🌐 Swift | 📅 2025-08-01 - SwiftUI Sliders with custom styles
-* [Sliders SwiftUI](https://github.com/kieranb662/Sliders-SwiftUI) ⭐ 742 | 🐛 1 | 🌐 Swift | 📅 2026-03-13 - Collection of unique fully customizable SwiftUI sliders, joysticks, trackpads and more
+* [Sliders SwiftUI](https://github.com/kieranb662/Sliders-SwiftUI) ⭐ 743 | 🐛 1 | 🌐 Swift | 📅 2026-03-13 - Collection of unique fully customizable SwiftUI sliders, joysticks, trackpads and more
 * [SlidingRuler](https://github.com/Pyroh/SlidingRuler) ⭐ 454 | 🐛 11 | 🌐 Swift | 📅 2024-05-31 - A sliding ruler control for SwiftUI
 * [SwiftUI Value Slider](https://github.com/sanhee16/SwiftUIValueSlider) ⭐ 5 | 🐛 0 | 🌐 Swift | 📅 2023-04-12 - SwiftUI Sliders with current value of thumb
 
@@ -520,7 +520,7 @@
 
 [scroll to top](#readme)
 
-* [ViewInspector](https://github.com/nalexn/ViewInspector) ⭐ 2,641 | 🐛 49 | 🌐 Swift | 📅 2026-10-15 - Runtime introspection and unit testing of SwiftUI views
+* [ViewInspector](https://github.com/nalexn/ViewInspector) ⭐ 2,643 | 🐛 49 | 🌐 Swift | 📅 2026-10-15 - Runtime introspection and unit testing of SwiftUI views
 
 ## Video
 
@@ -540,9 +540,9 @@
 [scroll to top](#readme)
 
 * [Tokamak](https://github.com/TokamakUI/Tokamak) ⚠️ Archived - SwiftUI-compatible framework for building browser apps with WebAssembly and native apps for other platforms.
-* [BetterSafariView](https://github.com/stleamist/BetterSafariView) ⭐ 640 | 🐛 33 | 🌐 Swift | 📅 2024-07-09 - A better way to present a SFSafariViewController or start a ASWebAuthenticationSession in SwiftUI.
+* [BetterSafariView](https://github.com/stleamist/BetterSafariView) ⭐ 641 | 🐛 33 | 🌐 Swift | 📅 2024-07-09 - A better way to present a SFSafariViewController or start a ASWebAuthenticationSession in SwiftUI.
 * [SwiftWebUI](https://github.com/carson-katri/SwiftWebUI) ⭐ 424 | 🐛 2 | 🌐 Swift | 📅 2020-10-30 - SwiftUI with support for WebAssembly
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
