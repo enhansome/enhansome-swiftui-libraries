@@ -123,7 +123,7 @@
             "open_issues": 21,
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5688,
+            "stars": 5689,
             "topics": [
               "animations",
               "app-animations",
@@ -267,7 +267,7 @@
             "open_issues": 3,
             "owner": "maustinstar",
             "repo": "liquid",
-            "stars": 855,
+            "stars": 854,
             "topics": [
               "artwork",
               "ios",
@@ -1338,7 +1338,7 @@
             "open_issues": 18,
             "owner": "yannickl",
             "repo": "DynamicColor",
-            "stars": 3072,
+            "stars": 3073,
             "topics": [
               "color",
               "gradient",
@@ -1429,7 +1429,7 @@
             "open_issues": 9,
             "owner": "simibac",
             "repo": "ConfettiSwiftUI",
-            "stars": 2477,
+            "stars": 2476,
             "topics": [
               "animation",
               "swiftui"
@@ -1649,7 +1649,7 @@
             "open_issues": 31,
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8196,
+            "stars": 8197,
             "topics": [
               "attributedstring",
               "backwards-compatibility",
@@ -1938,7 +1938,7 @@
             "open_issues": 4,
             "owner": "exyte",
             "repo": "Grid",
-            "stars": 2126,
+            "stars": 2127,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -2642,7 +2642,7 @@
             "open_issues": 62,
             "owner": "gonzalezreal",
             "repo": "swift-markdown-ui",
-            "stars": 3938,
+            "stars": 3937,
             "topics": [
               "cmark",
               "commonmark",
@@ -2747,11 +2747,11 @@
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-11-09T14:12:45Z",
+            "last_commit": "2026-11-11T12:35:58Z",
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
-            "stars": 202,
+            "stars": 204,
             "topics": [
               "cartography",
               "geospatial",
@@ -3241,7 +3241,7 @@
             "open_issues": 12,
             "owner": "nachonavarro",
             "repo": "Pages",
-            "stars": 880,
+            "stars": 881,
             "topics": [
               "ios",
               "paging",
@@ -4225,7 +4225,7 @@
             "open_issues": 1,
             "owner": "kieranb662",
             "repo": "Sliders-SwiftUI",
-            "stars": 743,
+            "stars": 744,
             "topics": [
               "colorpicker",
               "joystick",
@@ -4369,7 +4369,7 @@
             "open_issues": 12,
             "owner": "badrinathvm",
             "repo": "StepperView",
-            "stars": 1365,
+            "stars": 1364,
             "topics": [
               "apple-watch",
               "carthage",
@@ -4408,7 +4408,7 @@
             "open_issues": 44,
             "owner": "exyte",
             "repo": "SVGView",
-            "stars": 860,
+            "stars": 861,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -5155,7 +5155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T14:58:14.903Z",
+    "last_updated": "2026-11-11T14:29:00.134Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
