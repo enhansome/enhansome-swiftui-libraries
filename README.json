@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "sparrowcode",
             "repo": "AlertKit",
-            "stars": 2637,
+            "stars": 2638,
             "topics": [
               "alert",
               "alert-controller",
@@ -123,7 +123,7 @@
             "open_issues": 21,
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5689,
+            "stars": 5692,
             "topics": [
               "animations",
               "app-animations",
@@ -162,7 +162,7 @@
             "open_issues": 6,
             "owner": "maustinstar",
             "repo": "shiny",
-            "stars": 1091,
+            "stars": 1092,
             "topics": [
               "gyroscope",
               "ios",
@@ -267,7 +267,7 @@
             "open_issues": 3,
             "owner": "maustinstar",
             "repo": "liquid",
-            "stars": 854,
+            "stars": 855,
             "topics": [
               "artwork",
               "ios",
@@ -446,7 +446,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "FloatingButton",
-            "stars": 1270,
+            "stars": 1271,
             "topics": [
               "swiftui",
               "swiftui-animations",
@@ -1649,7 +1649,7 @@
             "open_issues": 31,
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8197,
+            "stars": 8198,
             "topics": [
               "attributedstring",
               "backwards-compatibility",
@@ -2295,7 +2295,7 @@
             "open_issues": 1,
             "owner": "cmtrounce",
             "repo": "SwURL",
-            "stars": 200,
+            "stars": 201,
             "topics": [
               "asyncimage",
               "image-loading-from-server",
@@ -2506,7 +2506,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "ActivityIndicatorView",
-            "stars": 1676,
+            "stars": 1677,
             "topics": [
               "swiftui",
               "swiftui-components",
@@ -3178,7 +3178,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "ConcentricOnboarding",
-            "stars": 1568,
+            "stars": 1569,
             "topics": [
               "cocoapods",
               "ios",
@@ -3241,7 +3241,7 @@
             "open_issues": 12,
             "owner": "nachonavarro",
             "repo": "Pages",
-            "stars": 881,
+            "stars": 882,
             "topics": [
               "ios",
               "paging",
@@ -4783,7 +4783,7 @@
             "open_issues": 1,
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4062,
+            "stars": 4063,
             "topics": [
               "popup",
               "swiftui",
@@ -4810,7 +4810,7 @@
             "open_issues": 31,
             "owner": "Mijick",
             "repo": "Popups",
-            "stars": 1802,
+            "stars": 1803,
             "topics": [
               "alert",
               "cocoapods",
@@ -5155,7 +5155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T14:29:00.134Z",
+    "last_updated": "2026-11-12T15:21:09.396Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
@@ -5167,7 +5167,7 @@
       "open_issues": 4,
       "owner": "Toni77777",
       "repo": "awesome-swiftui-libraries",
-      "stars": 1549,
+      "stars": 1550,
       "topics": [
         "awesome",
         "frameworks",
