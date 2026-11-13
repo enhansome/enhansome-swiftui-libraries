@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "sparrowcode",
             "repo": "AlertKit",
-            "stars": 2638,
+            "stars": 2639,
             "topics": [
               "alert",
               "alert-controller",
@@ -194,7 +194,7 @@
             "open_issues": 3,
             "owner": "davdroman",
             "repo": "swiftui-navigation-transitions",
-            "stars": 1090,
+            "stars": 1091,
             "topics": [
               "animation",
               "native",
@@ -1649,7 +1649,7 @@
             "open_issues": 31,
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8198,
+            "stars": 8200,
             "topics": [
               "attributedstring",
               "backwards-compatibility",
@@ -1906,7 +1906,7 @@
             "open_issues": 15,
             "owner": "paololeonardi",
             "repo": "WaterfallGrid",
-            "stars": 2661,
+            "stars": 2662,
             "topics": [
               "ios",
               "macos",
@@ -2150,7 +2150,7 @@
             "open_issues": 86,
             "owner": "SDWebImage",
             "repo": "SDWebImageSwiftUI",
-            "stars": 2563,
+            "stars": 2564,
             "topics": [
               "animated-webp",
               "apng",
@@ -2670,7 +2670,7 @@
             "open_issues": 17,
             "owner": "dasautoooo",
             "repo": "Parma",
-            "stars": 800,
+            "stars": 799,
             "topics": [
               "ios",
               "macos",
@@ -2751,7 +2751,7 @@
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
-            "stars": 204,
+            "stars": 205,
             "topics": [
               "cartography",
               "geospatial",
@@ -3178,7 +3178,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "ConcentricOnboarding",
-            "stars": 1569,
+            "stars": 1570,
             "topics": [
               "cocoapods",
               "ios",
@@ -3880,7 +3880,7 @@
             "open_issues": 7,
             "owner": "nerdsupremacist",
             "repo": "FancyScrollView",
-            "stars": 1022,
+            "stars": 1023,
             "topics": [
               "app-store",
               "apple-music",
@@ -4783,7 +4783,7 @@
             "open_issues": 1,
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4063,
+            "stars": 4064,
             "topics": [
               "popup",
               "swiftui",
@@ -5080,7 +5080,7 @@
             "open_issues": 127,
             "owner": "TokamakUI",
             "repo": "Tokamak",
-            "stars": 2836,
+            "stars": 2835,
             "topics": [
               "data-binding",
               "dom",
@@ -5155,7 +5155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T15:21:09.396Z",
+    "last_updated": "2026-11-13T14:40:01.941Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
