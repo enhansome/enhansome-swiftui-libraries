@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "sparrowcode",
             "repo": "AlertKit",
-            "stars": 2639,
+            "stars": 2640,
             "topics": [
               "alert",
               "alert-controller",
@@ -148,38 +148,6 @@
         },
         {
           "node_type": "item",
-          "title": "shiny",
-          "description": "Shiny uses your gyroscope to simulate lighting and motion effects on colors. Works on almost every SwiftUI View",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Shiny uses your gyroscope to simulate lighting and motion effects on colors. Works on almost every SwiftUI View.",
-            "homepage": null,
-            "id": 283935490,
-            "language": "Swift",
-            "license": "MIT",
-            "last_commit": "2024-07-12T00:24:15Z",
-            "open_issues": 6,
-            "owner": "maustinstar",
-            "repo": "shiny",
-            "stars": 1092,
-            "topics": [
-              "gyroscope",
-              "ios",
-              "motion",
-              "neumorphic",
-              "skeuomorphic",
-              "swift",
-              "swift-package-manager",
-              "swiftui",
-              "ui",
-              "ux"
-            ]
-          },
-          "first_seen": "2026-08-28T18:46:46.752Z"
-        },
-        {
-          "node_type": "item",
           "title": "NavigationTransitions",
           "description": "Pure SwiftUI Navigation animated transitions",
           "children": [],
@@ -194,7 +162,7 @@
             "open_issues": 3,
             "owner": "davdroman",
             "repo": "swiftui-navigation-transitions",
-            "stars": 1091,
+            "stars": 1092,
             "topics": [
               "animation",
               "native",
@@ -205,6 +173,38 @@
               "swiftui",
               "transition",
               "uiviewcontrollertransitioningdelegate"
+            ]
+          },
+          "first_seen": "2026-08-28T18:46:46.752Z"
+        },
+        {
+          "node_type": "item",
+          "title": "shiny",
+          "description": "Shiny uses your gyroscope to simulate lighting and motion effects on colors. Works on almost every SwiftUI View",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Shiny uses your gyroscope to simulate lighting and motion effects on colors. Works on almost every SwiftUI View.",
+            "homepage": null,
+            "id": 283935490,
+            "language": "Swift",
+            "license": "MIT",
+            "last_commit": "2024-07-12T00:24:15Z",
+            "open_issues": 6,
+            "owner": "maustinstar",
+            "repo": "shiny",
+            "stars": 1091,
+            "topics": [
+              "gyroscope",
+              "ios",
+              "motion",
+              "neumorphic",
+              "skeuomorphic",
+              "swift",
+              "swift-package-manager",
+              "swiftui",
+              "ui",
+              "ux"
             ]
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -720,7 +720,7 @@
             "open_issues": 37,
             "owner": "Mijick",
             "repo": "Camera",
-            "stars": 657,
+            "stars": 658,
             "topics": [
               "avfoundation",
               "camera",
@@ -840,7 +840,7 @@
             "open_issues": 11,
             "owner": "joogps",
             "repo": "SlideOverCard",
-            "stars": 1217,
+            "stars": 1216,
             "topics": [
               "apple",
               "card",
@@ -985,7 +985,7 @@
             "open_issues": 96,
             "owner": "AppPear",
             "repo": "ChartView",
-            "stars": 5648,
+            "stars": 5647,
             "topics": [
               "chart",
               "charts",
@@ -1453,7 +1453,7 @@
             "open_issues": 6,
             "owner": "ivanvorobei",
             "repo": "SPConfetti",
-            "stars": 309,
+            "stars": 308,
             "topics": [
               "animation",
               "confetti",
@@ -1906,7 +1906,7 @@
             "open_issues": 15,
             "owner": "paololeonardi",
             "repo": "WaterfallGrid",
-            "stars": 2662,
+            "stars": 2661,
             "topics": [
               "ios",
               "macos",
@@ -2642,7 +2642,7 @@
             "open_issues": 62,
             "owner": "gonzalezreal",
             "repo": "swift-markdown-ui",
-            "stars": 3937,
+            "stars": 3936,
             "topics": [
               "cmark",
               "commonmark",
@@ -2697,7 +2697,7 @@
             "open_issues": 10,
             "owner": "qeude",
             "repo": "SwiftDown",
-            "stars": 570,
+            "stars": 569,
             "topics": [
               "markdown",
               "spm",
@@ -2751,7 +2751,7 @@
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
-            "stars": 205,
+            "stars": 206,
             "topics": [
               "cartography",
               "geospatial",
@@ -3207,7 +3207,7 @@
             "open_issues": 45,
             "owner": "fermoya",
             "repo": "SwiftUIPager",
-            "stars": 1471,
+            "stars": 1472,
             "topics": [
               "cocoapods",
               "ios",
@@ -3241,7 +3241,7 @@
             "open_issues": 12,
             "owner": "nachonavarro",
             "repo": "Pages",
-            "stars": 882,
+            "stars": 883,
             "topics": [
               "ios",
               "paging",
@@ -3299,7 +3299,7 @@
             "open_issues": 10,
             "owner": "fredyshox",
             "repo": "PageView",
-            "stars": 654,
+            "stars": 653,
             "topics": [
               "ios",
               "pageview",
@@ -4735,7 +4735,7 @@
             "open_issues": 14,
             "owner": "joekndy",
             "repo": "MarqueeText",
-            "stars": 361,
+            "stars": 360,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -4810,7 +4810,7 @@
             "open_issues": 31,
             "owner": "Mijick",
             "repo": "Popups",
-            "stars": 1803,
+            "stars": 1802,
             "topics": [
               "alert",
               "cocoapods",
@@ -4952,7 +4952,7 @@
             "open_issues": 0,
             "owner": "sanzaru",
             "repo": "SimpleToast",
-            "stars": 488,
+            "stars": 489,
             "topics": [
               "ios",
               "macos",
@@ -5155,7 +5155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T14:40:01.941Z",
+    "last_updated": "2026-11-14T13:37:19.166Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
