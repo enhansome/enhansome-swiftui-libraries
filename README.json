@@ -58,7 +58,7 @@
             "open_issues": 32,
             "owner": "elai950",
             "repo": "AlertToast",
-            "stars": 2443,
+            "stars": 2442,
             "topics": [
               "alert",
               "alert-controller",
@@ -471,7 +471,7 @@
             "open_issues": 1,
             "owner": "atrinh0",
             "repo": "buttoncraft",
-            "stars": 447,
+            "stars": 446,
             "topics": [
               "button-animation",
               "buttons",
@@ -985,7 +985,7 @@
             "open_issues": 96,
             "owner": "AppPear",
             "repo": "ChartView",
-            "stars": 5648,
+            "stars": 5647,
             "topics": [
               "chart",
               "charts",
@@ -1012,7 +1012,7 @@
             "open_issues": 2,
             "owner": "mecid",
             "repo": "SwiftUICharts",
-            "stars": 1576,
+            "stars": 1575,
             "topics": [
               "chart",
               "swiftui"
@@ -1367,7 +1367,7 @@
             "open_issues": 1,
             "owner": "Priva28",
             "repo": "SwiftUIColourWheel",
-            "stars": 85,
+            "stars": 84,
             "topics": [
               "color-picker",
               "color-wheel",
@@ -1649,7 +1649,7 @@
             "open_issues": 31,
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8202,
+            "stars": 8200,
             "topics": [
               "attributedstring",
               "backwards-compatibility",
@@ -1782,7 +1782,7 @@
             "open_issues": 10,
             "owner": "wishkit",
             "repo": "wishkit-ios",
-            "stars": 201,
+            "stars": 200,
             "topics": [
               "feature-requests",
               "feedback",
@@ -1906,7 +1906,7 @@
             "open_issues": 15,
             "owner": "paololeonardi",
             "repo": "WaterfallGrid",
-            "stars": 2662,
+            "stars": 2660,
             "topics": [
               "ios",
               "macos",
@@ -1938,7 +1938,7 @@
             "open_issues": 4,
             "owner": "exyte",
             "repo": "Grid",
-            "stars": 2127,
+            "stars": 2126,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -2212,7 +2212,7 @@
             "open_issues": 17,
             "owner": "lorenzofiamingo",
             "repo": "swiftui-cached-async-image",
-            "stars": 713,
+            "stars": 712,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -2742,21 +2742,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Native Swift 6 + Metal map rendering engine for SwiftUI. Globe and flat vector-tile maps with labels, SwiftUI markers and avatars, on iOS and macOS.",
+            "description": "Native Swift 6 + Metal map rendering engine for SwiftUI. Globe and flat vector-tile maps from PMTiles, online or offline, with labels, SwiftUI annotations and pins, on iOS and macOS.",
             "homepage": "https://swiftpackageindex.com/artembobkin/ImmersiveMap",
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-11-15T13:25:53Z",
+            "last_commit": "2026-11-16T14:57:07Z",
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
-            "stars": 208,
+            "stars": 209,
             "topics": [
               "cartography",
               "geospatial",
               "globe",
-              "gpu",
               "graphics",
               "ios",
               "macos",
@@ -2766,11 +2765,12 @@
               "maps",
               "metal",
               "mvt",
+              "offline-maps",
+              "pmtiles",
               "protomaps",
               "rendering-engine",
               "swift",
               "swift-package-manager",
-              "swift6",
               "swiftui",
               "vector-tiles"
             ]
@@ -3207,7 +3207,7 @@
             "open_issues": 45,
             "owner": "fermoya",
             "repo": "SwiftUIPager",
-            "stars": 1472,
+            "stars": 1471,
             "topics": [
               "cocoapods",
               "ios",
@@ -3241,7 +3241,7 @@
             "open_issues": 12,
             "owner": "nachonavarro",
             "repo": "Pages",
-            "stars": 884,
+            "stars": 883,
             "topics": [
               "ios",
               "paging",
@@ -3270,7 +3270,7 @@
             "open_issues": 13,
             "owner": "xmartlabs",
             "repo": "PagerTabStripView",
-            "stars": 844,
+            "stars": 845,
             "topics": [
               "pager",
               "pagertabstripview",
@@ -3367,7 +3367,7 @@
             "open_issues": 15,
             "owner": "jevonmao",
             "repo": "PermissionsSwiftUI",
-            "stars": 1579,
+            "stars": 1578,
             "topics": [
               "coding",
               "developer",
@@ -3880,7 +3880,7 @@
             "open_issues": 7,
             "owner": "nerdsupremacist",
             "repo": "FancyScrollView",
-            "stars": 1023,
+            "stars": 1022,
             "topics": [
               "app-store",
               "apple-music",
@@ -3907,7 +3907,7 @@
             "open_issues": 4,
             "owner": "maxnatchanon",
             "repo": "trackable-scroll-view",
-            "stars": 229,
+            "stars": 228,
             "topics": [
               "hacktoberfest",
               "swiftui"
@@ -4780,10 +4780,10 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-11-06T09:48:31Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4064,
+            "stars": 4062,
             "topics": [
               "popup",
               "swiftui",
@@ -5155,7 +5155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T14:00:29.577Z",
+    "last_updated": "2026-11-16T15:56:08.901Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
@@ -5167,7 +5167,7 @@
       "open_issues": 4,
       "owner": "Toni77777",
       "repo": "awesome-swiftui-libraries",
-      "stars": 1550,
+      "stars": 1551,
       "topics": [
         "awesome",
         "frameworks",
