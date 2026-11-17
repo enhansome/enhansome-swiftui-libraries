@@ -123,7 +123,7 @@
             "open_issues": 21,
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5693,
+            "stars": 5694,
             "topics": [
               "animations",
               "app-animations",
@@ -446,7 +446,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "FloatingButton",
-            "stars": 1271,
+            "stars": 1270,
             "topics": [
               "swiftui",
               "swiftui-animations",
@@ -2747,11 +2747,11 @@
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-11-16T14:57:07Z",
+            "last_commit": "2026-11-17T13:55:46Z",
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
-            "stars": 209,
+            "stars": 211,
             "topics": [
               "cartography",
               "geospatial",
@@ -4915,7 +4915,7 @@
             "open_issues": 1,
             "owner": "SimformSolutionsPvtLtd",
             "repo": "SSToastMessage",
-            "stars": 520,
+            "stars": 521,
             "topics": [
               "cocoapods",
               "custom-dropdown",
@@ -5047,7 +5047,7 @@
             "open_issues": 25,
             "owner": "wxxsw",
             "repo": "VideoPlayer",
-            "stars": 777,
+            "stars": 776,
             "topics": [
               "avplayer",
               "player",
@@ -5155,7 +5155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T15:56:08.901Z",
+    "last_updated": "2026-11-17T16:08:03.404Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
@@ -5167,7 +5167,7 @@
       "open_issues": 4,
       "owner": "Toni77777",
       "repo": "awesome-swiftui-libraries",
-      "stars": 1551,
+      "stars": 1550,
       "topics": [
         "awesome",
         "frameworks",
