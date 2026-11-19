@@ -204,7 +204,7 @@
 
 [scroll to top](#readme)
 
-* [LocalConsole](https://github.com/duraidabdul/LocalConsole) ⭐ 829 | 🐛 8 | 🌐 Swift | 📅 2022-12-04 - In-app console and debug tools for iOS developers
+* [LocalConsole](https://github.com/duraidabdul/LocalConsole) ⭐ 828 | 🐛 8 | 🌐 Swift | 📅 2022-12-04 - In-app console and debug tools for iOS developers
 * [EnvironmentOverrides](https://github.com/nalexn/EnvironmentOverrides) ⭐ 341 | 🐛 3 | 🌐 Swift | 📅 2021-08-02 - QA assistant for a SwiftUI app: change the color scheme, accessibility settings, and localization on the fly!
 
 ## Extensions
@@ -285,7 +285,7 @@
 [scroll to top](#readme)
 
 * [MarkdownUI](https://github.com/gonzalezreal/MarkdownUI) ⭐ 3,938 | 🐛 62 | 🌐 Swift | 📅 2025-12-28 - Render Markdown text in SwiftUI
-* [Parma](https://github.com/dasautoooo/Parma) ⭐ 798 | 🐛 17 | 🌐 Swift | 📅 2021-12-24 - A SwiftUI view for displaying Markdown with customizable appearances.
+* [Parma](https://github.com/dasautoooo/Parma) ⭐ 797 | 🐛 17 | 🌐 Swift | 📅 2021-12-24 - A SwiftUI view for displaying Markdown with customizable appearances.
 * [SwiftDown](https://github.com/qeude/SwiftDown) ⚠️ Archived - A themable markdown editor component for your SwiftUI apps.
 * [MDText](https://github.com/Lambdo-Labs/MDText) ⚠️ Archived - s a markdown render library built in and for SwiftUI
 
@@ -363,7 +363,7 @@
 
 [scroll to top](#readme)
 
-* [PreviewView](https://github.com/theoriginalbit/PreviewView) ⭐ 146 | 🐛 0 | 🌐 Swift | 📅 2024-05-19 - Make use of SwiftUI Previews for UIKit
+* [PreviewView](https://github.com/theoriginalbit/PreviewView) ⭐ 145 | 🐛 0 | 🌐 Swift | 📅 2024-05-19 - Make use of SwiftUI Previews for UIKit
 * [Gala](https://github.com/finestructure/Gala) ⭐ 87 | 🐛 0 | 🌐 Swift | 📅 2020-08-21 - Create SwiftUI preview variants for macOS, iOS, tvOS, and watchOS with ease
 * [FigmaPreviewSwiftUI](https://github.com/eDeniska/figma-preview-swiftui) ⭐ 60 | 🐛 0 | 🌐 Swift | 📅 2021-05-21 - Figma component preview for your SwiftUI views
 * [ZeplinPreviewSwiftUI](https://github.com/eDeniska/figma-preview-swiftui) ⭐ 60 | 🐛 0 | 🌐 Swift | 📅 2021-05-21 - Zeplin component preview for your SwiftUI views
@@ -400,7 +400,7 @@
 
 [scroll to top](#readme)
 
-* [Verge](https://github.com/VergeGroup/Verge) ⭐ 811 | 🐛 10 | 🌐 Swift | 📅 2026-10-30 - Verge is a very tunable state-management engine on iOS App
+* [Verge](https://github.com/VergeGroup/Verge) ⭐ 810 | 🐛 10 | 🌐 Swift | 📅 2026-10-30 - Verge is a very tunable state-management engine on iOS App
 * [Pigeon](https://github.com/fmo91/Pigeon) ⭐ 433 | 🐛 13 | 🌐 Swift | 📅 2021-08-01 - Async state management for SwiftUI
 * [SwiftDux](https://github.com/StevenLambion/SwiftDux) ⭐ 152 | 🐛 2 | 🌐 Swift | 📅 2021-07-10 - Predictable state management for SwiftUI applications.
 
@@ -462,7 +462,7 @@
 
 [scroll to top](#readme)
 
-* [StepperView](https://github.com/badrinathvm/StepperView) ⭐ 1,364 | 🐛 12 | 🌐 Swift | 📅 2026-02-25 - SwiftUI iOS component for Step Indications.
+* [StepperView](https://github.com/badrinathvm/StepperView) ⭐ 1,365 | 🐛 12 | 🌐 Swift | 📅 2026-02-25 - SwiftUI iOS component for Step Indications.
 
 ## SVG
 
@@ -545,4 +545,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._

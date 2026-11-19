@@ -1588,7 +1588,7 @@
             "open_issues": 8,
             "owner": "duraidabdul",
             "repo": "LocalConsole",
-            "stars": 829,
+            "stars": 828,
             "topics": [
               "debugging",
               "swiftui",
@@ -2670,7 +2670,7 @@
             "open_issues": 17,
             "owner": "dasautoooo",
             "repo": "Parma",
-            "stars": 798,
+            "stars": 797,
             "topics": [
               "ios",
               "macos",
@@ -3465,7 +3465,7 @@
             "open_issues": 0,
             "owner": "theoriginalbit",
             "repo": "PreviewView",
-            "stars": 146,
+            "stars": 145,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -3775,7 +3775,7 @@
             "open_issues": 10,
             "owner": "VergeGroup",
             "repo": "swift-verge",
-            "stars": 811,
+            "stars": 810,
             "topics": [
               "data-driven",
               "dispatcher",
@@ -4369,7 +4369,7 @@
             "open_issues": 12,
             "owner": "badrinathvm",
             "repo": "StepperView",
-            "stars": 1364,
+            "stars": 1365,
             "topics": [
               "apple-watch",
               "carthage",
@@ -5080,7 +5080,7 @@
             "open_issues": 127,
             "owner": "TokamakUI",
             "repo": "Tokamak",
-            "stars": 2835,
+            "stars": 2834,
             "topics": [
               "data-binding",
               "dom",
@@ -5155,7 +5155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T15:44:47.246Z",
+    "last_updated": "2026-11-19T15:50:05.585Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
