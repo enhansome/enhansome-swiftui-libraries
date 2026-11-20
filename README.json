@@ -225,7 +225,7 @@
             "open_issues": 0,
             "owner": "Arvindcs",
             "repo": "SwiftUI-Animation",
-            "stars": 1076,
+            "stars": 1075,
             "topics": [
               "animated-dots",
               "cardview",
@@ -762,7 +762,7 @@
             "open_issues": 4,
             "owner": "rorodriguez116",
             "repo": "Camera-SwiftUI",
-            "stars": 266,
+            "stars": 265,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -1012,7 +1012,7 @@
             "open_issues": 2,
             "owner": "mecid",
             "repo": "SwiftUICharts",
-            "stars": 1575,
+            "stars": 1574,
             "topics": [
               "chart",
               "swiftui"
@@ -1036,7 +1036,7 @@
             "open_issues": 10,
             "owner": "spacenation",
             "repo": "swiftui-charts",
-            "stars": 813,
+            "stars": 812,
             "topics": [
               "apple",
               "charts",
@@ -1338,7 +1338,7 @@
             "open_issues": 18,
             "owner": "yannickl",
             "repo": "DynamicColor",
-            "stars": 3073,
+            "stars": 3072,
             "topics": [
               "color",
               "gradient",
@@ -1906,7 +1906,7 @@
             "open_issues": 15,
             "owner": "paololeonardi",
             "repo": "WaterfallGrid",
-            "stars": 2660,
+            "stars": 2661,
             "topics": [
               "ios",
               "macos",
@@ -1938,7 +1938,7 @@
             "open_issues": 4,
             "owner": "exyte",
             "repo": "Grid",
-            "stars": 2127,
+            "stars": 2129,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -2185,7 +2185,7 @@
             "open_issues": 15,
             "owner": "dmytro-anokhin",
             "repo": "url-image",
-            "stars": 1153,
+            "stars": 1152,
             "topics": [
               "ios",
               "macos",
@@ -2233,7 +2233,7 @@
             "open_issues": 12,
             "owner": "Jake-Short",
             "repo": "swiftui-image-viewer",
-            "stars": 499,
+            "stars": 498,
             "topics": [
               "image-viewer",
               "ios",
@@ -2403,7 +2403,7 @@
             "open_issues": 2,
             "owner": "chris-swift-dev",
             "repo": "AdvancedList",
-            "stars": 302,
+            "stars": 301,
             "topics": [
               "catalyst",
               "ios",
@@ -2642,7 +2642,7 @@
             "open_issues": 62,
             "owner": "gonzalezreal",
             "repo": "swift-markdown-ui",
-            "stars": 3938,
+            "stars": 3937,
             "topics": [
               "cmark",
               "commonmark",
@@ -2747,11 +2747,11 @@
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-11-17T13:55:46Z",
+            "last_commit": "2026-11-20T14:06:59Z",
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
-            "stars": 211,
+            "stars": 212,
             "topics": [
               "cartography",
               "geospatial",
@@ -3024,7 +3024,7 @@
             "open_issues": 11,
             "owner": "Bahn-X",
             "repo": "swift-composable-navigator",
-            "stars": 590,
+            "stars": 589,
             "topics": [
               "composition",
               "ios",
@@ -3367,7 +3367,7 @@
             "open_issues": 15,
             "owner": "jevonmao",
             "repo": "PermissionsSwiftUI",
-            "stars": 1578,
+            "stars": 1574,
             "topics": [
               "coding",
               "developer",
@@ -3639,7 +3639,7 @@
             "open_issues": 17,
             "owner": "heart",
             "repo": "CarBode-Barcode-Scanner-For-SwiftUI",
-            "stars": 304,
+            "stars": 303,
             "topics": [
               "barcode-generator",
               "barcode-scanner",
@@ -3775,7 +3775,7 @@
             "open_issues": 10,
             "owner": "VergeGroup",
             "repo": "swift-verge",
-            "stars": 810,
+            "stars": 811,
             "topics": [
               "data-driven",
               "dispatcher",
@@ -3880,7 +3880,7 @@
             "open_issues": 7,
             "owner": "nerdsupremacist",
             "repo": "FancyScrollView",
-            "stars": 1022,
+            "stars": 1021,
             "topics": [
               "app-store",
               "apple-music",
@@ -4052,7 +4052,7 @@
             "open_issues": 19,
             "owner": "lucaszischka",
             "repo": "BottomSheet",
-            "stars": 1249,
+            "stars": 1248,
             "topics": [
               "bottomsheet",
               "hacktoberfest",
@@ -4810,7 +4810,7 @@
             "open_issues": 32,
             "owner": "Mijick",
             "repo": "Popups",
-            "stars": 1803,
+            "stars": 1804,
             "topics": [
               "alert",
               "cocoapods",
@@ -4915,7 +4915,7 @@
             "open_issues": 1,
             "owner": "SimformSolutionsPvtLtd",
             "repo": "SSToastMessage",
-            "stars": 521,
+            "stars": 520,
             "topics": [
               "cocoapods",
               "custom-dropdown",
@@ -5080,7 +5080,7 @@
             "open_issues": 127,
             "owner": "TokamakUI",
             "repo": "Tokamak",
-            "stars": 2834,
+            "stars": 2833,
             "topics": [
               "data-binding",
               "dom",
@@ -5155,7 +5155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T15:50:05.585Z",
+    "last_updated": "2026-11-20T15:31:57.615Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
@@ -5167,7 +5167,7 @@
       "open_issues": 4,
       "owner": "Toni77777",
       "repo": "awesome-swiftui-libraries",
-      "stars": 1551,
+      "stars": 1552,
       "topics": [
         "awesome",
         "frameworks",
