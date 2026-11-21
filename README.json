@@ -471,7 +471,7 @@
             "open_issues": 1,
             "owner": "atrinh0",
             "repo": "buttoncraft",
-            "stars": 446,
+            "stars": 447,
             "topics": [
               "button-animation",
               "buttons",
@@ -5111,7 +5111,7 @@
             "open_issues": 33,
             "owner": "stleamist",
             "repo": "BetterSafariView",
-            "stars": 641,
+            "stars": 642,
             "topics": [
               "aswebauthenticationsession",
               "ios",
@@ -5155,7 +5155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T15:31:57.615Z",
+    "last_updated": "2026-11-21T14:43:49.347Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
@@ -5167,7 +5167,7 @@
       "open_issues": 4,
       "owner": "Toni77777",
       "repo": "awesome-swiftui-libraries",
-      "stars": 1552,
+      "stars": 1553,
       "topics": [
         "awesome",
         "frameworks",
