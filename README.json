@@ -158,7 +158,7 @@
             "id": 553564385,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-11-14T20:30:01Z",
+            "last_commit": "2026-11-22T12:16:09Z",
             "open_issues": 3,
             "owner": "davdroman",
             "repo": "swiftui-navigation-transitions",
@@ -446,7 +446,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "FloatingButton",
-            "stars": 1271,
+            "stars": 1272,
             "topics": [
               "swiftui",
               "swiftui-animations",
@@ -1649,7 +1649,7 @@
             "open_issues": 31,
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8200,
+            "stars": 8202,
             "topics": [
               "attributedstring",
               "backwards-compatibility",
@@ -2747,11 +2747,11 @@
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-11-20T14:06:59Z",
+            "last_commit": "2026-11-22T12:00:13Z",
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
-            "stars": 212,
+            "stars": 213,
             "topics": [
               "cartography",
               "geospatial",
@@ -3367,7 +3367,7 @@
             "open_issues": 15,
             "owner": "jevonmao",
             "repo": "PermissionsSwiftUI",
-            "stars": 1574,
+            "stars": 1575,
             "topics": [
               "coding",
               "developer",
@@ -4225,7 +4225,7 @@
             "open_issues": 1,
             "owner": "kieranb662",
             "repo": "Sliders-SwiftUI",
-            "stars": 744,
+            "stars": 745,
             "topics": [
               "colorpicker",
               "joystick",
@@ -4752,7 +4752,7 @@
             "id": 356590714,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-03T21:10:50Z",
+            "last_commit": "2026-11-22T12:06:32Z",
             "open_issues": 0,
             "owner": "davdroman",
             "repo": "swiftui-text-builder",
@@ -4952,7 +4952,7 @@
             "open_issues": 0,
             "owner": "sanzaru",
             "repo": "SimpleToast",
-            "stars": 489,
+            "stars": 490,
             "topics": [
               "ios",
               "macos",
@@ -5155,7 +5155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T14:43:49.347Z",
+    "last_updated": "2026-11-22T14:39:56.526Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
