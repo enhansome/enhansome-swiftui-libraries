@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "sparrowcode",
             "repo": "AlertKit",
-            "stars": 2641,
+            "stars": 2640,
             "topics": [
               "alert",
               "alert-controller",
@@ -120,10 +120,10 @@
             "language": "Swift",
             "license": "Unlicense",
             "last_commit": "2026-08-14T21:11:39Z",
-            "open_issues": 21,
+            "open_issues": 20,
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5695,
+            "stars": 5694,
             "topics": [
               "animations",
               "app-animations",
@@ -471,7 +471,7 @@
             "open_issues": 1,
             "owner": "atrinh0",
             "repo": "buttoncraft",
-            "stars": 447,
+            "stars": 446,
             "topics": [
               "button-animation",
               "buttons",
@@ -982,7 +982,7 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-03-02T08:41:42Z",
-            "open_issues": 96,
+            "open_issues": 95,
             "owner": "AppPear",
             "repo": "ChartView",
             "stars": 5647,
@@ -1338,7 +1338,7 @@
             "open_issues": 18,
             "owner": "yannickl",
             "repo": "DynamicColor",
-            "stars": 3072,
+            "stars": 3071,
             "topics": [
               "color",
               "gradient",
@@ -1429,7 +1429,7 @@
             "open_issues": 9,
             "owner": "simibac",
             "repo": "ConfettiSwiftUI",
-            "stars": 2477,
+            "stars": 2478,
             "topics": [
               "animation",
               "swiftui"
@@ -1938,7 +1938,7 @@
             "open_issues": 4,
             "owner": "exyte",
             "repo": "Grid",
-            "stars": 2129,
+            "stars": 2130,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -2150,7 +2150,7 @@
             "open_issues": 86,
             "owner": "SDWebImage",
             "repo": "SDWebImageSwiftUI",
-            "stars": 2564,
+            "stars": 2562,
             "topics": [
               "animated-webp",
               "apng",
@@ -2531,7 +2531,7 @@
             "open_issues": 4,
             "owner": "ninjaprox",
             "repo": "LoaderUI",
-            "stars": 247,
+            "stars": 246,
             "topics": [
               "animation",
               "animations",
@@ -2747,11 +2747,11 @@
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-11-22T12:00:13Z",
+            "last_commit": "2026-11-22T19:29:32Z",
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
-            "stars": 213,
+            "stars": 216,
             "topics": [
               "cartography",
               "geospatial",
@@ -2939,7 +2939,7 @@
             "open_issues": 24,
             "owner": "johnpatrickmorgan",
             "repo": "FlowStacks",
-            "stars": 973,
+            "stars": 972,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -2960,7 +2960,7 @@
             "open_issues": 44,
             "owner": "rundfunk47",
             "repo": "stinsen",
-            "stars": 954,
+            "stars": 953,
             "topics": [
               "coordinator",
               "coordinator-pattern",
@@ -2996,7 +2996,7 @@
             "open_issues": 12,
             "owner": "frzi",
             "repo": "swiftui-router",
-            "stars": 952,
+            "stars": 951,
             "topics": [
               "navigation",
               "path",
@@ -3178,7 +3178,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "ConcentricOnboarding",
-            "stars": 1571,
+            "stars": 1570,
             "topics": [
               "cocoapods",
               "ios",
@@ -3241,7 +3241,7 @@
             "open_issues": 12,
             "owner": "nachonavarro",
             "repo": "Pages",
-            "stars": 883,
+            "stars": 882,
             "topics": [
               "ios",
               "paging",
@@ -3639,7 +3639,7 @@
             "open_issues": 17,
             "owner": "heart",
             "repo": "CarBode-Barcode-Scanner-For-SwiftUI",
-            "stars": 303,
+            "stars": 302,
             "topics": [
               "barcode-generator",
               "barcode-scanner",
@@ -3775,7 +3775,7 @@
             "open_issues": 10,
             "owner": "VergeGroup",
             "repo": "swift-verge",
-            "stars": 811,
+            "stars": 810,
             "topics": [
               "data-driven",
               "dispatcher",
@@ -4140,7 +4140,7 @@
             "open_issues": 6,
             "owner": "nerdsupremacist",
             "repo": "Snap",
-            "stars": 794,
+            "stars": 793,
             "topics": [
               "drawer",
               "swiftui"
@@ -4255,7 +4255,7 @@
             "open_issues": 11,
             "owner": "Pyroh",
             "repo": "SlidingRuler",
-            "stars": 454,
+            "stars": 453,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -4336,10 +4336,10 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2023-10-26T00:59:16Z",
-            "open_issues": 6,
+            "open_issues": 5,
             "owner": "dkk",
             "repo": "WrappingHStack",
-            "stars": 563,
+            "stars": 562,
             "topics": [
               "swiftui",
               "swiftui-components"
@@ -4752,7 +4752,7 @@
             "id": 356590714,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-11-22T12:06:32Z",
+            "last_commit": "2026-11-23T13:22:12Z",
             "open_issues": 0,
             "owner": "davdroman",
             "repo": "swiftui-text-builder",
@@ -4783,7 +4783,7 @@
             "open_issues": 2,
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4062,
+            "stars": 4063,
             "topics": [
               "popup",
               "swiftui",
@@ -4886,7 +4886,7 @@
             "open_issues": 3,
             "owner": "quanshousio",
             "repo": "ToastUI",
-            "stars": 653,
+            "stars": 652,
             "topics": [
               "hud",
               "popup",
@@ -5080,7 +5080,7 @@
             "open_issues": 127,
             "owner": "TokamakUI",
             "repo": "Tokamak",
-            "stars": 2833,
+            "stars": 2832,
             "topics": [
               "data-binding",
               "dom",
@@ -5155,7 +5155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T14:39:56.526Z",
+    "last_updated": "2026-11-23T18:19:45.303Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
@@ -5167,7 +5167,7 @@
       "open_issues": 4,
       "owner": "Toni77777",
       "repo": "awesome-swiftui-libraries",
-      "stars": 1553,
+      "stars": 1552,
       "topics": [
         "awesome",
         "frameworks",
