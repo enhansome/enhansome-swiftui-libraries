@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "sparrowcode",
             "repo": "AlertKit",
-            "stars": 2640,
+            "stars": 2641,
             "topics": [
               "alert",
               "alert-controller",
@@ -162,7 +162,7 @@
             "open_issues": 3,
             "owner": "davdroman",
             "repo": "swiftui-navigation-transitions",
-            "stars": 1093,
+            "stars": 1094,
             "topics": [
               "animation",
               "native",
@@ -225,7 +225,7 @@
             "open_issues": 0,
             "owner": "Arvindcs",
             "repo": "SwiftUI-Animation",
-            "stars": 1075,
+            "stars": 1076,
             "topics": [
               "animated-dots",
               "cardview",
@@ -985,7 +985,7 @@
             "open_issues": 95,
             "owner": "AppPear",
             "repo": "ChartView",
-            "stars": 5647,
+            "stars": 5648,
             "topics": [
               "chart",
               "charts",
@@ -1906,7 +1906,7 @@
             "open_issues": 15,
             "owner": "paololeonardi",
             "repo": "WaterfallGrid",
-            "stars": 2661,
+            "stars": 2662,
             "topics": [
               "ios",
               "macos",
@@ -2150,7 +2150,7 @@
             "open_issues": 86,
             "owner": "SDWebImage",
             "repo": "SDWebImageSwiftUI",
-            "stars": 2562,
+            "stars": 2564,
             "topics": [
               "animated-webp",
               "apng",
@@ -2747,7 +2747,7 @@
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-11-22T19:29:32Z",
+            "last_commit": "2026-11-24T14:14:47Z",
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
@@ -3880,7 +3880,7 @@
             "open_issues": 7,
             "owner": "nerdsupremacist",
             "repo": "FancyScrollView",
-            "stars": 1021,
+            "stars": 1022,
             "topics": [
               "app-store",
               "apple-music",
@@ -4109,7 +4109,7 @@
             "open_issues": 7,
             "owner": "weitieda",
             "repo": "bottom-sheet",
-            "stars": 864,
+            "stars": 865,
             "topics": [
               "animation",
               "card",
@@ -4783,7 +4783,7 @@
             "open_issues": 2,
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4063,
+            "stars": 4065,
             "topics": [
               "popup",
               "swiftui",
@@ -5047,7 +5047,7 @@
             "open_issues": 25,
             "owner": "wxxsw",
             "repo": "VideoPlayer",
-            "stars": 777,
+            "stars": 778,
             "topics": [
               "avplayer",
               "player",
@@ -5155,7 +5155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T18:19:45.303Z",
+    "last_updated": "2026-11-24T17:52:11.532Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
