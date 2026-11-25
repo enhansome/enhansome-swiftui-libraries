@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "sparrowcode",
             "repo": "AlertKit",
-            "stars": 2641,
+            "stars": 2642,
             "topics": [
               "alert",
               "alert-controller",
@@ -1012,7 +1012,7 @@
             "open_issues": 2,
             "owner": "mecid",
             "repo": "SwiftUICharts",
-            "stars": 1574,
+            "stars": 1575,
             "topics": [
               "chart",
               "swiftui"
@@ -1649,7 +1649,7 @@
             "open_issues": 31,
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8202,
+            "stars": 8203,
             "topics": [
               "attributedstring",
               "backwards-compatibility",
@@ -2642,7 +2642,7 @@
             "open_issues": 62,
             "owner": "gonzalezreal",
             "repo": "swift-markdown-ui",
-            "stars": 3937,
+            "stars": 3938,
             "topics": [
               "cmark",
               "commonmark",
@@ -2751,7 +2751,7 @@
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
-            "stars": 216,
+            "stars": 217,
             "topics": [
               "cartography",
               "geospatial",
@@ -2860,7 +2860,7 @@
             "open_issues": 7,
             "owner": "FluidGroup",
             "repo": "swiftui-messaging-ui",
-            "stars": 90,
+            "stars": 91,
             "topics": [
               "chat",
               "messaging",
@@ -3178,7 +3178,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "ConcentricOnboarding",
-            "stars": 1570,
+            "stars": 1571,
             "topics": [
               "cocoapods",
               "ios",
@@ -3907,7 +3907,7 @@
             "open_issues": 4,
             "owner": "maxnatchanon",
             "repo": "trackable-scroll-view",
-            "stars": 228,
+            "stars": 229,
             "topics": [
               "hacktoberfest",
               "swiftui"
@@ -4783,7 +4783,7 @@
             "open_issues": 2,
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4065,
+            "stars": 4064,
             "topics": [
               "popup",
               "swiftui",
@@ -5017,7 +5017,7 @@
             "open_issues": 1,
             "owner": "SvenTiigi",
             "repo": "YouTubePlayerKit",
-            "stars": 985,
+            "stars": 986,
             "topics": [
               "ios",
               "macos",
@@ -5155,7 +5155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T17:52:11.532Z",
+    "last_updated": "2026-11-25T17:19:04.022Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
