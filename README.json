@@ -330,7 +330,7 @@
             "open_issues": 3,
             "owner": "twostraws",
             "repo": "Subsonic",
-            "stars": 373,
+            "stars": 372,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -720,7 +720,7 @@
             "open_issues": 37,
             "owner": "Mijick",
             "repo": "Camera",
-            "stars": 658,
+            "stars": 659,
             "topics": [
               "avfoundation",
               "camera",
@@ -870,7 +870,7 @@
             "open_issues": 4,
             "owner": "danielsaidi",
             "repo": "DeckKit",
-            "stars": 894,
+            "stars": 895,
             "topics": [
               "card",
               "deck",
@@ -2233,7 +2233,7 @@
             "open_issues": 12,
             "owner": "Jake-Short",
             "repo": "swiftui-image-viewer",
-            "stars": 498,
+            "stars": 497,
             "topics": [
               "image-viewer",
               "ios",
@@ -2506,7 +2506,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "ActivityIndicatorView",
-            "stars": 1677,
+            "stars": 1678,
             "topics": [
               "swiftui",
               "swiftui-components",
@@ -2642,7 +2642,7 @@
             "open_issues": 62,
             "owner": "gonzalezreal",
             "repo": "swift-markdown-ui",
-            "stars": 3938,
+            "stars": 3937,
             "topics": [
               "cmark",
               "commonmark",
@@ -2747,7 +2747,7 @@
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-11-24T14:14:47Z",
+            "last_commit": "2026-11-26T10:09:32Z",
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
@@ -4225,7 +4225,7 @@
             "open_issues": 1,
             "owner": "kieranb662",
             "repo": "Sliders-SwiftUI",
-            "stars": 745,
+            "stars": 746,
             "topics": [
               "colorpicker",
               "joystick",
@@ -4255,7 +4255,7 @@
             "open_issues": 11,
             "owner": "Pyroh",
             "repo": "SlidingRuler",
-            "stars": 453,
+            "stars": 454,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -4369,7 +4369,7 @@
             "open_issues": 12,
             "owner": "badrinathvm",
             "repo": "StepperView",
-            "stars": 1365,
+            "stars": 1366,
             "topics": [
               "apple-watch",
               "carthage",
@@ -4435,7 +4435,7 @@
             "open_issues": 1,
             "owner": "SimformSolutionsPvtLtd",
             "repo": "SSCustomTabbar",
-            "stars": 615,
+            "stars": 616,
             "topics": [
               "animatedtabbar",
               "customtabbar",
@@ -5155,7 +5155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T17:19:04.022Z",
+    "last_updated": "2026-11-26T16:59:22.714Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
@@ -5167,7 +5167,7 @@
       "open_issues": 4,
       "owner": "Toni77777",
       "repo": "awesome-swiftui-libraries",
-      "stars": 1552,
+      "stars": 1553,
       "topics": [
         "awesome",
         "frameworks",
