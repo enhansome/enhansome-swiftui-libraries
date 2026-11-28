@@ -15,7 +15,7 @@
             "id": 183909168,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-31T10:17:13Z",
+            "last_commit": "2026-11-28T10:38:37Z",
             "open_issues": 7,
             "owner": "sparrowcode",
             "repo": "AlertKit",
@@ -123,7 +123,7 @@
             "open_issues": 20,
             "owner": "amosgyamfi",
             "repo": "open-swiftui-animations",
-            "stars": 5696,
+            "stars": 5695,
             "topics": [
               "animations",
               "app-animations",
@@ -720,7 +720,7 @@
             "open_issues": 37,
             "owner": "Mijick",
             "repo": "Camera",
-            "stars": 659,
+            "stars": 660,
             "topics": [
               "avfoundation",
               "camera",
@@ -762,7 +762,7 @@
             "open_issues": 4,
             "owner": "rorodriguez116",
             "repo": "Camera-SwiftUI",
-            "stars": 265,
+            "stars": 266,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -1070,7 +1070,7 @@
             "open_issues": 11,
             "owner": "lludo",
             "repo": "SwiftSunburstDiagram",
-            "stars": 551,
+            "stars": 552,
             "topics": [
               "chart",
               "diagram",
@@ -1429,7 +1429,7 @@
             "open_issues": 9,
             "owner": "simibac",
             "repo": "ConfettiSwiftUI",
-            "stars": 2479,
+            "stars": 2476,
             "topics": [
               "animation",
               "swiftui"
@@ -1613,7 +1613,7 @@
             "open_issues": 3,
             "owner": "nalexn",
             "repo": "EnvironmentOverrides",
-            "stars": 341,
+            "stars": 340,
             "topics": [
               "accessibility",
               "dark-theme",
@@ -1649,7 +1649,7 @@
             "open_issues": 31,
             "owner": "SwiftUIX",
             "repo": "SwiftUIX",
-            "stars": 8204,
+            "stars": 8205,
             "topics": [
               "attributedstring",
               "backwards-compatibility",
@@ -1819,7 +1819,7 @@
             "open_issues": 0,
             "owner": "InvadingOctopus",
             "repo": "octopuskit",
-            "stars": 487,
+            "stars": 489,
             "topics": [
               "2d-game-engine",
               "components",
@@ -2147,7 +2147,7 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-02-25T06:43:20Z",
-            "open_issues": 86,
+            "open_issues": 87,
             "owner": "SDWebImage",
             "repo": "SDWebImageSwiftUI",
             "stars": 2565,
@@ -2642,7 +2642,7 @@
             "open_issues": 62,
             "owner": "gonzalezreal",
             "repo": "swift-markdown-ui",
-            "stars": 3938,
+            "stars": 3939,
             "topics": [
               "cmark",
               "commonmark",
@@ -2939,7 +2939,7 @@
             "open_issues": 24,
             "owner": "johnpatrickmorgan",
             "repo": "FlowStacks",
-            "stars": 972,
+            "stars": 971,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -3880,7 +3880,7 @@
             "open_issues": 7,
             "owner": "nerdsupremacist",
             "repo": "FancyScrollView",
-            "stars": 1022,
+            "stars": 1023,
             "topics": [
               "app-store",
               "apple-music",
@@ -4052,7 +4052,7 @@
             "open_issues": 19,
             "owner": "lucaszischka",
             "repo": "BottomSheet",
-            "stars": 1248,
+            "stars": 1247,
             "topics": [
               "bottomsheet",
               "hacktoberfest",
@@ -4573,7 +4573,7 @@
             "open_issues": 5,
             "owner": "MojtabaHs",
             "repo": "iPhoneNumberField",
-            "stars": 581,
+            "stars": 580,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.752Z"
@@ -5080,7 +5080,7 @@
             "open_issues": 127,
             "owner": "TokamakUI",
             "repo": "Tokamak",
-            "stars": 2832,
+            "stars": 2831,
             "topics": [
               "data-binding",
               "dom",
@@ -5155,7 +5155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T16:44:53.291Z",
+    "last_updated": "2026-11-28T15:37:40.209Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: Awesome SwiftUI Libraries ",
@@ -5167,7 +5167,7 @@
       "open_issues": 4,
       "owner": "Toni77777",
       "repo": "awesome-swiftui-libraries",
-      "stars": 1553,
+      "stars": 1554,
       "topics": [
         "awesome",
         "frameworks",
